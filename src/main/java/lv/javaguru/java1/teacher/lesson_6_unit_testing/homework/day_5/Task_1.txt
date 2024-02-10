@@ -1,0 +1,20 @@
+Uzrakstiet automātiskos testus ColourWaveDetector klasei
+kas ievieš metodi viļņa garuma pārvēršanai krāsas nosaukumā.
+
+ColourWaveDetector klase atrodas blakus šim uzdevuma failam.
+
+Lai pabeigtu uzdevumu, kopējiet ColourWaveDetector klasi savā pakotnē.
+
+Izveidojiet ColourWaveDetectorTest klasi un pievienojiet tai
+nepieciešamās pārbaudes metodes.
+
+Jāpārbauda visi iespējamie varianti!
+Katra opcija ir jāpārbauda atsevišķi viena no otras.
+
+Mērķi:
+- nostiprināt prasmi rakstīt automatizētus testus;
+- apmācības testa variantu ģenerēšanā;
+- trīs soļu atkārtošana, rakstot automatizētus testus:
+     testa datu sagatavošana,
+     izsaucot ražošanas kodu,
+     pārbaudot rezultātu.

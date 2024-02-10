@@ -1,0 +1,27 @@
+Uzrakstiet automātiskos testus klasei Algas nodokļa kalkulators
+kurā tiek īstenota nodokļa summas aprēķināšanas metode
+saskaņā ar šādiem noteikumiem:
+
+- līdz 10k eiro - nodoklis 30%;
+- no 10k līdz 50k eiro - nodoklis 40%;
+- virs 50k eiro - nodoklis 50%.
+
+Klase SalaryTaxCalculator atrodas blakus šim uzdevuma failam.
+
+Lai pabeigtu uzdevumu, kopējiet klasi SalaryTaxCalculator savā pakotnē.
+
+Izveidojiet klasi SalaryTaxCalculatorTest un pievienojiet tai
+nepieciešamās pārbaudes metodes.
+
+Pēc koda pārklāšanas ar automatizētiem testiem veiciet atkārtotu darbību
+kods -> ievietojiet formulas no katra if priekšraksta atsevišķās metodēs.
+Pēc refaktorēšanas pārliecinieties, vai visas automatizētās pārbaudes
+caurlaide.
+
+Mērķi:
+- nostiprināt prasmi rakstīt automatizētus testus;
+- apmācības testa variantu ģenerēšanā;
+- trīs soļu atkārtošana, rakstot automatizētus testus:
+     testa datu sagatavošana,
+     izsaucot ražošanas kodu,
+     pārbaudot rezultātu.

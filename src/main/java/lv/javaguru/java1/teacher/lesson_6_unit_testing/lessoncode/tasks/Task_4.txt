@@ -1,0 +1,18 @@
+Tiek noteiktas šādas uzņēmējdarbības prasības:
+
+- ja nosūtītais skaitlis dalās ar trīs, atgrieziet "Fizz"
+- ja nodotais skaitlis dalās ar pieci, atgriež "Buzz"
+- ja nosūtītais skaitlis dalās ar trīs un pieci, atgrieziet "FizzBuzz"
+- pretējā gadījumā atgriež pašu numuru kā virkni (padoms: atgriezt "" + skaitli)
+
+Programmētājs uzrakstīja FizzBuzz klasi (atrodas blakus šim uzdevuma failam).
+
+Tavs uzdevums: izveidot automatizētus testus FizzBuzz klasei.
+Atrodiet ieviešanas kļūdas, izmantojot automātiskos testus.
+Izlabojiet kļūdas ražošanas kodā un nodrošiniet, lai visas pārbaudes tiktu veiktas
+ir veiksmīgas.
+
+
+Mērķis:
+- parādīt, kā ģenerēt testa scenārijus atbilstoši biznesa prasībām;
+- parādīt kļūdu atrašanas procesu kodā, izmantojot testus.

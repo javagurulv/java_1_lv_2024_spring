@@ -1,0 +1,13 @@
+Programmētājs uzrakstīja AverageFinder klasi
+(atrodas blakus šim uzdevuma failam). Šī klase ievieš
+algoritms divu veselu skaitļu vidējā aritmētiskā atrašanai.
+
+Lai pabeigtu uzdevumu, kopējiet AverageFinder klasi savā pakotnē.
+
+Tavs uzdevums: izveidot automātiskos testus AverageFinder klasei.
+Atrodiet ieviešanas kļūdu, izmantojot automātiskos testus.
+Izlabojiet kļūdu ražošanas kodā un pārliecinieties, ka visas pārbaudes tiek veiktas
+ir veiksmīgas.
+
+Mērķis:
+- konsolidēt automatizēto testu izveides procesu.

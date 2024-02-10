@@ -1,0 +1,15 @@
+Uzrakstiet automātiskos testus MaxNumber klases metodei:
+
+    int findMax(int number1, int number2) {...}
+
+Lai to izdarītu, izveidojiet MaxNumberTest klasi un pievienojiet tai
+nepieciešamās pārbaudes metodes.
+
+
+Mērķi:
+- nostiprināt prasmi rakstīt automatizētus testus;
+- apmācības testa variantu ģenerēšanā;
+- trīs soļu atkārtošana, rakstot automatizētus testus:
+     testa datu sagatavošana,
+     izsaucot ražošanas kodu,
+     pārbaudot rezultātu.

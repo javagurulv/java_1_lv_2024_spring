@@ -1,0 +1,45 @@
+Uzrakstiet automātiskos testus klases metodei EvenNumber:
+
+    boolean isEven(int number) {...}
+
+Lai to izdarītu, izveidojiet klasi EvenNumberTest.
+
+Risinājuma izklāsts:
+
+class EvenNumberTest {
+
+    public static void main(String[] args) {
+        EvenNumberTest test = new EvenNumberTest();
+        test.shouldBeEven();
+        test.shouldNotBeEven();
+    }
+
+    public void shouldBeEven() {
+        EvenNumber evenNumber = new EvenNumber();
+        boolean isEven = evenNumber.isEven(10);
+        if (isEven) {
+            System.out.println("TEST IS OK!");
+        } else {
+            System.out.println("TEST IS FAIL!");
+        }
+    }
+
+    public void shouldNOtBeEven() {
+        EvenNumber evenNumber = new EvenNumber();
+        boolean notEven = evenNumber.isEven(11);
+        if (notEven) {
+            System.out.println("TEST IS OK!");
+        } else {
+            System.out.println("TEST IS FAIL!");
+        }
+    }
+}
+
+
+Mērķi:
+- iepazīties ar automatizēto testu rakstīšanu;
+- iemācīties ģenerēt testpiemērus;
+- trīs soļi automatizēta testa rakstīšanai:
+     testa datu sagatavošana,
+     izsaucot ražošanas kodu,
+     pārbaudot rezultātu.

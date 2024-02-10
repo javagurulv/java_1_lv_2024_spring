@@ -1,0 +1,19 @@
+Uzrakstiet automātiskos testus SquareEquation klasei
+kas realizē kvadrātvienādojuma sakņu aprēķināšanas metodes.
+SquareEquation klase atrodas blakus šim uzdevuma failam.
+
+Lai pabeigtu uzdevumu, iekopējiet SquareEquation klasi savā pakotnē.
+
+Izveidojiet klasi SquareEquationTest un pievienojiet tai
+nepieciešamās pārbaudes metodes.
+
+PS: visas publiskās metodes ir jātestē atsevišķi viena no otras!
+
+Mērķi:
+- pētīt dubulto datu tipu salīdzināšanu, rakstot kontroldarbus;
+- nostiprināt prasmi rakstīt automatizētus testus;
+- apmācības testa variantu ģenerēšanā;
+- trīs soļu atkārtošana, rakstot automatizētus testus:
+     testa datu sagatavošana,
+     izsaucot ražošanas kodu,
+     pārbaudot rezultātu.

@@ -1,0 +1,19 @@
+Uzrakstiet automatizētus testus PalindromeChecker klasei
+kurā tiek īstenota noteikšanas metode, ir
+vai stīga ir palindroms vai nav.
+
+PalindromeChecker klase atrodas blakus šim uzdevuma failam.
+
+Lai pabeigtu uzdevumu, kopējiet PalindromeChecker klasi savā pakotnē.
+
+Izveidojiet klasi PalindromeCheckerTest un pievienojiet tai
+nepieciešamās pārbaudes metodes.
+
+Mērķi:
+- izpētīt String datu tipu salīdzināšanu (equals() metode);
+- nostiprināt prasmi rakstīt automatizētus testus;
+- apmācības testa variantu ģenerēšanā;
+- trīs soļu atkārtošana, rakstot automatizētus testus:
+     testa datu sagatavošana,
+     izsaucot ražošanas kodu,
+     pārbaudot rezultātu.

@@ -1,0 +1,19 @@
+Uzrakstiet automatizētus testus klasei TriangleSquare
+kas realizē trīsstūra laukuma aprēķinu, izmantojot Herona formulu.
+
+Klase TriangleSquare atrodas blakus šim uzdevuma failam.
+
+Lai pabeigtu uzdevumu, iekopējiet TriangleSquare klasi savā pakotnē.
+
+Izveidojiet klasi TriangleSquareTest un pievienojiet tai
+nepieciešamās pārbaudes metodes.
+
+PS: abas publiskās metodes ir jātestē atsevišķi viena no otras!
+
+Mērķi:
+- nostiprināt prasmi rakstīt automatizētus testus;
+- apmācības testa variantu ģenerēšanā;
+- trīs soļu atkārtošana, rakstot automatizētus testus:
+     testa datu sagatavošana,
+     izsaucot ražošanas kodu,
+     pārbaudot rezultātu.

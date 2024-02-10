@@ -1,0 +1,24 @@
+Uzrakstiet automatizētus testus FactorialRecursion klasei
+kas realizē metodi faktoriāla aprēķināšanai, izmantojot rekursiju.
+
+FactorialRecursion klase atrodas blakus šim uzdevuma failam.
+
+Lai pabeigtu uzdevumu, kopējiet FactorialRecursion klasi savā pakotnē.
+
+Izveidojiet FactorialRecursionTest klasi un pievienojiet tai
+nepieciešamās pārbaudes metodes.
+
+Izmantojot testus, atrodiet kļūdu ražošanas kodā un izlabojiet to.
+Pēc kļūdas novēršanas pārliecinieties, vai visi testi ir izturējuši.
+
+Faktoru formulu var atrast šeit:
+https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB
+
+Mērķi:
+- kļūdu atrašana kodā, izmantojot testus;
+- nostiprināt prasmi rakstīt automatizētus testus;
+- apmācības testa variantu ģenerēšanā;
+- trīs soļu atkārtošana, rakstot automatizētus testus:
+     testa datu sagatavošana,
+     izsaucot ražošanas kodu,
+     pārbaudot rezultātu.

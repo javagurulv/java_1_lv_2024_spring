@@ -1,0 +1,10 @@
+Pastāstiet mums par testēšanas programmas kodu:
+- kāpēc pārbaudīt;
+- kā pārbaudīt;
+- atšķirība starp manuālo un automatizēto testēšanu.
+
+Parādiet veidu, kā rakstīt automatizētus testus bez
+izmantojot papildu bibliotēkas, piemēram, JUnit.
+
+Apsveriet testa datu jēdzienu, robežvērtības
+un testa scenāriji (pārbaudes gadījums).

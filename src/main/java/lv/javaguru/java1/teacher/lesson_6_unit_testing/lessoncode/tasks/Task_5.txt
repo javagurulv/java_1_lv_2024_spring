@@ -1,0 +1,20 @@
+Uzrakstiet automatizētus testus LeapYear klasei
+kurā būtu jārealizē noteikšanas algoritms, ir
+vai gads ir garais gads vai nav.
+
+Uzņēmējdarbības noteikumi, lai noteiktu, vai gads ir garais gads
+tiek doti LeapYear klasē.
+
+LeapYear klase atrodas blakus šim uzdevuma failam.
+
+Lai pabeigtu uzdevumu, kopējiet LeapYear klasi savā pakotnē.
+
+Izveidojiet LeapYearTest klasi, uzrakstiet algoritma testus
+noteikt, vai gads ir garais gads vai nē.
+Pēc kontroldarbu rakstīšanas,
+uzrakstiet metodes isLeapYear() implementāciju un pārliecinieties, ka viss
+tavi testi izturējuši.
+
+
+Mērķis:
+- testa scenāriju ģenerēšanas prakse atbilstoši biznesa prasībām.

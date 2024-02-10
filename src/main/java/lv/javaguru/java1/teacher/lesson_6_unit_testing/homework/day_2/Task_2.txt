@@ -1,0 +1,13 @@
+Programmētājs uzrakstīja klasi MaxOfThreeNumbers
+(atrodas blakus šim uzdevuma failam). Šī klase ievieš
+algoritms maksimālo trīs veselu skaitļu atrašanai.
+
+Lai pabeigtu uzdevumu, kopējiet MaxOfThreeNumbers klasi savā pakotnē.
+
+Jūsu uzdevums: izveidojiet automātiskos testus MaxOfThreeNumbers klasei.
+Atrodiet ieviešanas kļūdu, izmantojot automātiskos testus.
+Izlabojiet kļūdu ražošanas kodā un pārliecinieties, ka visas pārbaudes tiek veiktas
+ir veiksmīgas.
+
+Mērķis:
+- konsolidēt kļūdu atrašanas procesu kodā, izmantojot testus.
