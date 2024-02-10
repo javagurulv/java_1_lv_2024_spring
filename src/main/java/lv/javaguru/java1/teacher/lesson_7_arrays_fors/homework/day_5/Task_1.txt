@@ -1,0 +1,29 @@
+Jums ir uzdots veikt uzņēmuma algu saraksta analīzi.
+Ir masīvs, kurā ir katra uzņēmuma darbinieka alga
+(piemērs: {2500.0, 3200.0, 1800.0, 4000.0, 2900.0}).
+
+Jums jāaprēķina:
+- vispārējie izdevumi algām;
+- minimālā alga;
+- maksimālā alga;
+- vidējā alga.
+
+PS: kā papildu uzdevuma vienumu varat aprēķināt
+standarta novirze (sigma). Standarta aprēķins
+novirzes ļauj noteikt, cik daudz datu
+masīvā ir sadalīti attiecībā pret vidējo vērtību.
+Liela standarta novirze norāda uz lielu datu izplatību,
+un neliela standarta novirze nozīmē nelielu starpību.
+
+1. Atrodiet skaitļu masīva vidējo vērtību (vidējo aritmētisko).
+
+2. Katram skaitlim masīvā aprēķiniet skaitļa starpības kvadrātu
+    un vidējā vērtība.
+
+3. Atrodiet iegūto atšķirību kvadrātā vidējo vērtību.
+
+4. Ņemiet kvadrātsakni no vidējās vērtības,
+    saņemts 3. punktā.
+
+PS: mēģiniet noskaidrot, kāda ir standarta novirze (sigma)
+izmanto datu analīzē un statistikā.

@@ -1,0 +1,3 @@
+Pievienojiet klasei BookLibrary metodi, kas atgriež daudzumu
+grāmatas bibliotēkā. Pārbaudiet šo metodi ar
+automātiskie testi.

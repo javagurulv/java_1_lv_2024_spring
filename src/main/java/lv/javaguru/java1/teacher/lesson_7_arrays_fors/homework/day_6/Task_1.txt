@@ -1,0 +1,16 @@
+Jums ir uzdots veikt tiešsaistes veikala pārdošanas apjomu analīzi.
+
+Vadītājus interesē:
+- kura prece ir visvairāk pārdotā (pēc pārdoto vienību skaita);
+- kura prece nes lielāko apgrozījumu (pārdošanas ziņā).
+
+Liela daļa pārdošanas gadījumu tiek veikta tiešsaistes veikalā.
+Tāpēc šos datus nav iespējams manuāli analizēt.
+
+Jums ir jāraksta programma, kas to izdarīs cilvēka vietā.
+
+Dati programmai tiek nodrošināti pārdošanas objektu masīva veidā,
+kuras apraksta klase Sale (atrodas blakus uzdevumam).
+
+Izveidojiet programmu un pierādiet, ka tā darbojas pareizi, izmantojot
+automātiskie testi.

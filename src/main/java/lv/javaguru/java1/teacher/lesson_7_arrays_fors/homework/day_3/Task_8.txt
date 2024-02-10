@@ -1,0 +1,3 @@
+Klasei BookLibrary pievienojiet metodi grāmatas dzēšanai pēc nosaukuma,
+autors un izdošanas gads.
+Pārbaudiet šo metodi, izmantojot automātiskos testus.

@@ -1,0 +1,6 @@
+Pastāstiet mums par masīva datu struktūru:
+- kāpēc tas ir vajadzīgs;
+- kā dati tiek glabāti atmiņā;
+- kā ar viņiem strādāt.
+
+Runājiet par for cilpu un tās izmantošanu, strādājot ar masīviem.

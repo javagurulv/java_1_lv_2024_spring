@@ -1,0 +1,12 @@
+Izveidojiet metodi minimālā rezultāta noteikšanai
+skolēni, kuri nokārtoja matemātikas eksāmenu.
+
+Studentu atzīmes programmā ir norādītas kā veselu skaitļu masīvs.
+
+Demonstrējiet metodi, izmantojot automatizētus testus.
+
+
+Mērķi:
+- iepazīties ar masīva datu struktūru;
+- iepazīties ar masīva {} veidošanas metodi;
+- iepazīties ar for cilpu.

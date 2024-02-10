@@ -1,0 +1,15 @@
+Veikalam ir jāaprēķina kopējās pārdotās izmaksas
+preces un aprēķināt vidējo klienta rēķinu par vienu dienu.
+
+Ieejas programmai jāsaņem informācija no kases lentes
+objektu masīva veidā: kases čeks par dienu. Tas ir, masīvā
+Kases čeka veida priekšmeti ir jāuzglabā.
+
+Skaidras naudas saņemšanas objektu raksturo šādi rekvizīti:
+- čeka numurs;
+- pirkuma summa.
+
+Uzrakstiet programmu, kas aprēķina kopējo pārdošanas apjomu
+un vidējā pirkuma cena.
+
+Pārbaudiet savu rakstīto programmu, izmantojot automatizētus testus.

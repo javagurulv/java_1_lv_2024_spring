@@ -1,0 +1,2 @@
+Klasei BookLibrary pievienojiet metodi grāmatu meklēšanai pēc autora.
+Pārbaudiet šo metodi, izmantojot automātiskos testus.

@@ -1,0 +1,10 @@
+Atrodiet kļūdu programmā un izlabojiet to:
+(skaitļu mainīgajam ir jāattiecas uz baitu masīvu)
+
+class ArrayDefinition2 {
+
+    public static void main(String[] args) {
+        int numbers = new byte[10];
+    }
+
+}

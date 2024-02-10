@@ -1,0 +1,5 @@
+Izveidojiet grāmatu klasi, kurā aprakstīta grāmata.
+Grāmatai ir jābūt šādām īpašībām:
+- Vārds;
+- autors;
+- lappušu skaits.

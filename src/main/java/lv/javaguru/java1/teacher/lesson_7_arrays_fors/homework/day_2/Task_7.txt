@@ -1,0 +1,13 @@
+Izveidojiet RandomIntArray klasi.
+
+Klasē uzrakstiet metodi, kas izveido veselu skaitļu masīvu ar garumu 10
+elementi, pēc izveides masīvs jāaizpilda ar nejaušu
+skaitļi diapazonā no 0 līdz 100 un atgriežas kā rezultāts.
+
+Izveidojiet otru metodi blakus pirmajai, kas paredzēta drukāšanai
+veselu skaitļu masīvs uz konsoli.
+
+Demonstrējiet, kā šīs metodes darbojas, izveidojot RandomIntArrayApp klasi.
+Klases RandomIntArrayApp metodē main() izveidojiet izlases masīvu
+veselus skaitļus sauc par pirmo metodi un pēc tam izdrukājiet to konsolē
+izmantojot otro metodi.

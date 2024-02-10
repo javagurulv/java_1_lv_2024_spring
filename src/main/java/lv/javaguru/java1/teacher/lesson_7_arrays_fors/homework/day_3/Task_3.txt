@@ -1,0 +1,1 @@
+Pievienojiet metodi grāmatas pievienošanai bibliotēkai klasei BookLibrary.

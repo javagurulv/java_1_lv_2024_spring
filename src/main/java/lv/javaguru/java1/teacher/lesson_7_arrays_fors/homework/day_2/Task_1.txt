@@ -1,0 +1,11 @@
+Atrodiet programmā sintakses kļūdu un izlabojiet to:
+
+class ForLoopDefinition1 {
+
+    public static void main(String[] args) {
+        for (int i; i < 10; i++) {
+            System.out.println(i);
+        }
+    }
+
+}

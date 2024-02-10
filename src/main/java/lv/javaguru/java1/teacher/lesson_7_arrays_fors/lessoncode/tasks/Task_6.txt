@@ -1,0 +1,17 @@
+Izveidojiet metodi vidējā rezultāta aprēķināšanai
+skolēni, kuri nokārtoja matemātikas eksāmenu.
+
+Studentu atzīmes programmā ir norādītas kā veselu skaitļu masīvs.
+
+Demonstrējiet metodi, izmantojot automatizētus testus.
+
+PS: pēc metodes un tās testu uzrakstīšanas mēģiniet
+meklējiet veidu, kā vienkāršot kodu un, ja atrodat, dariet to
+pārstrukturēšana.
+
+
+Mērķi:
+- iepazīties ar masīva datu struktūru;
+- iepazīties ar masīva veidošanas metodi new int[];
+- iepazīt for cilpu;
+- iepazīties ar pārstrukturēšanas procedūru.

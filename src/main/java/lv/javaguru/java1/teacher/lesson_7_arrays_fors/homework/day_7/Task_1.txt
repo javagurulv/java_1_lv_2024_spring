@@ -1,0 +1,12 @@
+Jums ir uzdots analizēt ieguldījumu portfeli.
+Investīciju portfelī ietilpst akcijas. Katra akcija
+ko pārstāv Stock klase (atrodas blakus uzdevumam).
+Programmā investīciju portfelis tiek attēlots ar masīvu
+Stock klases objekti.
+
+Jums jāaprēķina:
+- kopējā portfeļa vērtība (visu aktīvu vērtības summa);
+- portfeļa vidējā atdeve.
+
+Izveidojiet programmu un pierādiet, ka tā darbojas pareizi, izmantojot
+automātiskie testi.

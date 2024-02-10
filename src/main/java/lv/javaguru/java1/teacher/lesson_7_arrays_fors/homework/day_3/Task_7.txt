@@ -1,0 +1,3 @@
+Pievienojiet skaitīšanas metodi klasei BookLibrary
+lappuses visās norādītā autora grāmatās.
+Pārbaudiet šo metodi, izmantojot automātiskos testus.

@@ -1,0 +1,10 @@
+Atrodiet kļūdu programmā un izlabojiet to:
+(skaitļu mainīgajam ir jāattiecas uz veselu skaitļu masīvu)
+
+class ArrayDefinition3 {
+
+    public static void main(String[] args) {
+        int[] numbers = new {1, 2, 3};
+    }
+
+}

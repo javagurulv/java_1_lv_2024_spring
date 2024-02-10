@@ -1,0 +1,11 @@
+Izveidojiet grāmatu bibliotēkas klasi, kas apraksta bibliotēku.
+
+Bibliotēkā glabājas grāmatas.
+
+Lai saglabātu grāmatas, izmantojiet saraksta datu struktūru:
+
+class BookLibrary {
+
+    private List<Book> books = new ArrayList();
+
+}

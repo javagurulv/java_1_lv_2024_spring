@@ -1,0 +1,13 @@
+Uzrakstiet metodi veselu skaitļu masīva izveidošanai
+garums 10 elementi un aizpildot to ar nullēm.
+
+Demonstrējiet metodi, izmantojot automatizētu testu.
+
+PS: pēc metodes un testu izveides padomājiet, kā to izdarīt
+Šī metode ir universālāka. Īsteno savu ideju
+izveidojot šīs metodes otro versiju. Pārbaudi to ar
+testiem.
+
+Mērķi:
+- iepazīties ar masīva datu struktūru;
+- Demonstrējiet for cilpas izmantošanu darbam ar masīvu.
