@@ -1,0 +1,60 @@
+BRĪDINĀJUMS: Klase neizmanto savas īpašības aprēķiniem!
+Ir divi jēdzieni: dati un algoritms.
+Tos var apvienot vienā klasē vai sadalīt pa dažādām klasēm.
+Ja tie ir apvienoti vienā klasē, tad algoritmam ir jāizmanto
+klases dati (īpašības).
+
+class Scorecard {
+
+    String studentName;
+    String studentLastName;
+    int mathMark;
+    int literatureMark;
+    int geographyMark;
+    int physicsMark;
+
+    public Scorecard(String studentName, String studentLastName, int mathMark, int literatureMark, int geographyMark, int physicsMark) {
+        this.studentName = studentName;
+        this.studentLastName = studentLastName;
+        this.mathMark = mathMark;
+        this.literatureMark = literatureMark;
+        this.geographyMark = geographyMark;
+        this.physicsMark = physicsMark;
+    }
+
+    public double findAverage(int mathMark, int literatureMark, int geographyMark, int physicsMark) {
+        return (mathMark + literatureMark + geographyMark + physicsMark) / (double) 4;
+    }
+
+}
+
+BETTER:
+
+class Scorecard {
+
+    String studentName;
+    String studentLastName;
+    int mathMark;
+    int literatureMark;
+    int geographyMark;
+    int physicsMark;
+
+    public Scorecard(String studentName,
+                     String studentLastName,
+                     int mathMark,
+                     int literatureMark,
+                     int geographyMark,
+                     int physicsMark) {
+        this.studentName = studentName;
+        this.studentLastName = studentLastName;
+        this.mathMark = mathMark;
+        this.literatureMark = literatureMark;
+        this.geographyMark = geographyMark;
+        this.physicsMark = physicsMark;
+    }
+
+    public double findAverageMark() {
+        return (this.mathMark + this.literatureMark + this.geographyMark + this.physicsMark) / (double) 4;
+    }
+
+}

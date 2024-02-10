@@ -1,0 +1,22 @@
+Uzrakstiet algoritmu, lai noteiktu vidējo vērtību
+divi veseli skaitļi. Īstenojiet algoritmu tā, lai tas būtu viegli
+atkārtoti izmantot (atkārtoti).
+
+PS: mājiens - ieviesiet algoritmu
+klasē Calculator kā metode.
+
+class Calculator {
+    boolean findAverage(int number1, int number2) { ... }
+}
+
+Vairākas reizes demonstrējiet algoritma izmantošanu.
+Lai to izdarītu, izveidojiet CalculatorApp klasi ar galveno (...) metodi,
+metodē main() izveidojiet klases Calculator gadījumu
+un vairākas reizes izsauciet metodi findAverage()
+izdrukājiet rezultātus konsolē.
+
+
+Mērķi:
+- apmācības metodes nosaukuma izstrādē;
+- ievades parametri -> apstrādes algoritms -> rezultāts;
+- algoritma realizācija metodes veidā.

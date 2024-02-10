@@ -1,0 +1,35 @@
+BRĪDINĀJUMS: slikts klases metožu nosaukums!
+Metodes nosaukumā mēģiniet izmantot darbības vārdu to
+norādiet darbību, kas tiek īstenota metodes ietvaros.
+
+Spēja veikt iekļauto mainīgo pārstrukturēšanu.
+Tā vietā:
+        double area = Math.PI * radius * radius;
+        return area;
+Izmanto:
+        return = Math.PI * radius * radius;
+
+
+class CirclePerimeterAreaCalculator {
+    public double CircleArea(double radius){
+        double area = Math.PI * radius * radius;
+        return area;
+    }
+
+    public double CirclePerimeter(double radius){
+        double perimeter = 2 * Math.PI * radius;
+        return perimeter;
+    }
+}
+
+BETTER:
+
+class CirclePerimeterAreaCalculator {
+    public double calculateArea(double radius){
+        return Math.PI * radius * radius;
+    }
+
+    public double calculatePerimeter(double radius){
+        return 2 * Math.PI * radius;
+    }
+}

@@ -1,0 +1,20 @@
+Izveidojiet klasi, kurā to ieviešat kā metodi
+šādas prasības:
+
+Ir nepieciešams izveidot algoritmu, lai pārvērstu veselu skaitli virknē
+saskaņā ar šādām prasībām:
+
+  - ja nosūtītais skaitlis dalās ar trīs, atgrieziet "Fizz"
+  - ja nodotais skaitlis dalās ar pieci, atgriež "Buzz"
+  - ja nosūtītais skaitlis dalās ar trīs un pieci, atgrieziet "FizzBuzz"
+  - pretējā gadījumā atgriež pašu numuru kā virkni (padoms: atgriezt "" + skaitli)
+
+Īstenojiet algoritmu tā, lai tas būtu iespējams
+viegli izmantot atkārtoti.
+
+Ieviešot, mēģiniet sadalīt risinājumu vairākās metodēs
+(padoms - atsevišķās metodēs ievietojiet nosacījumus, vai skaitlis dalās ar 3
+vai 5 bez atlikuma).
+
+Parādiet sava risinājuma izmantošanu ar vairākiem piemēriem,
+izdrukājiet rezultātus konsolē.

@@ -1,0 +1,20 @@
+Izstrādājiet programmu, kas darbojas
+saskaņā ar tālāk aprakstītajām prasībām.
+
+Funkcionālās prasības:
+Programmai vajadzētu noteikt krāsu atkarībā no
+viļņa garumā saskaņā ar šādiem noteikumiem:
+
+380 ... 449 - Violeta
+450 ... 494 - zils
+495 ... 569 — "zaļa"
+570 ... 589 — Dzeltens ("Dzeltens")
+590 ... 619 — "oranžs"
+620 ... 750 - Sarkans
+Ārpus diapazona — neredzams spektrs ("Invisible Light")
+
+Īstenojiet algoritmu tā, lai tas būtu iespējams
+viegli izmantot atkārtoti.
+
+Parādiet sava risinājuma izmantošanu ar vairākiem piemēriem,
+izdrukājiet rezultātus konsolē.

@@ -1,0 +1,5 @@
+Izveidojiet klasi, kurā to ieviešat kā metodi
+temperatūras pārveidotājs no grādiem pēc Celsija uz Fārenheitu un otrādi.
+
+Parādiet sava risinājuma izmantošanu ar vairākiem piemēriem,
+izdrukājiet rezultātus konsolē.

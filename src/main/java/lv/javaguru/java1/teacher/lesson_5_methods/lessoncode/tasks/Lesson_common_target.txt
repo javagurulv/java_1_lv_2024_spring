@@ -1,0 +1,12 @@
+Apsveriet datorprogrammu kā sistēmu,
+kam tiek piegādāti ievades parametri (dati),
+tas tos apstrādā (veic sava veida algoritmu)
+un dod rezultātu.
+
+Uzziniet metožu izveides sintaksi.
+
+Uzskatiet klases par mazām sistēmām (algoritmiem),
+kā algoritma iekapsulēšanas veidu.
+
+Iepazīsties ar automatizētajiem testiem un
+programmu testēšanas process (konsoles versija).

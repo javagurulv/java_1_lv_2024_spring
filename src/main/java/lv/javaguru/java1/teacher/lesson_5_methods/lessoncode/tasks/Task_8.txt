@@ -1,0 +1,8 @@
+Uzrakstiet metodi, lai, izmantojot konsoli, no lietotāja pieprasītu veselu skaitli.
+
+Uzrakstiet divas metodes versijas:
+- ar noklusējuma teksta uzvedni "Lūdzu, ievadiet numuru: ";
+- ar teksta mājienu, kuru var mainīt (izlaižot to cauri
+   metodes parametrs).
+
+Parādiet sava risinājuma izmantošanu ar vairākiem piemēriem.

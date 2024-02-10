@@ -1,0 +1,24 @@
+Izstrādājiet risinājumu sakņu atrašanas problēmai
+kvadrātvienādojumu, sadalot to atsevišķās metodēs.
+
+Padoms: risinājumā jāiekļauj:
+- diskriminanta atrašanas metode;
+- metode, kas atbild uz jautājumu, vai ir saknes
+   kvadrātvienādojums vai nē;
+- pirmās saknes atrašanas metode;
+- otrās saknes atrašanas metode.
+
+Ieviest metodes SquareEquation klasē.
+
+Izveidojiet SquareEquationApp klasi un tās galvenajā () metodē
+savāc pilnīgu problēmas risinājumu, izmantojot metodes
+no SquareEquation klases. Kvadrātvienādojuma parametri
+var pieprasīt no lietotāja, izmantojot konsoli vai
+izmantojiet to iepriekš noteiktās vērtības mainīgo formā
+(int a = 10; int b = 2; int c = 5).
+
+
+Mērķi:
+- demonstrēt uzdevuma sadalījumu apakšuzdevumos;
+- demonstrēt apakšuzdevumu izpildi metožu veidā;
+- demonstrēt apakšuzdevumu izmantošanu veselas problēmas risināšanā.

@@ -1,0 +1,12 @@
+Vidējās atzīmes aprēķināšana skolēna atskaites kartē.
+
+Skolēna atskaites karte ir priekšmets, izdomā, kā šis objekts izskatās.
+
+Uzrakstiet programmu, kas padod studenta atskaites kartes objektu
+un no tā tiek aprēķināts vidējais rezultāts.
+
+Īstenojiet algoritmu tā, lai tas būtu iespējams
+viegli izmantot atkārtoti.
+
+Parādiet sava risinājuma izmantošanu ar vairākiem piemēriem,
+izdrukājiet rezultātus konsolē.

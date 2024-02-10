@@ -1,0 +1,8 @@
+Izveidojiet klasi, kurā ieviešat kā metodes
+apļa laukuma un perimetra aprēķins.
+
+Īstenojiet algoritmu tā, lai tas būtu iespējams
+viegli izmantot atkārtoti.
+
+Parādiet sava risinājuma izmantošanu ar vairākiem piemēriem,
+izdrukājiet rezultātus konsolē.

@@ -1,0 +1,8 @@
+Izveidojiet klasi, kurā to ieviešat kā metodi
+aprēķina formula ir sarežģīta procentuālā daļa. Atrodiet pašu formulu internetā.
+
+Īstenojiet algoritmu tā, lai tas būtu iespējams
+viegli izmantot atkārtoti.
+
+Parādiet sava risinājuma izmantošanu ar vairākiem piemēriem,
+izdrukājiet rezultātus konsolē.

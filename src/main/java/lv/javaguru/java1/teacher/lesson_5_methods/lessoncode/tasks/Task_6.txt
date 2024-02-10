@@ -1,0 +1,10 @@
+Uzrakstiet algoritmu, lai aprēķinātu trīsstūra laukumu
+pēc Herona formulas. Ja iespējams, sadaliet risinājumu metodēs.
+
+Realizējiet risinājumu kā metodes klasē TriangleArea.
+
+Vairākas reizes demonstrējiet algoritma izmantošanu.
+Lai to izdarītu, izveidojiet TriangleAreaApp klasi ar main(...) metodi,
+metodē main() izveidojiet klases TriangleArea gadījumu
+un atrodiet vairāku trīsstūru laukumu,
+izdrukājiet rezultātus konsolē.

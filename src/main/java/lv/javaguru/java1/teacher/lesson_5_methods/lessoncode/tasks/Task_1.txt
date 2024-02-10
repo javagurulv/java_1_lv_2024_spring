@@ -1,0 +1,23 @@
+Uzrakstiet algoritmu, lai noteiktu, vai skaitlis ir pāra.
+Īstenojiet algoritmu tā, lai tas būtu viegli
+atkārtoti izmantot (atkārtoti).
+
+PS: mājiens - ieviesiet algoritmu
+klasē Calculator kā metode.
+
+class Calculator {
+     boolean irEven(int number) { ... }
+}
+
+Demonstrējiet algoritma izmantošanu vairāku skaitļu pārbaudei.
+Lai to izdarītu, izveidojiet CalculatorApp klasi ar galveno (...) metodi,
+metodē main() izveidojiet klases Kalkulators gadījumu
+un vairākas reizes izsauciet tās metodi isEven(), izdrukājiet
+iegūtos rezultātus uz konsoli.
+
+
+Mērķi:
+- aplūkot programmu kā mazu sistēmu;
+- ievades parametri -> apstrādes algoritms -> rezultāts;
+- algoritma realizācija metodes veidā;
+- iemācīties izsaukt izveidoto metodi.

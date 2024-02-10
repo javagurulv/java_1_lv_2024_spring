@@ -1,0 +1,23 @@
+Uzrakstiet algoritmu, lai noteiktu lielāko no trim veseliem skaitļiem.
+Īstenojiet algoritmu tā, lai tas būtu viegli
+atkārtoti izmantot (atkārtoti).
+
+PS: mājiens - ieviesiet algoritmu
+klasē (klases nosaukumu izdomā pats) metodes veidā.
+Izmantojiet metodi, lai atrastu maksimālo
+divi skaitļi, lai vienkāršotu risinājumu.
+
+class MaxNumber {
+    int findMax(int number1, int number2, int number3) { ... }
+}
+
+Vairākas reizes demonstrējiet algoritma izmantošanu.
+Lai to izdarītu, izveidojiet MaxNumberApp klasi ar galveno (...) metodi,
+izveidojiet MaxNumber klases gadījumu un izsauciet to vairākas reizes
+FindMax() metodi, izdrukājiet rezultātus konsolē.
+
+
+Mērķi:
+- aplūkot programmu kā mazu sistēmu;
+- ievades parametri -> apstrādes algoritms -> rezultāts;
+- algoritma realizācija metodes veidā.

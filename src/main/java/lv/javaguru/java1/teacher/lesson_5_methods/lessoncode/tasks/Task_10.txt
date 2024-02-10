@@ -1,0 +1,8 @@
+Uzrakstiet programmu, kas atgriež skaitļa faktoriālu.
+
+Izveidojiet faktoru metodi, kas pieņem veselu skaitli
+kā parametrs.
+
+Mēģiniet atrisināt problēmu, izmantojot cilpu un rekursiju.
+
+Parādiet sava risinājuma izmantošanu ar vairākiem piemēriem.
