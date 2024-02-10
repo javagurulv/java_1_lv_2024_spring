@@ -1,0 +1,4 @@
+Vai ir iespējams sarakstā (java.util.List) ievietot 1 miljonu objektu?
+Uzrakstiet programmas kodu, kas parāda atbildi uz šo jautājumu.
+
+PS: kā ar 1 miljardu?

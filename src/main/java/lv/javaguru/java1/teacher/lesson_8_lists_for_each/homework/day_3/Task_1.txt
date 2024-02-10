@@ -1,0 +1,3 @@
+Vai saraksts (java.util.List) var saglabāt to pašu
+elementi (dublikāti)?
+Uzrakstiet programmas kodu, kas parāda atbildi uz šo jautājumu.

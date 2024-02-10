@@ -1,0 +1,36 @@
+Pārskatīšanas sistēma
+
+Interneta veikals vēlas savā mājaslapā ieviest pārskatīšanas sistēmu.
+
+Ideja: interneta veikala apmeklētāji var atstāt atsauksmes par preci
+piedāvā interneta veikalā.
+
+Jums tiek lūgts izstrādāt šīs sistēmas konsoles prototipu
+pārbaudiet tā funkcionalitāti, pirms to ievietojat vietnē
+interneta veikals.
+
+Katrā pārskatā jāiekļauj:
+- Autors (niks)
+- Pārskatiet tekstu
+- Vērtējums (1–5)
+
+Sistēmai ir jāatļauj šādas darbības:
+- pievienojot jaunu apskatu;
+- atsauksmes dzēšana;
+- visu atsauksmju atgriešana par konkrēto produktu;
+- atrast augstāko vērtējumu konkrētai precei;
+- zemākā vērtējuma atrašana konkrētai precei;
+- atrast vidējo vērtējumu konkrētam produktam.
+
+Izstrādājiet iepriekš minēto sistēmu un demonstrējiet
+tā darbības pareizība, izmantojot automātiskos testus.
+
+Lai mijiedarbotos ar šo sistēmu, izmantojot konsoli, izveidojiet
+vienkārša konsoles UI (lietotāja interfeiss).
+
+Izstrādājot sistēmu, izmantojiet visus izstrādes posmus:
+- prasību un priekšmetu jomas analīze;
+- datu modeļa izvēle un attēlojums koda veidā;
+- biznesa loģikas izveide datu apstrādei;
+- UI izveide;
+- testēšana.

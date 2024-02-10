@@ -1,0 +1,26 @@
+Izveidojiet programmu: skolēna dienasgrāmata.
+
+Programmas mērķis ir pārvaldīt
+skolēnu atzīmes priekšmetos.
+
+Katram novērtējumam programmā ir jāsaglabā:
+- preces nosaukums;
+- pats vērtējums (vērtēšanai tiek izmantota 10 ballu sistēma).
+
+Programmai jāļauj veikt šādas darbības:
+- pievienot jaunu vērtējumu;
+- atrast maksimālo atzīmi priekšmetā;
+- atrast priekšmeta minimālo atzīmi;
+- aprēķināt mācību priekšmeta vidējo atzīmi;
+- aprēķināt kopējo vidējo atzīmi visiem priekšmetiem.
+
+
+Demonstrējiet programmas darbību, izmantojot automatizētus testus.
+
+Uzrakstiet konsoles UI (lietotāja interfeisu), lai programma varētu strādāt ar to.
+
+
+Mērķi:
+- iepazīties ar saraksta datu struktūru;
+- iepazīties ar sistēmas projektēšanas procesu (Design Thinking);
+- iepazīties ar UI (User Interface) jēdzienu.

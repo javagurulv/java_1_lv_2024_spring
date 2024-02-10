@@ -1,0 +1,30 @@
+Programmas funkcionalitātes paplašināšana: skolēna dienasgrāmata.
+
+Iedomājieties, ka esat biznesa analītiķis. Tavs uzdevums
+ir analizēt un formulēt paplašināšanas priekšlikumus
+iepriekšējā uzdevumā izstrādātās programmas funkcionalitāte
+"Skolnieka dienasgrāmata"
+
+Jums vajadzētu analizēt pašreizējās programmas iespējas
+un piedāvā īpašas iespējas funkcionalitātes paplašināšanai.
+
+Jums ir jāpamato katra jauna paplašinājuma uzņēmējdarbības vērtība,
+un arī aprakstiet biznesam draudzīgā valodā, kas būs jādara
+programmā, lai ieviestu katru no jūsu piedāvātajiem paplašinājumiem.
+
+Patiesam programmatūras inženierim ne tikai jāprot rakstīt kodu, bet
+un redzēt izstrādātā funkcionalitātes paplašināšanas iespējas
+programmas.
+
+Arī īstam programmatūras inženierim jāspēj aprakstīt
+iespējamās programmas funkcionalitātes uzlabošanas iespējas
+biznesam saprotamā valodā! Un prezentējiet tos biznesam šajā formā,
+lai viņš tevi saprastu. Šeit ir norādīti īpaši termini, kas saistīti ar programmatūru
+viņi jums nepalīdzēs; bizness tos nesaprot (un viņiem nevajadzētu tos saprast).
+Jums skaidri jāapraksta un jāizklāsta savas idejas
+biznesa termini no jūsu programmas priekšmeta jomas.
+
+Mērķi:
+- iepazīties ar biznesa analītiķa darbu;
+- mēģināt formulēt un aprakstīt paplašināšanas priekšlikumus
+   programmas funkcionalitāte uzņēmējiem saprotamā valodā.

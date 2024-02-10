@@ -1,0 +1,11 @@
+Lessoncode/Task_2.txt uzdevumā, kuru veidojāt un aprakstījāt
+iespējamie paplašinājumi programmai "Skolnieka dienasgrāmata".
+
+Šajā uzdevumā mēģiniet ieviest jūsu ieteiktos paplašinājumus.
+
+Atcerieties, ka katrai funkcijai ir:
+- datu modelis;
+- biznesa loģika;
+- UI (lietotāja interfeiss).
+
+PS: neaizmirstiet pārbaudīt savu biznesa loģiku!

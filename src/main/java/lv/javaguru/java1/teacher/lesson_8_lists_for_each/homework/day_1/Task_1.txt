@@ -1,0 +1,4 @@
+Ko var saglabāt java.util.List: primitīvi datu tipi
+vai objektu atsauces, vai abi?
+Uzrakstiet programmu, kurā varat izmantot kodu,
+lai parādītu atbildi uz jautājumu.

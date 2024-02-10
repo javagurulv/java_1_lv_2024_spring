@@ -1,0 +1,7 @@
+Klasē IntegerListDemo izveidojiet veselu skaitļu sarakstu.
+Parādiet, kā:
+- pievienojiet elementu sarakstam (sākumam un beigām)
+- uzzināt saraksta garumu
+- noņemt elementu no saraksta (ar vai bez indeksa)
+- noskaidrot, vai saraksts ir tukšs vai nē
+- pārejiet cauri sarakstam un izdrukājiet katru elementu konsolē.
