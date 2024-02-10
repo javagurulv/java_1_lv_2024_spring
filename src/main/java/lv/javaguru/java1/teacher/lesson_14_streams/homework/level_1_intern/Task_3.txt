@@ -1,0 +1,41 @@
+Zemniekam ļoti patika metode findGreenApples().
+Viņa nākamā prasība:
+atrodiet visus sarkanos ābolus savā noliktavā.
+
+Naiva pieeja ir izveidot findGreenApples() metodes kopiju
+tikai, lai atrastu sarkanos ābolus, atrodiet RedApples():
+
+class FruitStorage {
+
+    public List<Apple> findGreenApples(List<Apple> inventory) {
+        List<Apple> result = new ArrayList<>();
+        for(Apple apple : inventory) {
+            if("green".equals(apple.getColor())) {
+                result.add(apple);
+            }
+        }
+        return result;
+    }
+
+    public List<Apple> findRedApples(List<Apple> inventory) {
+        List<Apple> result = new ArrayList<>();
+        for(Apple apple : inventory) {
+            if("red".equals(apple.getColor())) {
+                result.add(apple);
+            }
+        }
+        return result;
+    }
+
+}
+
+Ko darīt, ja lauksaimnieks vēlas atrast citu krāsu ābolus:
+dzeltena, oranža, tumši sarkana un tā tālāk?
+
+Katru reizi kopēt vienu un to pašu kodu ir ļoti slikti
+programmatūras izstrādes stils.
+
+Vai ir labāks risinājums?
+
+Jā, man ir! Krāsu parametrēšana. Kopēšanas metožu vietā
+ievietojiet parametrā to ābolu krāsu, ko vēlaties atrast.

@@ -1,0 +1,3 @@
+Izveidojiet ApplePredicate implementāciju, lai atrastu smagos zaļos ābolus.
+
+Pārbaudiet FindApples() metodi ar savu jauno predikātu.

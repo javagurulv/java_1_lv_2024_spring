@@ -1,0 +1,5 @@
+Izveidojiet ApplePredicate interfeisa ieviešanu atlasītajiem:
+- zaļie āboli
+- sarkanie āboli
+- smagie āboli (> 150 g)
+- gaiši āboli (< 150 g)

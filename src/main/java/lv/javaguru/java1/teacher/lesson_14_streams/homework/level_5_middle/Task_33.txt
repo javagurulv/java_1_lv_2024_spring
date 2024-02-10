@@ -1,0 +1,13 @@
+Īstenojot uzdevumu no iepriekšējā uzdevuma, jūs ieguvāt šādu metodi. Īstenojot uzdevumu no iepriekšējā uzdevuma, jūs ieguvāt šādu metodi:
+
+public boolean isAnyTraderBasedOnMilan(List<Transaction> transactions) {
+    return transactions.stream()
+                       .anyMatch(transaction -> transaction.getTrader().getCity().equals("Milan"));
+}
+
+Iedomājieties, ka jums tika lūgts atrast atbildi
+uz jautājumu: vai tirgotāji strādā citās pilsētās:
+Kembridža, Londona utt. Katrai pilsētai tu
+vai tu uzrakstīsi savu metodi? Vai arī ir kāds vienkāršāks veids, kā to izdarīt?
+
+Kā padarīt isAnyTraderBasedOnMilan() metodi universālāku?

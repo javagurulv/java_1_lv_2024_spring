@@ -1,0 +1,16 @@
+Īstenojot uzdevumu no iepriekšējā uzdevuma, jūs nonācāt pie šādas metodes:
+
+public List<String> findTraderNamesFromCambridge(List<Transaction> transactions) {
+    return transactions.stream()
+                       .map(transaction -> transaction.getTrader())
+                       .map(trader -> trader.getCity())
+                       .filter(city -> city.equals("Cambridge"))
+                       .unique()
+                       .collect(toList());
+}
+
+Iedomājieties, ka jums tika lūgts atrast tirgotāju vārdus
+no citām pilsētām: Milānas, Londonas utt. Katrai pilsētai tu
+vai tu uzrakstīsi savu metodi? Vai arī ir kāds vienkāršāks veids, kā to izdarīt?
+
+Kā es varu padarīt findTraderNamesFromCambridge() metodi universālāku?

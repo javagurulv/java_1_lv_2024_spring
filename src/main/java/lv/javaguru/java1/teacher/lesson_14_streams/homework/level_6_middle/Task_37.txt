@@ -1,0 +1,13 @@
+Klasē TransactionAnalysisService
+uzrakstiet metodi, kas izmanto transakciju sarakstu kā ievadi
+un atgriež virkni ar tirgotāju vārdiem
+sakārtoti alfabētiskā secībā
+un atdalot ar komatu (piemērs: Alans, Braiens, Mario, Rauls).
+
+Uzrakstiet šīs metodes ieviešanu, izmantojot Stream API.
+Lai apvienotu tirgotāju vārdus virknē, izmantojiet
+Kolekcionāri.joining(",").
+
+Klasē TransactionAnalysisServiceTest ierakstiet izveidotās metodes testu.
+
+Testēšanai izmantojiet pārbaudes datus no klases TransactionTestData.

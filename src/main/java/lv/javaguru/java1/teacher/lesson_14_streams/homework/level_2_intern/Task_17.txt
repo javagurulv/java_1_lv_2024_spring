@@ -1,0 +1,5 @@
+Uzrakstiet testus visiem predikātiem, izmantojot lambda izteiksmes
+kā šis:
+
+List<Apple> redApples = filterApples(...,
+    (Apple apple) -> "red".equals(apple.getColor()));

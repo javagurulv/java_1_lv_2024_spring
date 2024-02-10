@@ -1,0 +1,33 @@
+Izveidojiet ApplePredicate interfeisa ieviešanu atlasītajiem:
+
+- zaļie āboli
+
+class AppleGreenColorPredicate implements ApplePredicate {
+    public boolean test (Apple apple) {
+        return "green".equals(apple.getColor));
+    }
+}
+
+- sarkanie āboli
+
+class AppleRedColorPredicate implements ApplePredicate {
+    public boolean test (Apple apple) {
+        return "red".equals(apple.getColor));
+    }
+}
+
+- smagie āboli (> 150 g)
+
+class AppleHeavyWeightPredicate implements ApplePredicate {
+    public boolean test (Apple apple) {
+        return apple.getWeight() > 150;
+    }
+}
+
+- gaiši āboli (< 150 g)
+
+class AppleLightWeightPredicate implements ApplePredicate {
+    public boolean test (Apple apple) {
+        return apple.getWeight() < 150;
+    }
+}

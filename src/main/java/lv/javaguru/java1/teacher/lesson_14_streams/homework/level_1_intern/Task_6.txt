@@ -1,0 +1,27 @@
+Lauksaimnieka prasība:
+būtu ļoti forši atšķirt gaišos ābolus no smagajiem.
+Smagie āboli parasti sver vairāk nekā 150 g.
+
+Izanalizējot lauksaimnieka prasības, jūs nolēmāt izveidot metodi
+findApplesByWeight(), kas atlasīs ābolus,
+kas sver vairāk par parametrā norādīto svaru.
+
+class FruitStorage {
+
+    public List<Apple> findApplesByWeight(List<Apple> inventory, int weight) {
+        List<Apple> result = new ArrayList<>();
+        for(Apple apple : inventory) {
+            if(apple.getWeight() > weight) {
+                result.add(apple);
+            }
+        }
+        return result;
+    }
+
+}
+
+Tas ir labs risinājums, taču pievērsiet uzmanību, kā vajadzētu
+dublēt lielāko daļu ieviešanas, lai šķērsotu ābolu sarakstu
+un katram ābolam piemērojot filtra kritērijus.
+Tas rada zināmu vilšanos, jo tas pārkāpj principu
+DRY (Neatkārtojiet sevi) programmatūra.

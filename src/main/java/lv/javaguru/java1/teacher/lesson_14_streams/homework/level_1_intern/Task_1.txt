@@ -1,0 +1,52 @@
+Plaši zināma problēma programmatūras izstrādē
+vai tas ir neatkarīgi no tā, ko jūs darāt,
+mainās lietotāju prasības.
+
+Piemēram, iedomājieties lietojumprogrammu, kas palīdz lauksaimniekam
+izpētīt tās rezerves.
+
+class Apple {
+
+    private String color;
+    private int weight;
+
+    public Apple (String color, int weight) {
+        this.color = color;
+        this.weight = weight;
+    }
+
+    public String getColor() {
+        return color;
+    }
+
+    public String getWeight() {
+        return weight;
+    }
+
+}
+
+class FruitStorage {
+
+    public List<Apple> getAllApples() {
+        List<Apple> apples = new ArrayList<>();
+        apples.add(new Apple("red", 100));
+        apples.add(new Apple("red", 160));
+        apples.add(new Apple("red", 200));
+        apples.add(new Apple("green", 200));
+        apples.add(new Apple("green", 90));
+        apples.add(new Apple("green", 50));
+        apples.add(new Apple("yellow", 50));
+        apples.add(new Apple("yellow", 170));
+        return apples;
+    }
+
+
+}
+
+Lauksaimnieka pirmā prasība:
+Atrodiet visus zaļos ābolus savā noliktavā.
+
+Klasē FruitStorage izveidojiet metodi šīs prasības ieviešanai.
+
+Izveidojiet klasi FruitStorageTest un uzrakstiet testu,
+pamatojoties uz datiem no FruitStorage.getAllApples().

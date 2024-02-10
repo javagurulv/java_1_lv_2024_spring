@@ -1,0 +1,14 @@
+Klasē TransactionAnalysisService
+uzrakstiet metodi, kas izmanto transakciju sarakstu kā ievadi
+un atgriež virkni ar unikāliem pilsētu nosaukumiem
+no kuriem tirgotāji strādā
+sakārtoti alfabētiskā secībā
+un atdalot ar komatu (piemēram, Kembridža, Milāna).
+
+Uzrakstiet šīs metodes ieviešanu, izmantojot Stream API.
+Lai apvienotu pilsētu nosaukumus virknē, izmantojiet
+Kolekcionāri.joining(",").
+
+Klasē TransactionAnalysisServiceTest ierakstiet izveidotās metodes testu.
+
+Testēšanai izmantojiet pārbaudes datus no klases TransactionTestData.

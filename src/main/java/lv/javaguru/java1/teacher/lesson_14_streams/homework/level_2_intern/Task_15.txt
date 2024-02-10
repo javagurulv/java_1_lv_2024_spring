@@ -1,0 +1,15 @@
+ApplePredicate interfeiss ir funkcionāls interfeiss.
+
+Programmā Java funkcionālais interfeiss ir tāds
+kam ir tikai viena metode.
+
+ApplePredicate saskarnei ir tikai viena testa() metode.
+Tāpēc tas ir funkcionāls interfeiss!
+
+Tas tiek izmantots, lai apzīmētu funkcionālās saskarnes Java
+@FunctionalInterface anotācija:
+
+@FunctionalInterface
+interface ApplePredicate {
+    boolean test (Apple apple);
+}

@@ -1,0 +1,34 @@
+Protams, katrai pilsētai izveidot jaunu metodi nav risinājums.
+Pārāk daudz pilsētu, pārāk daudz līdzīgu metožu.
+
+public boolean isAnyTraderBasedOnMilan(List<Transaction> transactions) {
+    return transactions.stream()
+                       .anyMatch(transaction -> transaction.getTrader().getCity().equals("Milan"));
+}
+
+public boolean isAnyTraderBasedOnLondon(List<Transaction> transactions) {
+    return transactions.stream()
+                       .anyMatch(transaction -> transaction.getTrader().getCity().equals("London"));
+}
+
+public boolean isAnyTraderBasedOnCambridge(List<Transaction> transactions) {
+    return transactions.stream()
+                       .anyMatch(transaction -> transaction.getTrader().getCity().equals("Cambridge"));
+}
+
+Lai padarītu šo metodi universālāku, varat to pievienot metodes parametram
+tās pilsētas nosaukums, pēc kuras jums ir jāmeklē un nedaudz jāmaina pašas metodes nosaukums:
+
+public boolean isAnyTraderBasedOnCity(List<Transaction> transactions, String cityToCheck) {
+    return transactions.stream()
+                       .anyMatch(transaction -> transaction.getTrader().getCity().equals(cityToCheck));
+}
+
+Tagad šo metodi var izsaukt šādos veidos:
+
+List<Transaction> transactions = TransactionTestData.getTransactions();
+boolean cambridgeBased = isAnyTraderBasedOnCity(transactions, "Cambridge");
+boolean londonBased = isAnyTraderBasedOnCity(transactions, "London");
+boolean milanBased = isAnyTraderBasedOnCity(transactions, "Milan");
+
+Izmantojiet testus, lai pierādītu, ka mūsu jaunā metode darbojas pareizi.

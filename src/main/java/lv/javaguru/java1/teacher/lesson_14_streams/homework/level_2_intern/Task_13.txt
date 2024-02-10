@@ -1,0 +1,15 @@
+Šajā brīdī, kad vēlaties nodot jaunu uzvedību
+metodē findApples() jūs esat spiests deklarēt
+vairākas klases, kas ievieš ApplePredicate saskarni,
+un pēc tam izveidojiet vairākus ApplePredicate objektu gadījumus,
+kuras lietojat tikai vienreiz, nododot tām garām kā
+parametru findApples() metodei.
+
+Būs jāraksta daudz koda un tas ir darbietilpīgs process!
+
+Vai ir labāks risinājums?
+
+Javai ir mehānisms, ko sauc par anonīmu klasi,
+kas ļauj vienlaikus deklarēt un izveidot klasi.
+Tas ļaus jums uzlabot savu kodu vēl vienu soli,
+padarot to nedaudz kodolīgāku.

@@ -1,0 +1,34 @@
+Anonīmās klases ir līdzīgas parastajām klasēm, par kurām jūs jau zināt Java.
+Bet anonīmajām klasēm nav nosaukuma. Tie ļauj paziņot un
+vienlaikus izveidot klases gadījumu. Citiem vārdiem sakot,
+tie ļauj izveidot pielāgotas implementācijas.
+
+List<Apple> redApples = filterApples(..., new ApplePredicate() {
+    public boolean test(Apple apple) {
+        return "red".equals(apple.getColor());
+    }
+});
+
+Kad veidojat anonīmu klasi, jūs izveidojat jaunu objektu
+(jauns ApplePredicate()) un paziņot par tā ieviešanu
+
+{
+    public boolean test(Apple apple) {
+        return "red".equals(apple.getColor());
+    }
+}
+
+tajā pašā laikā. Tā kā esat nodrošinājis pilnīgu ieviešanu
+(visu šajā saskarnē deklarēto metožu ieviešana mūsu
+gadījumā šis ir vienas metodes tests())
+interfeiss ApplePredicate, tad Java ļauj izveidot
+reālas klases gadījums, kas ievieš ApplePredicate saskarni.
+Šī klase būs anonīma (Java pati tai piešķirs nosaukumu), kopš
+jūs pats to nedarījāt (bet jūsu gadījumā tas nebija nepieciešams).
+
+Pārbaudēs mēģiniet uzrakstīt testus, kuros jūs veidojat
+anonīmas nodarbības meklēšanai:
+- zaļie āboli;
+- sarkanie āboli;
+- smagie āboli (> 150 g);
+- gaiši āboli (< 150 g).

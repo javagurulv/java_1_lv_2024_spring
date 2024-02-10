@@ -1,0 +1,15 @@
+Izveidojiet ApplePredicate implementāciju, lai atrastu smagos zaļos ābolus.
+
+class AppleGreenAndHeavyWeightPredicate implements ApplePredicate {
+    public boolean test (Apple apple) {
+        return "green".equals(apple.getColor())
+                && apple.getWeight() > 150;
+    }
+}
+
+Uzvedības parametru noteikšana ir lieliska, jo tā ļauj jums to izdarīt
+filtrēšanai ir jānodala kolekcijas iterācijas loģika (cilpai) un darbība,
+attiecas uz katru šīs kolekcijas elementu. Sekojoši,
+jūs varat atkārtoti izmantot to pašu metodi (findApples())
+un dažādu interfeisa implementāciju nodošana kā parametru
+ApplePredicate, lai panāktu atšķirīgu uzvedību.

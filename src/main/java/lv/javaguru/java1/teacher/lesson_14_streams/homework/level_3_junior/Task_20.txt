@@ -1,0 +1,14 @@
+Īstenojot uzdevumu no iepriekšējā uzdevuma, jūs nonācāt pie šādas metodes:
+
+public List<Transaction> findTransactionsIn2011(List<Transaction> transactions) {
+    return transactions.stream()
+                       .filter(t -> t.getYear() == 2011)
+                       .collect(toList());
+}
+
+Kā šo metodi padarīt universālāku?
+
+Padoms: šobrīd šī metode var atrast tikai darījumus
+izdarīts 2011. gadā. Iedomājieties, ka jums tiek lūgts visu atrast
+darījumi, kas veikti 2010., 2012., 2013. u.c. Par katru gadu jūs
+vai tu uzrakstīsi savu metodi? Vai arī ir kāds vienkāršāks veids, kā to izdarīt?

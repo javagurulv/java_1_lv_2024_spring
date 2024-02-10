@@ -1,0 +1,31 @@
+Ko darīt, ja lauksaimnieks vēlas atrast citu krāsu ābolus:
+dzeltena, oranža, tumši sarkana un tā tālāk?
+
+Katru reizi kopēt vienu un to pašu kodu ir ļoti slikti
+programmatūras izstrādes stils.
+
+Vai ir labāks risinājums?
+
+Jā, man ir! Apple krāsu parametrēšana. Kopēšanas metožu vietā
+ievietojiet parametrā to ābolu krāsu, ko vēlaties atrast.
+
+class FruitStorage {
+
+    public List<Apple> findApplesByColor(List<Apple> inventory, String color) {
+        List<Apple> result = new ArrayList<>();
+        for(Apple apple : inventory) {
+            if(apple.getColor().equals(color)) {
+                result.add(apple);
+            }
+        }
+        return result;
+    }
+
+}
+
+Tagad ar šo metodi varat meklēt dažādu krāsu ābolus:
+List<Apple> greenApples = filterApplesByColor(inventory, "green");
+List<Apple> redApples = filterApplesByColor(inventory, "red");
+
+Izmantojiet testus, lai pārbaudītu, vai filtra ApplesByColor() metode
+darbojas pareizi.

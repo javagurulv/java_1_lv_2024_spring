@@ -1,0 +1,10 @@
+Klasē TransactionAnalysisService
+uzrakstiet metodi, kas izmanto transakciju sarakstu kā ievadi
+un atrod visus unikālos gadus, kuros tika veikti darījumi,
+(gadus nevajadzētu atkārtot).
+
+Uzrakstiet šīs metodes ieviešanu, izmantojot Stream API.
+
+Klasē TransactionAnalysisServiceTest ierakstiet izveidotās metodes testu.
+
+Testēšanai izmantojiet pārbaudes datus no klases TransactionTestData.

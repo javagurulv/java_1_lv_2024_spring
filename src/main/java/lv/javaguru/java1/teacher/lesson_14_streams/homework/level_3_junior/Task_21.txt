@@ -1,0 +1,38 @@
+Protams, katram gadam izveidot jaunu metodi nav risinājums.
+Pārāk daudz gadu, pārāk daudz līdzīgu metožu.
+
+public List<Transaction> findTransactionsIn2011(List<Transaction> transactions) {
+    return transactions.stream()
+                       .filter(t -> t.getYear() == 2011)
+                       .collect(toList());
+}
+
+public List<Transaction> findTransactionsIn2012(List<Transaction> transactions) {
+    return transactions.stream()
+                       .filter(t -> t.getYear() == 2012)
+                       .collect(toList());
+}
+
+public List<Transaction> findTransactionsIn2013(List<Transaction> transactions) {
+    return transactions.stream()
+                       .filter(t -> t.getYear() == 2013)
+                       .collect(toList());
+}
+
+Lai padarītu šo metodi universālāku, varat to pievienot metodes parametram
+gads, līdz kuram jums ir jāmeklē un nedaudz jāmaina metodes nosaukums:
+
+public List<Transaction> findTransactionsByYear(List<Transaction> transactions, int year) {
+    return transactions.stream()
+                       .filter(t -> t.getYear() == year)
+                       .collect(toList());
+}
+
+Tagad šo metodi var izsaukt šādos veidos:
+
+List<Transaction> transactions = TransactionTestData.getTransactions();
+List<Transaction> transactions2011 = findTransactionsByYear(transactions, 2011);
+List<Transaction> transactions2012 = findTransactionsByYear(transactions, 2012);
+List<Transaction> transactions2013 = findTransactionsByYear(transactions, 2013);
+
+Izmantojiet testus, lai pierādītu, ka mūsu jaunā metode darbojas pareizi.

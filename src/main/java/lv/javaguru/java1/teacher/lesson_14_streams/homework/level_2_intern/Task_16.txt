@@ -1,0 +1,31 @@
+Piemērs ar anonīmu klasi:
+
+List<Apple> redApples = filterApples(..., new ApplePredicate() {
+    public boolean test(Apple apple) {
+        return "red".equals(apple.getColor());
+    }
+});
+
+
+Tas pats piemērs, tikai ar lambda izteiksmi:
+
+List<Apple> redApples = filterApples(...,
+    (Apple apple) -> "red".equals(apple.getColor()));
+
+Lambda izteiksme ļauj noņemt ar reklāmu saistīto kodu
+anonīmu klasi un tādējādi ievērojami samazināt mūsu kodu.
+
+Lambda izteiksme izmanto funkcionālās saskarnes jēdzienu.
+Lambda izteiksmi var izmantot visur, kur tā tiek izmantota
+funkcionāls interfeiss.
+
+Sastādot lambda kodu, izteiksme tiek pārveidota par anonīmu
+klase, un kods ir lambda izteiksme ("sarkans".equals(apple.getColor()))
+kura vietā kļūst par funkcionālās saskarnes metodes pamattekstu
+Izmantotā lambda izteiksme:
+
+List<Apple> redApples = filterApples(..., new ApplePredicate() {
+    public boolean test(Apple apple) {
+        return "red".equals(apple.getColor());  // <- тело лямбда выражения
+    }
+});

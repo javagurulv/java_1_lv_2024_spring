@@ -1,0 +1,25 @@
+Lauksaimnieka prasība:
+Meklējiet ābolus pēc krāsas un svara kopā vai atsevišķi.
+
+Tas nozīmē, ka lauksaimnieks vēlas:
+- meklējiet ābolus tikai pēc krāsas;
+- meklējiet ābolus tikai pēc svara;
+- meklējiet ābolus pēc krāsas un svara kopā.
+
+Varbūt nākotnē āboliem var būt jaunas īpašības,
+piemēram, glabāšanas laiks. Par šiem īpašumiem zemnieks arī gribēs
+veiciet meklēšanu, apvienojot tos dažādās kombinācijās ar jau ieviestajām kombinācijām
+īpašības: krāsa un svars.
+
+Iespējamais risinājums ir modelēt atlases kritērijus:
+tu strādā ar āboliem un atgriezies
+Būla vērtība, kas balstīta uz dažiem Apple atribūtiem
+(piemēram, vai tas ir zaļš vai smagāks par 150 g?).
+To sauc par predikātu (tas ir, funkciju, kas atgriež
+Būla vērtība).
+
+Definēsim interfeisu atlases kritēriju modelēšanai:
+
+interface ApplePredicate {
+    boolean test (Apple apple);
+}

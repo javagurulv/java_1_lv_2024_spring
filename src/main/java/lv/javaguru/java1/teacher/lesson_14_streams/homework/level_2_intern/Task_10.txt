@@ -1,0 +1,27 @@
+Bet kā mēs varam izmantot dažādas ApplePredicate implementācijas?
+Mums ir nepieciešama filterApples() metode ar ApplePredicate parametru
+lai pārbaudītu apstākļus. Šī ir uzvedības parametrizācija:
+spēja pateikt metodi, lai pieņemtu vairākas uzvedības
+(vai stratēģijas) kā parametrus un tos izmantoja
+iekšēji, lai panāktu atšķirīgu uzvedību.
+
+class FruitStorage {
+
+    public List<Apple> findApples(List<Apple> inventory, ApplePredicate p) {
+        List<Apple> result = new ArrayList<>();
+        for(Apple apple : inventory) {
+            if(p.test(apple)) {
+                result.add(apple);
+            }
+        }
+        return result;
+    }
+
+}
+
+Uzrakstiet metodes findApples() testus, kuros
+pārbaudiet metodi ar dažādiem predikātiem:
+- findApples(...., new AppleGreenColorPredicate());
+- findApples(...., new AppleRedColorPredicate());
+- findApples(...., new AppleHeavyWeightPredicate());
+- findApples(...., new AppleLightWeightPredicate());

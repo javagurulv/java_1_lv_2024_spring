@@ -1,0 +1,14 @@
+Klasē TransactionAnalysisService
+uzrakstiet metodi, kas izmanto transakciju sarakstu kā ievadi
+un atgriež lielāko vērtību no visiem darījumiem.
+
+Īstenojot šo metodi, jautājiet sev, ko
+šī metode ir jāatgriež, ja tiek ievadīta informācija
+tukšs darījumu saraksts? Mēģiniet to izdarīt
+lai metode atgrieztu Optional <Integer>.
+
+Uzrakstiet šīs metodes ieviešanu, izmantojot Stream API.
+
+Klasē TransactionAnalysisServiceTest ierakstiet izveidotās metodes testu.
+
+Testēšanai izmantojiet pārbaudes datus no klases TransactionTestData.
