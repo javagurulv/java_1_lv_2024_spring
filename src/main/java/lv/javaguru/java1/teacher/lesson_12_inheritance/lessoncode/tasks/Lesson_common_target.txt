@@ -1,0 +1,7 @@
+Runājiet par mantošanu Java valodā.
+
+Pastāstiet mums par objektu klasi.
+
+Runājiet par ignorēšanas metodēm (piemērs toString()).
+
+Parādiet polimorfismu darbībā.

@@ -1,0 +1,12 @@
+Shape klases hierarhijas izveide (ģeometriskā figūra).
+
+Izveidojiet CircleTest klasi un ierakstiet tajā Circle klases testus.
+
+
+class CircleTest {
+
+    // напишите тесты для метода calculateArea()
+
+    // напишите тесты для метода calculatePerimeter()
+
+}

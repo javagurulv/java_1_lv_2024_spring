@@ -1,0 +1,7 @@
+Shape klases hierarhijas izveide (ģeometriskā figūra).
+
+Izveidojiet Shape klases pēcteci - klasi Square.
+Ieviesiet tajā abstraktās metodes no klases
+Forma: aprēķinietArea() un aprēķinietPerimetru().
+
+Izveidojiet klasi SquareTest un ierakstiet tajā Square klases testus.

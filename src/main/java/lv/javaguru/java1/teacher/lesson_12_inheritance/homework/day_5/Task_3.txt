@@ -1,0 +1,7 @@
+Izveidojiet palīdzības kodu Shape hierarhijai.
+
+Klasē ShapeUtil ieviesiet metodi:
+
+    Rectangle createRandomRectangle();
+
+Ar šo metodi jāizveido taisnstūris ar nejauši izvēlētām malām.

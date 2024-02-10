@@ -1,0 +1,2 @@
+Izveidojiet saskarni (Shape) un rīkojieties šādi:
+lai visas ģeometrisko figūru klases to īstenotu.

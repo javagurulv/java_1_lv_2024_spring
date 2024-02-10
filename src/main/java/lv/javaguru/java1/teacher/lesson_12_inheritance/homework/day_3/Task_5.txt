@@ -1,0 +1,23 @@
+Izlabojiet programmas kodu, lai tā tiktu kompilēta.
+Automašīnas klasi nevar mainīt. ElectricCar un PetrolCar klases var mainīt.
+ElectricCar un PetrolCar klasēm ir jāmanto no Car klases.
+
+
+abstract class Car {
+
+    abstract void accelerate();
+
+}
+
+class ElectricCar extends Car {
+
+    private int batteryCharge;
+
+
+}
+
+class PetrolCar extends Car {
+
+    private double petrolTankCapacity;
+
+}

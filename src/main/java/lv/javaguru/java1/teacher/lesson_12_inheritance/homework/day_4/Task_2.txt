@@ -1,0 +1,24 @@
+Shape klases hierarhijas izveide (ģeometriskā figūra).
+
+Izveidojiet Shape klases pēcteci - Circle klasi.
+Ieviesiet tajā abstraktās metodes no klases
+Forma: aprēķinietArea() un aprēķinietPerimetru().
+
+PS: mājiens - nepieciešamās vērtības priekš
+aprēķināt platību un perimetru, iesniegt iekšā
+klase, izmantojot konstruktoru.
+
+class Circle extends Shape {
+
+    private double radius;
+
+    Circle(String title, double radius) {
+        super(title);
+        this.radius = radius;
+    }
+
+    // реализуйте метод calculateArea()
+
+    // реализуйте метод calculatePerimeter()
+
+}

@@ -1,0 +1,20 @@
+Kas ir abstraktā klase?
+
+Vai programmas darbības laikā ir iespējams izveidot abstraktas klases gadījumu?
+
+Izveidojiet klasi AbstractClass un klases komentārā
+uzrakstiet atbildes uz uzdotajiem jautājumiem:
+
+/*
+     Uzrakstiet šeit savas atbildes uz jautājumiem.
+
+     Kas ir abstraktā klase?
+     Tava atbilde.
+
+     Vai programmas darbības laikā ir iespējams izveidot abstraktas klases gadījumu?
+     Tava atbilde.
+*/
+
+abstract class AbstractClass {
+
+}

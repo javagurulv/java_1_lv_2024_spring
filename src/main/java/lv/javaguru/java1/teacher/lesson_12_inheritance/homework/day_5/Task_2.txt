@@ -1,0 +1,7 @@
+Izveidojiet palīdzības kodu Shape hierarhijai.
+
+Klasē ShapeUtil ieviesiet metodi:
+
+    Square createRandomSquare();
+
+Ar šo metodi jāizveido kvadrāts ar nejauši izvēlētu sānu garumu.

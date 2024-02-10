@@ -1,0 +1,8 @@
+Klients vēlas, lai viņš varētu nosaukt vārdus
+katra ģeometriskā figūra. Nosaukums ir
+brīvais teksts ("Trīsstūris 1", "Aplis 3", ...).
+
+Pēc ģeometriskas figūras izveidošanas jums ir nepieciešams
+varētu iegūt tā nosaukumu.
+
+Kā mēs atrisināsim šo problēmu?

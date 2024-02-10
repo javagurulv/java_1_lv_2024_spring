@@ -1,0 +1,8 @@
+Klients lūdz programmai pievienot iespēju saglabāt
+visas izveidotās ģeometriskās formas programmas atmiņā
+lai tos izmantotu nākotnē.
+
+Nākotnē klients vēlas aprēķināt platību un perimetru
+visiem saglabātajiem skaitļiem.
+
+Kā mēs uzglabāsim ģeometriskās formas?

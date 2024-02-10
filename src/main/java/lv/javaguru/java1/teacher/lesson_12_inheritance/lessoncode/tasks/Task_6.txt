@@ -1,0 +1,5 @@
+Aizstāt atsevišķus ģeometrisko formu sarakstus
+one list List<Shape> + labojiet skaitīšanas kodu
+perimetra un laukuma summa.
+
+Vai kods ir kļuvis vieglāks?

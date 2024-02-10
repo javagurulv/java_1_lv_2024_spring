@@ -1,0 +1,14 @@
+Vienkāršs risinājums iepriekšējai problēmai: Virknes nosaukuma rekvizīts
+katrā ģeometrisko figūru klasē.
+
+Trūkums ir koda dublēšanās.
+
+Labākais risinājums ir abstrakta klase.
+
+Mēs izveidojam abstraktu klasi un mantojam no tās.
+
+Virknes nosaukuma rekvizītu mēs pārnesam uz abstrakto klasi.
+
+Problēmas risināšana ar klases konstruktoriem.
+
+Pārveidosim Shape interfeisu par abstraktu klasi.

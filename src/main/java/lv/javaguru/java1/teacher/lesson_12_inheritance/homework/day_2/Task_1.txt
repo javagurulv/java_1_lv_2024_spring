@@ -1,0 +1,22 @@
+Kas ir daudzkārtēja mantošana programmēšanā?
+
+Vai Java ir atļauta vairākkārtēja mantošana?
+
+
+Labojiet programmas kodu:
+
+class Mother {
+
+}
+
+class Father {
+
+}
+
+class Child extends Mother, Father {
+
+}
+
+PS: Jūs varat veikt izmaiņas tikai bērna klases deklarācijā.
+Bērnu klasei ir jābūt nepārprotami mantotai no vienas vai divām klasēm
+(Māte un tēvs). Šai problēmai ir divi pareizi risinājumi, izvēlieties jebkuru.

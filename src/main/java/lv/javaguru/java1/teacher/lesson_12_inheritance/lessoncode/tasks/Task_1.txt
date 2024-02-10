@@ -1,0 +1,12 @@
+Mums tika uzdots izveidot programmu, ar kuru strādāt
+ģeometriskās formas.
+
+Klients vēlas, lai ar mūsu programmu strādātu
+kvadrāts, taisnstūris un aplis.
+
+Klients vēlas programmā izveidot ģeometriskas formas
+un aprēķināt to perimetru un laukumu.
+
+Ko mēs darām?
+
+PS: vai mēs veidojam klases un ieviešam tajās metodes?

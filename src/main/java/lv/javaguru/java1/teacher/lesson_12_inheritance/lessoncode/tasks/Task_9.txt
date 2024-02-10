@@ -1,0 +1,2 @@
+Parunāsim par objektu klasi un mantojuma hierarhiju
+nodarbības Java valodā.

@@ -1,0 +1,3 @@
+Klients lūdz izveidot mūsu programmas konsoles lietotāja interfeisu
+kurā viņš vēlas spēt radīt atšķirīgus
+ģeometriskas figūras.

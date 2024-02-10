@@ -1,0 +1,8 @@
+Shape klases hierarhijas izveide (ģeometriskā figūra).
+
+Izveidojiet klases Shape pēcteci - klasi Trijstūris.
+Šai klasei jāatspoguļo vienādmalu trīsstūris.
+Ieviesiet tajā abstraktās metodes no klases
+Forma: aprēķinietArea() un aprēķinietPerimetru().
+
+Izveidojiet TriangleTest klasi un ierakstiet tajā Triangle klases testus.

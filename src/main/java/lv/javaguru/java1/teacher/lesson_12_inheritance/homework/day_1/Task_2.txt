@@ -1,0 +1,9 @@
+Vai klasē ir nepieciešams izveidot noklusējuma konstruktoru?
+(noklusējuma konstruktors)
+vai arī Java automātiski to pievienos, sastādot kodu?
+
+Atbildi uz jautājumu ar piemēra kodu!
+
+Lai to izdarītu, izveidojiet DefaultConstructorV2 klases
+un DefaultConstructorV2Demo, kurā rakstīt
+kods, kas ir atbilde uz uzdoto jautājumu.

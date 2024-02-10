@@ -1,0 +1,9 @@
+Labojiet programmas kodu:
+
+class Person extend Object {
+
+
+}
+
+PS: šajā uzdevumā Personu klasei ir jābūt nepārprotami mantotai
+no klases Object, pareizi uzrakstiet mantojumu.

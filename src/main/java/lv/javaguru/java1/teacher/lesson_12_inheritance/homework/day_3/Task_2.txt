@@ -1,0 +1,6 @@
+Izlabojiet programmas kodu, lai tā tiktu kompilēta.
+LoanSystem klasei jāpaliek abstraktai.
+
+abstracts class LoanSystem {
+
+}

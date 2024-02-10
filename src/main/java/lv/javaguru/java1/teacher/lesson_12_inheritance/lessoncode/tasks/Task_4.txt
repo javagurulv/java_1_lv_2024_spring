@@ -1,0 +1,7 @@
+Aprēķiniet visu ģeometrisko formu perimetru summu.
+
+Aprēķiniet visu ģeometrisko formu laukumu summu.
+
+PS: kāda veida kodu jūs saņēmāt? Trīs saraksti, trīs cilpām?
+
+Vai ir kāds labāks variants? Kā ar saskarni (formu)?

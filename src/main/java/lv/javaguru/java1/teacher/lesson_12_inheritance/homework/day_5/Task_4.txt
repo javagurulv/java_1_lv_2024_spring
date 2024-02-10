@@ -1,0 +1,8 @@
+Izveidojiet palīdzības kodu Shape hierarhijai.
+
+Klasē ShapeUtil ieviesiet metodi:
+
+    Triangle createRandomTriangle();
+
+Ar šo metodi jāizveido vienādmalu trīsstūris
+ar nejauši izvēlētu sānu garumu.

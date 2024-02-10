@@ -1,0 +1,9 @@
+Kas ir noklusējuma konstruktors
+vai kā to sauc arī par noklusējuma konstruktoru?
+Šis ir bezparametru konstruktors, kura korpuss ir tukšs.
+
+Izveidojiet DefaultConstructor klasi un tajā
+skaidri deklarēt noklusējuma konstruktoru.
+
+Izveidojiet DefaultConstructorDemo klasi un demonstrējiet zvanu
+noklusējuma konstruktors no DefaultConstructor klases metodē main().

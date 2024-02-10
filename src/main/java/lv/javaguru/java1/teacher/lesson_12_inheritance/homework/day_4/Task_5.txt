@@ -1,0 +1,7 @@
+Shape klases hierarhijas izveide (ģeometriskā figūra).
+
+Izveidojiet klases Shape pēcteci - klasi Taisnstūris.
+Ieviesiet tajā abstraktās metodes no klases
+Forma: aprēķinietArea() un aprēķinietPerimetru().
+
+Izveidojiet klasi RectangleTest un ierakstiet tajā klases Taisnstūra testus.

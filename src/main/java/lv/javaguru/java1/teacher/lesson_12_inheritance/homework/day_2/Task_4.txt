@@ -1,0 +1,22 @@
+Veiciet izmaiņas programmas kodā šādi:
+lai jūs varētu izveidot ComputerPlayer klases gadījumu.
+
+ComputerPlayer klasei ir jāmanto no Player klases.
+Koda izmaiņas var veikt tikai ComputerPlayer klasē.
+
+Demonstrējiet ComputerPlayer klases instances izveidi
+izveidojot ComputerPlayerDemo klasi un deklarējot tajā galveno() metodi.
+
+class Player {
+
+    private String name;
+
+    Player(String name) {
+        this.name = name;
+    }
+
+}
+
+class ComputerPlayer {
+
+}

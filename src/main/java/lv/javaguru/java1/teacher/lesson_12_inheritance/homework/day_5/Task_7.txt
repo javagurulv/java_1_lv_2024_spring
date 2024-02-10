@@ -1,0 +1,8 @@
+Izveidojiet palīdzības kodu Shape hierarhijai.
+
+Klasē ShapeUtil ieviesiet metodi:
+
+    double calculatePerimeter(Shape[] shapes);
+
+Izmantojot šo metodi, jāaprēķina kopējais perimetrs
+ģeometriskās formas no masīva tika nodotas kā parametrs.

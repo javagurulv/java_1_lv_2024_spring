@@ -1,0 +1,24 @@
+Kādas vērtības klases rekvizīti izmanto pēc noklusējuma?
+(objektu atsauces un primitīvi datu tipi)
+izsaucot noklusējuma konstruktoru (noklusējuma konstruktoru)?
+
+Izveidojiet DefaultConstructorV3 klasi:
+
+class DefaultConstructorV3 {
+
+    private String fullName;
+    private int age;
+    private boolean male;
+    private Boolean female;
+
+    // создайте get() методы для каждого свойства
+
+}
+
+Izveidojiet klasi DefaultConstructorV3Demo, kurā
+Main() metodes iekšpusē parādiet atbildi uz doto
+uzdevuma sākumā ir jautājums. Lai to izdarītu, pēc noklusējuma izsaukšanas
+klases DefaultConstructorV3 konstruktors un instantiācija
+izdrukājiet katra izveidotā īpašuma vērtības
+iestādes atsevišķā rindā. Lai iegūtu īpašuma vērtības
+izmantojiet atbilstošās get() metodes.

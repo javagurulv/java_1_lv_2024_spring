@@ -1,0 +1,9 @@
+Izveidojiet palīdzības kodu Shape hierarhijai.
+
+Izveidojiet ShapeUtil klasi.
+
+Klasē ShapeUtil ieviesiet metodi:
+
+    Circle createRandomCircle();
+
+Izmantojot šo metodi, ir jāizveido aplis ar nejaušu rādiusu.
