@@ -1,0 +1,5 @@
+Izveidojiet klasi WrongUserInputHandlingDemo
+un šīs klases metodē main() ierakstiet kodu, kas
+- jautā lietotājam vesels skaitlis
+- ja lietotājs ievada nevis skaitli, bet virkni, programmai ir jāziņo
+   lietotājam par pieļauto kļūdu un lūgt vēlreiz ievadīt veselo skaitli.

@@ -1,0 +1,12 @@
+Vai mēģinājuma noķeršanas bloks ir uzrakstīts pareizi? Vai kods tiks apkopots?
+
+try {
+
+} catch (Exception e) {
+
+} catch (ArithmeticException a) {
+
+}
+
+Izveidojiet MultiCatchExample klasi un tās main() metodē
+ieliec pareizo try catch bloku un raksti skaidrojumu komentāros.

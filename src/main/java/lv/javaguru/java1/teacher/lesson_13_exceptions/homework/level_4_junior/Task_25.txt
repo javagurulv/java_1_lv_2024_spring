@@ -1,0 +1,6 @@
+Uzrakstiet programmu, kas avarē, izmantojot OutOfMemoryError.
+
+Padoms: izveidojiet daudz objektu, tikai nezaudējiet atsauces uz tiem.
+Piemēram, ievietojiet daudzus objektus sarakstā.
+
+JVM atmiņa nav neierobežota!

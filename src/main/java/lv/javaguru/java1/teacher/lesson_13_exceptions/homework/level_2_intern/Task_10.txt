@@ -1,0 +1,41 @@
+BankClient klasei vajadzētu izskatīties šādi:
+
+class BankClient {
+
+    private String uid;
+    private String fullName;
+
+    public BankClient(String uid, String fullName) {
+        this.uid = uid;
+        this.fullName = fullName;
+    }
+
+    public String getUid() {
+        return this.uid;
+    }
+
+    public String getFullName() {
+        return this.fullName;
+    }
+}
+
+Ir pienācis laiks izveidot saskarni mūsu API.
+Kāpēc mēs sākam īstenot uzdevumu ar saskarni?
+Tā kā saskarne ļaus mums skaidri noteikt robežas
+mūsu nākotnes lēmums. Interfeisā mēs varēsim skaidri norādīt
+kādu funkcionalitāti mēs piedāvājam (metožu nosaukumi),
+kādus ievades parametrus mēs pieņemam un ko dodam rezultātā.
+
+Izveidojiet BankApi saskarni:
+
+interface BankApi {
+
+    Optional<BankClient> findByUid(UserCredentials credentials, String uid);
+
+}
+
+Metodei findByUid() ir jāatgriež (“mest”) kļūda
+ja nodotie akreditācijas dati nesatur lomu.CAN_SEARCH_CLIENTS lomu.
+
+Veiciet nepieciešamās izmaiņas BankApi saskarnē,
+lai īstenotu iepriekš aprakstīto prasību.

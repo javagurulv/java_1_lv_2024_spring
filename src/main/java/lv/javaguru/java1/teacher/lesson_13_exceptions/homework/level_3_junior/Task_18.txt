@@ -1,0 +1,4 @@
+Izveidojiet NullPointerExceptionDemo klasi
+un šīs klases metodē main () ierakstiet kodu,
+kā rezultātā rodas NullPointerException.
+Rakstiet komentāros, kad notiek NullPointerException.

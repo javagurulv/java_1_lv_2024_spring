@@ -1,0 +1,13 @@
+Teorētiski un praktiski klientiem var būt dažādas tiesības
+un vienam klientam var būt daudz dažādu lomu.
+
+Lai aprakstītu piekļuves tiesības, kuras to dara
+Pieprasot banku sistēmai, izveidojiet UserCredentials klasi:
+
+class UserCredentials {
+
+    private List<Role> roles;
+
+    // izveidojiet klases konstruktoru, kurā iegūstat lomu sarakstu
+
+}

@@ -1,0 +1,3 @@
+Izmantojiet Java dokumentāciju (javadoc)
+un atrodiet informāciju par klases java.lang.RuntimeException
+mantojuma hierarhiju.

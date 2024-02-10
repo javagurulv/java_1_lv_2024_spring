@@ -1,0 +1,12 @@
+Ievads kļūdu klasēs.
+
+Java dokumentācijā (javadoc) atrodiet, kam tie tiek izmantoti.
+šādas kļūdas:
+- ArrayIndexOutOfBoundsException
+- IllegalArgumentException
+- IOException
+- StackOverflowError
+- OutOfMemoryError
+- NumberFormatException
+
+Ierakstiet savu atbildi teksta failā.

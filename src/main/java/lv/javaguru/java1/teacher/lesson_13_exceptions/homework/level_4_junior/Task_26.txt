@@ -1,0 +1,5 @@
+Uzrakstiet programmu, kas avarē ar StackOverflowError.
+
+Padoms: izsauciet metodi rekursīvi (paši).
+
+JVM atmiņa nav neierobežota!

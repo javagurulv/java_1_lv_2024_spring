@@ -1,0 +1,10 @@
+Veiciet izmaiņas kodā, lai tiktu parādīts kļūdas ziņojums
+nodot vecāku klases konstruktoram.
+
+class MyException extends Exception {
+
+    public MyException(String message) {
+
+    }
+
+}

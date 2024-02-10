@@ -1,0 +1,18 @@
+Lai aprakstītu kļūdu, kas norāda, ka lietotājam nav
+tiesības izsaukt metodi findByUid(), jums ir jāizveido sava kļūdu klase:
+
+class AccessDeniedException extends Exception {
+
+}
+
+Un interfeisā mainiet metodes findByUid() parakstu šādi:
+
+interface BankApi {
+
+    Optional<BankClient> findByUid(UserCredentials credentials,
+                                   String uid) throws AccessDeniedException;
+
+}
+
+Tagad no metodes paraksta izriet, ka šī metode var
+atgriezt (“iemest”) AccessDeniedException tipa kļūdu.

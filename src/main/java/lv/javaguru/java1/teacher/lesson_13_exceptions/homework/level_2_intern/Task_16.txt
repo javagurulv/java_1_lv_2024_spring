@@ -1,0 +1,29 @@
+Neliels koda uzlabojums (refaktorings).
+
+Kā šo nosacījumu var vienkāršot?
+
+credentials.getRoles().contains(Role.CAN_SEARCH_CLIENTS)
+
+Šīs pārbaudes dati ir lomu saraksts, kas atrodas
+UserCredentials klasē:
+
+class UserCredentials {
+
+    private List<Role> roles;  // šis saraksts
+
+    // lai šajā klasē varētu izveidot vienkāršu metodi
+    public boolean hasRole(Role role) {
+        return roles.contains(role);
+    }
+
+}
+
+Pēc šī kods
+
+credentials.getRoles().contains(Role.CAN_SEARCH_CLIENTS)
+
+var aizstāt ar
+
+credentials.hasRole(Role.CAN_SEARCH_CLIENTS)
+
+Neliels uzlabojums, taču piekritīsiet, ka šāda koda lasīšana ir daudz jaukāka un vienkāršāka.

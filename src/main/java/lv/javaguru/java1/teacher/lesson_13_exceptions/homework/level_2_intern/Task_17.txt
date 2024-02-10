@@ -1,0 +1,6 @@
+Kāpēc mūsu gadījumā klasei AccessDeniedException
+vai labāk ir mantot no Exception, nevis RuntimeException?
+
+class AccessDeniedException extends Exception {
+
+}

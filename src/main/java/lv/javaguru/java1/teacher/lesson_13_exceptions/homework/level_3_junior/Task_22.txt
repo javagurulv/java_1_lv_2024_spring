@@ -1,0 +1,9 @@
+Kura klase Java ir galvenā kļūdu klašu hierarhijā?
+
+1. Raise
+
+2. Exception
+
+3. Error
+
+4. Throwable

@@ -1,0 +1,13 @@
+Lai aprakstītu bankas klientus, datiem, kuriem vēlamies piešķirt piekļuvi,
+izveidot BankClient klasi:
+
+class BankClient {
+
+    private String uid;      // unikāls klienta identifikators
+    private String fullName; // klienta pilns vārds
+
+    // izveidojiet klases konstruktoru, kurā saņemsiet norādīto rekvizītu vērtības
+
+    // izveido get() metodes katram no īpašībām
+
+}

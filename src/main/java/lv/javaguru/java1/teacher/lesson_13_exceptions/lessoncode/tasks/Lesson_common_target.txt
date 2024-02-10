@@ -1,0 +1,5 @@
+Runājiet par izņēmumiem Java.
+
+Pastāstiet mums par Throwable nodarbību.
+
+Rādīt pārbaudītos un neatzīmētos izņēmumus darbībā.

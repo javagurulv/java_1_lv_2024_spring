@@ -1,0 +1,16 @@
+Izveidojiet nelielu lietojumprogrammu, lai iegūtu informāciju par klientiem.
+
+Iedomājieties, ka strādājat bankā. Banka vēlas dot iespēju
+ārējās lietojumprogrammas, lai pieprasītu datus par bankas klientiem.
+Jums ir uzdots izstrādāt šī risinājuma prototipu.
+
+Lai nodrošinātu drošību, klientiem ir jānodrošina
+speciāla atslēga, ko banka viņiem dod, slēdzot līgumu
+par šīs API izmantošanu.
+
+Pieprasījumā jānorāda arī tā klienta ID, kura dati
+pieteikums pieprasa.
+
+Jums ir jāmodelē šī risinājuma saskarne un jāievieš tas
+prototips, izmantojot viltotus klienta datus, kas saglabāti atmiņā
+vai failā.

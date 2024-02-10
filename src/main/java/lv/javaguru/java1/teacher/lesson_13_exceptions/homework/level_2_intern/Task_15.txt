@@ -1,0 +1,13 @@
+Neliels koda uzlabojums (refaktorings).
+
+Kā šo nosacījumu var vienkāršot?
+
+credentials.getRoles().contains(Role.CAN_SEARCH_CLIENTS)
+
+Koda rindiņa ar pārāk daudz punktu (metožu izsaukumi)
+grūti lasīt, jo vairāk punktu, jo vairāk
+metožu izsaukumi ir jāizseko, lai saprastu, ko tas dara
+šo kodu.
+
+Padoms: lomu pārbaudes darbībai ir jābūt tur,
+kur ir dati, kas viņai nepieciešami šai pārbaudei.

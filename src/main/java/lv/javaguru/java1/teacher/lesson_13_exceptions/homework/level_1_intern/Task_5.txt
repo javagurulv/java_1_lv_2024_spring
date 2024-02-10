@@ -1,0 +1,5 @@
+Izmantojiet Java dokumentāciju (javadoc)
+un atrodiet informāciju par java.lang.Exception klasi.
+
+Uzrakstiet ExceptionDemo klasi, lai demonstrētu
+dažādi veidi, kā izveidot klases Izņēmuma gadījumu.

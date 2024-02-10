@@ -1,0 +1,5 @@
+Labojiet kodu:
+
+class MyException extends Throwables {
+
+}
