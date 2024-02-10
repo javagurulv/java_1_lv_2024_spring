@@ -1,0 +1,7 @@
+Nākamās paaudzes paaudze Konveja dzīves spēlē
+(https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+Uzrakstiet kodu, kas ievieš ceturto noteikumu GameOfLifeNextGenerationCalculator klasē.
+
+Pārliecinieties, vai visi jūsu rakstītie automatizētie testi ir
+pirmais, otrais, trešais un ceturtais noteikums ir veiksmīgi.

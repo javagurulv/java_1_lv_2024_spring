@@ -1,0 +1,16 @@
+Nākamās paaudzes paaudze Konveja dzīves spēlē
+(https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+Lai spēles lauks tiktu attēlots ar divdimensiju Būla masīvu, kur:
+- viltus - miruša vai tukša šūna;
+- patiess - nozīmē dzīvu šūnu.
+
+Izveidojiet GameOfLifeNextGenerationCalculator klasi:
+
+class GameOfLifeNextGenerationCalculator {
+
+    public boolean[][] calculate(boolean[][] currentGeneration) {
+        return null; // реализацию напишем тут чуть позже
+    }
+
+}

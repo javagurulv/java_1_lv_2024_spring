@@ -1,0 +1,6 @@
+Nākamās paaudzes paaudze Konveja dzīves spēlē
+(https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+Uzrakstiet kodu, kas ievieš pirmo noteikumu GameOfLifeNextGenerationCalculator klasē.
+
+Pārliecinieties, vai visi automatizētie testi, ko rakstāt pirmajai kārtulai, ir izturēti.

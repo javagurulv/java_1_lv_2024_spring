@@ -1,0 +1,4 @@
+Izveidojiet TaxCalculatorImpl klasi, kas ieviesīs TaxCalculator saskarni.
+
+AprēķinātTax() metodes pamattekstā vienkārši ierakstiet return null; - mums vēl nebūs
+šīs metodes ieviešanu, mēs to darīsim vēlāk.

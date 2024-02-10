@@ -1,0 +1,13 @@
+Otrais noteikums:
+- ienākumi virs 20 000 tiek aplikti ar 40% nodokli.
+
+Tas nozīmē, ka, ja personas ienākumi ir 30 000,
+tad no pirmajiem 20000 viņam jāmaksā 25%,
+un no summas, kas lielāka par 20000 (šajā gadījumā — 10000)
+viņam jāmaksā 40% nodokļi:
+
+ienākumi 30 000
+nodoklis = 20000 * 0,25 + 10000 * 0,4
+
+Pievienojiet klasei TaxCalculatorImplTest
+otrā noteikuma testi.

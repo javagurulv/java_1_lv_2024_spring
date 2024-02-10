@@ -1,0 +1,7 @@
+Nākamās paaudzes paaudze Konveja dzīves spēlē
+(https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+2. noteikums:
+Jebkura dzīva šūna, kurai ir vairāk nekā trīs dzīvi kaimiņi, mirst nākamajā paaudzē.
+
+Izmantojot JUnit bibliotēku, uzrakstiet automātiskos testus otrajam noteikumam.

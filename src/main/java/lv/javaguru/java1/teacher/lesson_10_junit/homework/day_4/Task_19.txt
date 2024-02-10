@@ -1,0 +1,56 @@
+Nākamās paaudzes paaudze Konveja dzīves spēlē
+(https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+Esam ieprogrammējuši spēles noteikumus.
+Ir pienācis laiks pilnībā ieviest lietojumprogrammu.
+Pirms koda rakstīšanas izstrādājiet risinājumu visam
+programma, kurai ir jābūt šādām funkcijām:
+- konsoles UI (lietotāja interfeiss);
+- nejauša sākuma stāvokļa ģenerēšana;
+- spēles noteikumi (mēs tos jau esam ieviesuši).
+
+Jūsu dizainā jāiekļauj:
+- visu problēmu risināšanai nepieciešamo nodarbību nosaukums;
+- apraksts ar vārdiem brīvā formā, kam nepieciešama katra no nodarbībām,
+   par ko viņš būs atbildīgs, kādi pienākumi tiks noteikti katrai no klasēm;
+- katras klases publisko metožu aptuvenie nosaukumi.
+
+Kā izdomātās klases mijiedarbosies savā starpā?
+Kura klase izsauks citas klases publiskās metodes un kāpēc?
+
+Kāpēc to visu darīt, jūs jautājat, ja varat sākt rakstīt kodu un viss?
+Nākotnes projektēšanas fāze ir obligāta pirms koda rakstīšanas sarežģītai sistēmai.
+risinājumus. Projektēšanas fāze ļauj iztēloties, vizualizēt, novērtēt
+jūsu problēmas risinājums pirms paša koda rakstīšanas. Projektēšanas posmā jūs varat
+sadaliet savas sistēmas funkcionalitāti vairākās klasēs, izdomājiet
+atbilstošos nosaukumus šīm klasēm un aprakstiet, ko katra no klasēm dara
+atbildēs. Ja netērējat laiku projektēšanas fāzei, bet sāciet uzreiz
+uz koda rakstīšanu, tad visticamāk jūs ievietosit visas savas funkcijas
+sistēmas vienā klasē, problēma protams tiks atrisināta, bet.... atņemsi sev
+iespēja izmantot visu OOP jaudu, jūsu klase, visticamāk, izdosies
+ļoti liels, tas nav pārsteidzoši, jo viņš uzņemas visus pienākumus
+jūsu sistēmā. Visticamāk, ar šādu klasi un kodu tas būs ļoti
+turpmāk smagi strādāt.
+
+Lai izvairītos no šādām problēmām vai vismaz samazinātu tās, ir nepieciešams projektēšanas posms.
+Labākais veids ir paņemt tukšu papīra lapu un uzzīmēt uz tās kvadrātus.
+(tās ir nodarbības), dodiet tām nosaukumus un uzrakstiet ar vārdiem, kam katra no nodarbībām būs paredzēta
+atbildiet, mēģiniet izdomāt, kā klases mijiedarbosies savā starpā
+ar draugu (kura klase kuras metodes nosauks), izdomā kādas
+katrā no klasēm ir nepieciešamas galvenās metodes.
+
+Tukša papīra lapa ir ideāls instruments projektēšanas fāzes veikšanai.
+Ja jums nepatīk risinājums, ko izdomājat, vienkārši izmantojiet to
+jaunu tukšu papīra lapu un nāk klajā ar jaunu risinājumu! Tas ir daudz ātrāk
+un lētāk nekā šī risinājuma ieviešana kodā, tērējot tam daudz laika,
+un tad saproti, ka tas ir slikti un visu vajadzēja darīt savādāk.
+
+Risinājumu varat ieskicēt uz papīra 5–10 minūšu laikā, pēc tam to analizēt
+un, ja tas tev šķiet slikti, tad tu pavadīji tikai 15 minūtes sava laika
+lai to izveidotu, nevis veselu vakaru reāla koda rakstīšanas gadījumā.
+
+Tikai pēc tam, kad jums patiks piedāvātais risinājums, varat turpināt
+tā ieviešanai koda veidā.
+
+Mēģiniet izveidot visu programmu!
+Neuztraucieties, ja jums tas nav labi, ir nepieciešama prakse!

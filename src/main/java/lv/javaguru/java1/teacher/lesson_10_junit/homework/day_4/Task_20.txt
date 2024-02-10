@@ -1,0 +1,55 @@
+Nākamās paaudzes paaudze Konveja dzīves spēlē
+(https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+Vai mums ir nepieciešama atsevišķa klase UI (lietotāja interfeisam)?
+Par ko šī klase būs atbildīga (kādus pienākumus tā veiks)?
+Kāpēc ir vērts ievietot šo kodu atsevišķā klasē un tādējādi atdalīt to no pārējās sistēmas?
+
+Atcerēsimies vienotas atbildības principu.
+
+Programmēšanā labākā klase ir tā, kas ievēro vienotas atbildības principu.
+Viena atbildība = viens iemesls izmaiņu veikšanai = maz iespējamo kļūdu
+= augstāka kvalitāte un stabilāks kods.
+
+Jā, mums sistēmā ir nepieciešams UI (lietotāja interfeiss). Saskaņā ar instrukcijām viņam vajadzētu būt
+šobrīd konsole. No pirmā acu uzmetiena šķiet, ka ar to pietiek
+kaut kur kodā vienkārši ierakstiet metodi:
+     void printFieldToConsole(būla[][] lauks)
+un tas ir darīts!
+
+Uzdodiet sev jautājumu: vai šīs metodes kods nākotnē varētu mainīties?
+Kāda iemesla dēļ tas varētu notikt? Kādas izmaiņas būs jāveic?
+kodā, lai ieviestu izmaiņas?
+
+Viens no iespējamiem scenārijiem ir klients vai jūs pats rīkojaties kā klients
+vēlaties izveidot skaistu saskarni savai Game Of Life programmai ar atsevišķu
+logs un vēsu krāsu dizains konsoles vietā. Kas jums būs jādara šim nolūkam?
+savā pieteikumā? Kādas izmaiņas gaida metodi printFieldToConsole()?
+
+Acīmredzot, lai izveidotu skaistu lietotāja interfeisu, jums būs nepieciešams kaut kas vairāk nekā tikai
+viena metode. Visticamāk, jums būs jāiekļauj atsevišķa bibliotēka
+zīmējot dizaina elementus un rakstot daudz vairāk koda. Acīmredzot par šo
+jums būs jāizveido atsevišķa klase, pretējā gadījumā lietotāja interfeisa ieviešanas kods būs ļoti
+savijas ar pārējo sistēmu.
+
+Pat ja nākotnē jums nav jāizveido skaists lietotāja interfeiss, tas var būt nepieciešams
+izmaiņas lietotāja interfeisa konsoles versijā. Lai to izdarītu, jums būs jāmeklē metode printFieldToConsole(),
+kas būs kādā no klasēm un mainīs to. Tas ir, lai ieietu
+izmaiņas lietotāja saskarnē būs jāmaina citas klases kods. Tas vienmēr ir slikti, jo
+ar jebkādām koda izmaiņām šajā gadījumā kodā varam ieviest kļūdu
+kas saistīti ar lietotāja interfeisu. Ja ar lietotāja saskarni saistītais kods ir atsevišķā klasē,
+tad to mainot mēs paliekam šīs klases ietvaros un ieviešam kļūdu citā sistēmas kodā
+Tas nebūs tik viegli.
+
+Ja izveidosim atsevišķu klasi kodam, kas ievieš UI, tad tas būs vienkārši
+un to var viegli atrast sistēmā pēc nosaukuma. Un mums būs tikai viens iemesls
+lai veiktu izmaiņas šīs klases kodā. Šīs klases kods tiks mainīts
+tikai tad, kad jāmaina lietotāja interfeiss! Šī ir ideāla īstenošana
+Vienas atbildības princips.
+
+Tāpēc, pamatojoties uz visu iepriekš aprakstīto, ir ieteicams iegūt kodu ieviešanai
+UI atsevišķā klasē. Sauksim šo klasi, piemēram, GameOfLifeConsoleUI.
+
+Kādu funkcionalitāti ieviesīs GameOfLifeConsoleUI klase?
+Parādiet lauku konsolē! Lai to izdarītu, GameOfLifeConsoleUI klasei būs šāda metode:
+     publisks nevar parādīt (būla [][] lauks).

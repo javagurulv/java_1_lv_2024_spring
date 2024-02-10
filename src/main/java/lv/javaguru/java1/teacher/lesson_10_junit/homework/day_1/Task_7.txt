@@ -1,0 +1,16 @@
+Otrais noteikums:
+- ienākumi virs 20 000 tiek aplikti ar 40% nodokli.
+
+Otrā noteikuma pārbaude klasē TaxCalculatorImplTest:
+
+	@Test
+	public void shouldPay40PercentTaxWhenIncomeBiggerThen20000() {
+		var income = new BigDecimal(30000);
+		var taxToPay = taxCalculator.calculateTax(income);
+		assertEquals(taxToPay, new BigDecimal("9000.00"));
+	}
+
+Pievienojiet klasei TaxCalculatorImpl
+otrā nodokļa aprēķināšanas noteikuma ieviešana
+vairāk nekā 20 000 un pārliecinieties, ka tas, ko mēs rakstām
+tests iziet.

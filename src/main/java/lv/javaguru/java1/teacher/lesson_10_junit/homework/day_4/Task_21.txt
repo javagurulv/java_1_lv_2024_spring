@@ -1,0 +1,26 @@
+Nākamās paaudzes paaudze Konveja dzīves spēlē
+(https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+Vai mums ir nepieciešama atsevišķa klase, lai ģenerētu spēles sākotnējo stāvokli?
+Par ko šī klase būs atbildīga (kādus pienākumus tā veiks)?
+Kāpēc ir vērts ievietot šo kodu atsevišķā klasē un tādējādi atdalīt to no pārējās sistēmas?
+
+Atcerieties vienotas atbildības principu!
+
+Spēles sākotnējā stāvokļa ģenerēšana ir ļoti svarīga funkcionalitāte,
+jo ar to viss sākas un bez tā spēle nemaz nav iespējama.
+
+Sākotnējā stāvokļa ģenerēšanas algoritms var būt pilnīgi atšķirīgs:
+- nejauši
+- lietotājs iestata manuāli
+
+Tāpēc ir lietderīgi sākotnējā stāvokļa ģenerēšanas algoritmu atdalīt atsevišķā.
+daļa no sistēmas un tiek ieviesta atsevišķi no visa cita koda. Šiem nolūkiem
+Ideāla būtu atsevišķa klase, piemēram, GameOfLifeRandomFieldGenerator.
+
+Ja mēs izveidojam atsevišķu klasi spēles sākuma stāvokļa ģenerēšanai,
+tad to būs vienkārši un viegli atrast sistēmā pēc nosaukuma. Un mums arī būs
+ir tikai viens iemesls, lai veiktu izmaiņas šīs klases kodā.
+Šīs klases kods tiks mainīts
+tikai tad, kad jāmaina sākuma stāvokļa ģenerēšanas algoritms!
+Tā ir ideāla vienotas atbildības principa īstenošana.

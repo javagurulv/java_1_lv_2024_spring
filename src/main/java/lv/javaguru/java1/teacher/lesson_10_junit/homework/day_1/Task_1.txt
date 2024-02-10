@@ -1,0 +1,13 @@
+Jums ir uzdots izstrādāt nodokļu kalkulatoru.
+Valstī tiek izmantota progresīvā nodokļa likme.
+
+Noteikums numur viens:
+- ienākumi līdz 20 000 tiek aplikti ar 25% nodokli.
+
+Izveidojiet TaxCalculator saskarni:
+
+interface TaxCalculator {
+
+    BigDecimal calculateTax(BigDecimal income);
+
+}

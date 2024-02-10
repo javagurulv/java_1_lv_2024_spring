@@ -1,0 +1,15 @@
+Nākamās paaudzes paaudze Konveja dzīves spēlē
+(https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+Testa direktorijā izveidojiet GameOfLifeNextGenerationCalculatorTest klasi:
+
+class GameOfLifeNextGenerationCalculatorTest {
+
+
+
+}
+
+1. noteikums:
+Jebkura dzīva šūna, kurai ir mazāk nekā divi dzīvi kaimiņi, mirst nākamajā paaudzē.
+
+Izmantojot JUnit bibliotēku, rakstiet automatizētus testus pirmajam noteikumam.

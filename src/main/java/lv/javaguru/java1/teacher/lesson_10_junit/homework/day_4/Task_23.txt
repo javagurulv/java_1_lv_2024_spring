@@ -1,0 +1,10 @@
+Nākamās paaudzes paaudze Konveja dzīves spēlē
+(https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+Projektēšanas posms ir beidzies. Sistēmas dizains ir izklāstīts vispārīgi.
+Tagad ir pienācis laiks pāriet uz ieviešanas posmu.
+
+Izveidojiet klasi GameOfLifeRandomFieldGenerator un ieviesiet tās metodi:
+     publiskais Būla [][] ģenerēt(int lauka platums, iekšējais lauka augstums);
+
+Šai metodei ir jāģenerē nejaušs lauks, kura lielums ir lauksWidth by fieldHeight.

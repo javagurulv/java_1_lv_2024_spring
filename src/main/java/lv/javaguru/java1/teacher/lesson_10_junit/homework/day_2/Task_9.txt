@@ -1,0 +1,2 @@
+Izlasiet 9. nodaļu "Vienības testi"
+no Roberta Mārtina grāmatas Clean Code.

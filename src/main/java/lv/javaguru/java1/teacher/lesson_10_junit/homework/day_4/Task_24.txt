@@ -1,0 +1,9 @@
+Nākamās paaudzes paaudze Konveja dzīves spēlē
+(https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+Izveidojiet GameOfLifeConsoleUI klasi un ieviesiet tās metodi:
+     public void show(būla[][] lauks);
+
+Izmantojot šo metodi, spēles lauks jādrukā konsolē.
+Lai apzīmētu mirušās un dzīvās šūnas, ņemiet jebkuru piemērotu
+jūsuprāt, simboli.
