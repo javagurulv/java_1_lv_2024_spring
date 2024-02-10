@@ -1,0 +1,15 @@
+Dotā klase:
+
+class JavaStarLoginServiceImpl {
+
+    public boolean canLogin(String login, String password) {
+        return (login != null)
+                && login.equals("javastar")
+                && (password != null)
+                && password.equals("pass");
+    }
+
+}
+
+Izveidojiet šai klasei saskarni ar nosaukumu JavaStarLoginService.
+Lieciet klasei JavaStarLoginServiceImpl ieviest izveidoto saskarni.

@@ -1,0 +1,4 @@
+Izveidojiet vairākas PremiumCalculator saskarnes implementācijas.
+
+Paskaidrojiet, kāpēc tas ir nepieciešams, un parādiet, kā testos
+izmantot vienu vai otru interfeisa ieviešanu.

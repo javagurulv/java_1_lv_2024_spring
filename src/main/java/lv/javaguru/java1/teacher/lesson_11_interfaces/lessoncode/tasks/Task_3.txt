@@ -1,0 +1,26 @@
+Apsveriet iespēju PremiumCalculator pievienot jaunu risku.
+
+Vispirms ieviesiet risinājumu tieši.
+Lai to izdarītu, izveidojiet vienu PremiumCalculator interfeisa ieviešanu.
+
+Apspriediet šāda risinājuma + un -.
+
+Kādās daļās risinājumu var iedalīt?
+
+Mēģiniet sadalīt kodu daļās un ievietot atsevišķās klasēs!
+
+Parādiet, kā šajā gadījumā tiks samazināts risinājuma kods.
+
+Lai to izdarītu, izveidojiet jaunu PremiumCalculator interfeisa ieviešanu.
+
+
+Izceliet klasēs klasificēto algoritmu kopīgās iezīmes.
+
+Izveidojiet viņiem kopīgu saskarni (RiskPremiumCalculator).
+
+Mainiet izmantojamo kodu PremiumCalculator klasē
+RiskPremiumCalculator saskarne.
+
+Parādiet, kā tagad varat pievienot jaunu risku.
+
+Apspriediet + un - risinājumus ar saskarni.

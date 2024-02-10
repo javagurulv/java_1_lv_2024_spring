@@ -1,0 +1,4 @@
+Izveidojiet saskarni PremiumCalculator klasei.
+
+Izmantojot PremiumCalculator UI ieviešanas piemēru
+pastāstiet, kāpēc interfeiss ir nepieciešams.

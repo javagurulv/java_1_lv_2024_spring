@@ -1,0 +1,6 @@
+Meklējiet internetā informāciju par java.util.Optional klasi.
+Kam tiek izmantoti šīs klases objekti?
+Kādi divi stāvokļi var būt šīs klases objektiem?
+Kā tiek izveidoti šīs klases gadījumi?
+Kā jūs varat pārbaudīt noteiktas klases instances stāvokli?
+Kā es varu iegūt objektu, kas atrodas neobligātā?

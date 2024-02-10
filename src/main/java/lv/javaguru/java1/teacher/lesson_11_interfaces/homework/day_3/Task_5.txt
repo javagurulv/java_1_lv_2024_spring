@@ -1,0 +1,26 @@
+Iepriekšējā uzdevumā jūs iepazināties ar Izvēles klasi un uzzinājāt, kam tā tiek izmantota.
+
+Produktu datu bāzes saskarnes metodes findByTitle() atgriešanas vērtībai izmantojiet opciju.
+Ieviesiet jaunu saskarnes versiju un pārbaudiet to.
+
+interface ProductDatabase {
+
+    void save(Product product);
+
+    Optional<Product> findByTitle(String productTitle);
+
+}
+
+class Product {
+
+    private String title;
+
+    public Product(String title) {
+        this.title = title;
+    }
+
+    public String getTitle() {
+        return this.title;
+    }
+
+}

@@ -1,0 +1,23 @@
+Izveidojiet DayOfTheWeekDetectorDemo klasi.
+
+Šīs programmas mērķis:
+- lūgt lietotājam numuru;
+- izmantojot kādu no DayOfTheWeekDetector interfeisa implementācijām, atrodiet nedēļas dienas nosaukumu;
+- parādīt atrasto vārdu konsolē.
+
+Klasē DayOfTheWeekDetectorDemo izveidojiet klases konstruktoru, kas ņem vienu parametru
+ierakstiet DayOfTheWeekDetector (interfeiss). Caur šo konstruktoru klase tiks pabarota
+saskarnes ieviešana, kas programmai jāizmanto, lai atrastu nosaukumu
+nedēļas diena. Saglabājiet nodoto DayOfTheWeekDetector instanci klases īpašumā, lai to izdarītu
+lai to izmantotu nākotnē.
+
+Klasē DayOfTheWeekDetectorDemo izveidojiet void run() metodi, kurā ieviešat pašu programmu.
+
+Tagad, veidojot DayOfTheWeekDetectorDemo klases gadījumu, varat nodot jebkuru
+no trim interfeisa implementācijām.
+
+Izveidojiet main() metodi DayOfTheWeekDetectorDemo klasē, kurā demonstrējat izveidi un izmantošanu
+klases DayOfTheWeekDetectorDemo gadījums ar dažādiem algoritmiem nedēļas dienas nosaukuma atrašanai.
+
+Pārliecinieties, ka neatkarīgi no tā, kura algoritma ieviešana tiek izmantota, lai noteiktu
+nedēļas dienu nosaukumi, programma DayOfTheWeekDetectorDemo darbojas tāpat.

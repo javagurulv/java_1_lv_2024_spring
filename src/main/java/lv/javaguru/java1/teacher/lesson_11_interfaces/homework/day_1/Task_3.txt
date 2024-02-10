@@ -1,0 +1,15 @@
+Mēs izveidojam interfeisu saraksta datu struktūrai.
+
+Java masīvs ir laba datu struktūra primitīvu datu tipu glabāšanai.
+vai atsauces uz objektiem. Bet masīvam ir daudz ierobežojumu. Piemēram, masīva garums
+to nevar mainīt, kad tas ir izveidots.
+
+Šis uzdevums prasa izveidot interfeisu saraksta datu struktūrai.
+Saraksta datu struktūra ir tāda pati kā masīvam, tikai bez ierobežojumiem!
+Padomājiet par to, kādas darbības jums trūkst masīvā. Katrai operācijai
+izveidojiet savu metodi MyList interfeisā un vārdos aprakstiet, kādai šai metodei vajadzētu būt
+dariet komentārā par metodi.
+
+Neskatieties uz java.util.List un līdzīgu saskarņu un klašu ieviešanu.
+
+Šī uzdevuma mērķis ir patstāvīgi izveidot savu MyList interfeisu.

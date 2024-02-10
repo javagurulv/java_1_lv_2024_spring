@@ -1,0 +1,5 @@
+Kas ir Java funkcionālais interfeiss?
+
+Atrodiet informāciju par to internetā.
+Izdomājiet un ieviesiet to programmas koda veidā.
+Atbildi uz jautājumu ieraksti komentārā kodā.

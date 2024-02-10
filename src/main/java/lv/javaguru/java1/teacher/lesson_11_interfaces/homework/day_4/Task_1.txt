@@ -1,0 +1,6 @@
+Laika prognozes vietne šobrīd rāda
+temperatūra Celsija grādos.
+Lai iekļūtu starptautiskajā tirgū, vietnei ir nepieciešams
+spēj konvertēt temperatūru Kelvina un Fārenheita skaitļos.
+Mēģiniet izveidot (izgudrot) pats
+un ieviest šīs problēmas risinājumu.

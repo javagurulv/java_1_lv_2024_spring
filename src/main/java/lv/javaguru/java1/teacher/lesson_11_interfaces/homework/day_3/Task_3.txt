@@ -1,0 +1,39 @@
+Izveidojiet šādas saskarnes ieviešanu.
+
+interface ProductDatabase {
+
+    void save(Product product);
+
+    Product findByTitle(String productTitle);
+
+}
+
+Klasei jābūt sauktai par InMemoryDatabase un uzglabāt produktus atmiņā
+šim nolūkam izmantojot masīvu.
+
+Nederīga saglabāšanas (produkta produkts) metodei ir jāpievieno jauns produkts masīvam.
+To var izdarīt šādi:
+- izveidot jaunu masīvu, kas par 1 garāks par iepriekšējo;
+- kopēt visu vecā masīva saturu jaunajā;
+- saglabājiet jauno produktu jaunā masīva pēdējā šūnā.
+
+Metodi Product findByTitle(String productTitle) ir jānokārto
+caur masīvu un atrodiet pirmo produktu, kas atrasts ar norādīto
+nosaukt un atgriezt to. Ja prece ar norādīto nosaukumu
+nav atrasts, pēc tam atgrieziet nulli.
+
+Noteikti pārbaudiet izveidotās datu bāzes saskarnes ieviešanu.
+
+class Product {
+
+    private String title;
+
+    public Product(String title) {
+        this.title = title;
+    }
+
+    public String getTitle() {
+        return this.title;
+    }
+
+}

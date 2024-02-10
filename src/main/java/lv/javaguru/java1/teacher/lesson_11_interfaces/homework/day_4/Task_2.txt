@@ -1,0 +1,38 @@
+Laika prognozes vietne šobrīd rāda
+temperatūra Celsija grādos.
+Lai iekļūtu starptautiskajā tirgū, vietnei ir nepieciešams
+spēj konvertēt temperatūru Kelvina un Fārenheita skaitļos.
+
+Vadošais programmētājs apraksta konvertēšanas procesu
+temperatūras grādos pēc Celsija līdz Kelvinam un Fārenheitam
+izveidoja šādu interfeisu:
+
+interface TemperatureConverter {
+
+    double convert(double celsiusTemperature);
+
+}
+
+Un divas šīs saskarnes ieviešanas:
+
+class CelsiusConverter implements TemperatureConverter {
+
+    @Override
+    public double convert(double celsiusTemperature) {
+        return celsiusTemperature;
+    }
+
+}
+
+class KelvinConverter implements TemperatureConverter {
+
+    @Override
+    public double convert(double celsiusTemperature) {
+        return celsiusTemperature + 273.15;
+    }
+}
+
+Tavs uzdevums:
+- pēc analoģijas ar KelvinConverter klasi izveidojiet FahrenheitConverter klasi
+   (formula: 1,8 * celsija temperatūra + 32);
+- rakstīt testus KelvinConverter un FahrenheitConverter klasēm.

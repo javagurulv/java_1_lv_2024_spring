@@ -1,0 +1,9 @@
+Programmā PremiumCalculator izveidojiet pakotnes struktūru.
+
+Paskaidrojiet, kāpēc tas ir nepieciešams.
+
+Izveidojiet pakotnes:
+- domēns;
+- biznesa loģika.
+
+Sadaliet klases paketēs.
