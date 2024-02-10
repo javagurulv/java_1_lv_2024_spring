@@ -1,0 +1,29 @@
+Šeit ir sniegti soli pa solim norādījumi par instalācijas pārbaudi
+Git programmā IntelliJ IDEA:
+
+1. Datorā atveriet IntelliJ IDEA.
+
+2.IntelliJ IDEA augšējā izvēlnē atveriet sadaļu "Fails".
+
+3.Nolaižamajā izvēlnē atlasiet “Iestatījumi”.
+
+4. Logā "Iestatījumi" atlasiet sadaļu "Versiju vadība".
+(Versiju kontroles sistēma) kreisajā rūtī.
+
+5. Ja Git ir instalēts un konfigurēts pareizi, jums vajadzētu redzēt
+"Git" versiju kontroles sistēmu sarakstā.
+
+6. Versiju kontroles sistēmu sarakstā noklikšķiniet uz "Git".
+lai atvērtu Git iestatījumus.
+
+7.Šajā logā varat redzēt informāciju par savu Git instalāciju,
+piemēram, ceļš uz Git izpildāmo failu, lietotājvārds un adrese
+e-pasta ziņojumi, kas saistīti ar jūsu saistībām un citiem iestatījumiem.
+
+
+Git klātbūtnes un pareizas konfigurācijas pārbaude programmā IntelliJ IDEA
+palīdzēs pārliecināties, ka varat veiksmīgi izmantot Git
+lai kontrolētu sava koda versijas. Ja Gits neparādās
+versiju kontroles sistēmas sarakstā vai ar to ir radušās problēmas
+lietojumu, iespējams, būs jāpārbauda Git instalācija
+datorā un konfigurējiet to programmā IntelliJ IDEA.

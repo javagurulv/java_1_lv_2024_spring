@@ -1,0 +1,29 @@
+VCS (Version Control System) ir versiju kontroles sistēma
+kas palīdz izstrādātājiem pārvaldīt izmaiņas avota kodā
+un izsekot šo izmaiņu vēsturei. Īsāk sakot, VCS ļauj ietaupīt
+un sekojiet līdzi visām projektā veiktajām izmaiņām, lai gadījumā
+ja nepieciešams, varat atgriezties pie iepriekšējām koda versijām vai
+izsekot, kurš un kad veica izmaiņas.
+
+Kad izstrādātājs strādā pie projekta, viņš izveido jaunus failus,
+modificē esošās, pievieno funkcionalitāti un novērš kļūdas.
+VCS palīdz organizēt un izsekot visām šīm izmaiņām.
+Izstrādātājs saglabā savu darbu versiju kontroles sistēmā,
+kas reģistrē izmaiņas un saglabā katru faila versiju.
+Tas ļauj jebkurā laikā atgriezties pie iepriekšējām versijām,
+atgūt izdzēstos failus vai izsekot izmaiņu vēsturei.
+
+Viens no populārākajiem VCS ir Git. Git saglabā datus
+kā repozitoriju, kurā ir izmaiņu vēsture un metadati
+par katru izmaiņu. Izstrādātāji var saglabāt savas izmaiņas
+vietējo repozitoriju un kopīgojiet tos ar citiem izstrādātājiem,
+izmantojot attālās repozitorijus. Git arī nodrošina
+funkcionalitāte izmaiņu sapludināšanai, zaru veidošanai priekš
+paralēla attīstība un konfliktu vadība apvienošanas laikā
+izmaiņas.
+
+Versiju kontroles sistēmas izmantošanai ir daudz priekšrocību,
+tostarp iespēja atgriezties pie iepriekšējām koda versijām,
+ērta sadarbība starp vairākiem izstrādātājiem,
+izmaiņu vēstures izsekošana auditēšanai un vienkāršošanai
+programmatūras izstrādes process.

@@ -1,0 +1,45 @@
+IntelliJ IDEA Community Edition ir bezmaksas versija
+integrētā attīstības vide (Integrated Development Environment,
+IDE) ar nosaukumu IntelliJ IDEA, ko izstrādājis JetBrains.
+Šis ir viens no populārākajiem programmatūras izstrādes IDE.
+programmatūra programmēšanas valodās, piemēram, Java, Kotlin,
+Groovy, Scala un citi.
+
+IntelliJ IDEA Community Edition piedāvā plašu klāstu
+funkcijas un rīki, kas palīdz izstrādātājiem uzlabot
+to veiktspēju un efektivitāti izstrādes laikā
+programmatūra.
+
+Šeit ir dažas galvenās IntelliJ IDEA Community Edition funkcijas:
+
+1. Atbalstiet dažādas programmēšanas valodas:
+IntelliJ IDEA Community Edition ir plašs klāsts
+atbalstītās programmēšanas valodas, tostarp Java,
+Kotlin, Groovy, Scala, JavaScript, TypeScript, HTML, CSS un citi.
+Tas ļauj izstrādātājiem strādāt ar dažādām tehnoloģijām
+un izveidot dažādus projektus.
+
+2. Viedās funkcijas:
+IntelliJ IDEA Community Edition piedāvā daudzas
+inteliģentas funkcijas, piemēram, koda pabeigšana,
+statiskā koda analīze, pārstrukturēšana, ātrie labojumi un citi.
+Šīs funkcijas palīdz izstrādātājiem paātrināt rakstīšanas procesu
+kodu un uzlabot tā kvalitāti.
+
+3.Integrēta būvēšanas un atkarības pārvaldības sistēma:
+IntelliJ IDEA Community Edition integrē populāras veidošanas sistēmas,
+piemēram, Maven un Gradle, kā arī piedāvā rīkus
+projektu atkarību pārvaldīšana. Tas ļauj izstrādātājiem
+Ērti pārvaldiet projektu un tā atkarības bez nepieciešamības
+pārslēgties starp dažādiem rīkiem.
+
+4. Iebūvētās versiju kontroles sistēmas atbalsts:
+IntelliJ IDEA Community Edition ir iebūvēts
+atbalsts versiju kontroles sistēmām, piemēram, Git, Subversion un
+Mercurial. Tas ļauj izstrādātājiem pārvaldīt un izsekot
+izmaiņas savā kodā tieši no IDE.
+
+IntelliJ IDEA Community Edition nodrošina iesācējiem ar
+izstrādātājiem ir iespēja iegūt augstu veiktspēju
+un jaudīga izstrādes vide bez nepieciešamības iegādāties
+komerclicence.

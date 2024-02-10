@@ -1,0 +1,25 @@
+Izstrādes vide (IDE, Integrated Development Environment) -
+ir programmatūra, kas palīdz izstrādātājiem izveidot,
+atkļūdot un pārvaldīt programmas kodu.
+
+Tas nodrošina ērtu un centralizētu vidi,
+kur var uzrakstīt kodu un pārbaudīt tā funkcionalitāti
+un veikt dažādus ar attīstību saistītus uzdevumus
+programmatūra.
+
+Attīstības vide ir balstīta uz dažādiem rīkiem,
+ieskaitot teksta redaktoru koda rakstīšanai, kompilatoru
+vai tulks, lai pārvērstu kodu izpildāmā formātā,
+atkļūdotājs kļūdu identificēšanai un labošanai, kā arī citi
+rīki, piemēram, koda pabeigšana, sintakses izcelšana,
+versiju kontroles sistēmas un daudz kas cits.
+
+Izstrādes vide nodrošina izstrādātājiem lietotājam draudzīgu saskarni
+strādāt ar kodu, vienkāršojot un paātrinot procesu
+attīstību. Tas arī palīdz automatizēt ikdienas uzdevumus
+un nodrošina dažādas funkcijas, kas palīdz uzlabot
+programmatūras kvalitāte un uzticamība.
+
+Izmantojot izstrādes vidi, var ievērojami
+palielināt izstrādātāja produktivitāti, nodrošinot
+ērtība un efektivitāte programmatūras izveides procesā.

@@ -1,0 +1,41 @@
+GitHub ir tiešsaistes repozitorija mitināšanas platforma
+Git un sadarbība projektos, izmantojot
+Git versiju kontroles sistēmas. Vienkārši sakot, GitHub nodrošina
+tīmekļa saskarne un rīki glabāšanai, pārvaldībai un kopīgošanai
+strādā pie sava projekta koda.
+
+Kad izmantojat GitHub, varat izveidot tālvadības pulti
+projektu krātuvēs un augšupielādējiet kodu šajās krātuvēs.
+GitHub repozitorijā ir visas jūsu koda versijas,
+izmaiņu vēsturi, kā arī dažādus sadarbības rīkus,
+piemēram, kļūdu izsekošana, sapludināšanas pieprasījumi un koda diskusijas.
+
+Galvenās GitHub lietošanas priekšrocības:
+
+1. Koda glabāšana un sadarbība ar to:
+GitHub nodrošina jūsu koda centralizētu repozitoriju,
+ko var viegli koplietot ar citiem izstrādātājiem.
+Varat kopīgot savu kodu, uzaicināt kolēģus vai kopienu
+sadarbība projektos.
+
+2. Koda versiju noteikšana:
+GitHub izmanto Git versiju kontroles sistēmu, kas ļauj
+izsekot koda izmaiņām un atgriezties pie iepriekšējām versijām
+ja nepieciešams. Varat izveidot filiāles paralēlai attīstībai,
+integrēt izmaiņas un pārvaldīt konfliktus.
+
+3. Sadarbības rīki:
+GitHub piedāvā dažādus rīkus, lai atvieglotu sadarbību.
+Varat izveidot un apspriest izvilkšanas pieprasījumus,
+izsekot un novērst kļūdas, veikt kodu pārskatīšanu un kopīgot
+piezīmes un komentāri ar citiem projekta dalībniekiem.
+
+4. Atvērtība un kopība:
+GitHub ļauj kopīgot savus projektus
+ar citiem izstrādātājiem visā pasaulē. Jūs varat publicēt
+savus projektus publiskajā domēnā, skatiet citu cilvēku projektus,
+dot ieguldījumu un atrast interesantus sadarbības projektus.
+
+GitHub ir viena no populārākajām mitināšanas platformām
+un sadarbība projektos, kuru pamatā ir Git,
+un sniedz plašas iespējas izstrādātājiem visā pasaulē.

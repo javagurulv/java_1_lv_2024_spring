@@ -1,0 +1,31 @@
+Git ir izplatīta versiju kontroles sistēma,
+kas palīdz izstrādātājiem pārvaldīt izmaiņas
+projekta pirmkodā. Vienkārši sakot, Git ir rīks
+kas ļauj saglabāt un izsekot koda izmaiņām,
+sadarboties ar citiem izstrādātājiem un atgriezties
+projekta iepriekšējās versijas.
+
+Strādājot ar Git, jūs izveidojat repozitoriju - īpašu
+krātuve jūsu projektam. Repozitorijā tiek glabāti visi faili
+izmaiņu vēsture un metadati par katru apņemšanos (izmaiņu).
+Veicot izmaiņas projektā, Git seko šīm izmaiņām.
+izmaiņas un saglabā tās kā saistības.
+
+Viena no galvenajām Git iezīmēm ir tās izplatītais raksturs.
+Tas nozīmē, ka katram izstrādātājam ir pilna repozitorija kopija
+savā datorā. Varat strādāt pie izmaiņām lokāli,
+veikt tos un ieviest jaunas funkcijas savā filiālē bez piekļuves tīklam.
+Pēc tam varat kopīgot izmaiņas ar citiem izstrādātājiem,
+saistību nosūtīšana un saņemšana no attālās repozitorija.
+
+Git nodrošina arī jaudīgus līdzekļus darbam ar filiālēm.
+Varat izveidot filiāles paralēlai attīstībai, apvienot
+filiāles, atrisināt konfliktus un atgriezties pie iepriekšējām koda versijām,
+ja kaut kas nogāja greizi. Tas ļauj izstrādātājiem efektīvi
+sadarboties projektā un vadīt pārmaiņas.
+
+Git izmantošana vienkāršo izstrādes procesu,
+uzlabot koda uzticamību, uzlabot sadarbību un viegli
+atgriezties pie iepriekšējām projekta versijām. Šis ir populārs rīks
+izstrādātāju kopienā un ir versiju kontroles standarts
+daudzos projektos.

@@ -1,0 +1,5 @@
+BRĪDINĀJUMS. Mēģiniet neizmantot pasvītras klases nosaukumā.
+
+class Task1_mathematical_operations {
+
+LABĀK: Task1MathematicalOperations
