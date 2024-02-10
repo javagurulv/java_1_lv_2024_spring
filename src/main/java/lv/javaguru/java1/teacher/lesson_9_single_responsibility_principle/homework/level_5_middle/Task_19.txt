@@ -1,0 +1,18 @@
+Pārvietosim automātiskās krāpšanas noteikšanas
+pirmā noteikuma kodu uz atsevišķu klasi.
+
+Izveidojiet FraudRule1 klasi:
+
+class FraudRule1 extends FraudRule {
+
+    public FraudRule1(String ruleName) {
+        super(ruleName);
+    }
+
+    public boolean isFraud(Transaction t) {
+        // Перенесите сюда код реализации первого правила из класса FraudDetector
+    }
+
+}
+
+Создайте класс FraudRule1Test и напишите тесты для класса FraudRule1!

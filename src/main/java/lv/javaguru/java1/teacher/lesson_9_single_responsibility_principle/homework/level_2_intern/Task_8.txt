@@ -1,0 +1,7 @@
+Izveidojiet klasi FraudDetectorTest un rakstiet testus,
+kas pierāda, ka jūs īstenojat pirmo noteikumu
+identificējot krāpnieciskus darījumus klasē
+FraudDetector darbojas pareizi!
+
+Rakstot testus, neaizmirstiet pārbaudīt
+pozitīvie un negatīvie scenāriji.

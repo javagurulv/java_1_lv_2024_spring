@@ -1,0 +1,7 @@
+Pievienojiet testus FraudDetectorTest klasei,
+kas pierāda, ka jūs īstenojat trešo noteikumu
+identificējot krāpnieciskus darījumus klasē
+FraudDetector darbojas pareizi!
+
+Rakstot testus, neaizmirstiet pārbaudīt
+pozitīvie un negatīvie scenāriji.

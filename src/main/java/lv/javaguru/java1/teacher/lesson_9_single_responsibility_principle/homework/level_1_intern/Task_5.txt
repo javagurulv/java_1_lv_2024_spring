@@ -1,0 +1,13 @@
+Klasē Transaction izveidojiet iegūšanas metodes visiem klases rekvizītiem.
+
+class Transaction {
+
+    private Trader trader;
+    private int amount;
+
+    Trader(Trader trader, int amount) {
+        this.trader = trader;
+        this.amount = amount;
+    }
+
+}

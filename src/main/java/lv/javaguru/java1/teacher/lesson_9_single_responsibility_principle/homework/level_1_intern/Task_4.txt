@@ -1,0 +1,9 @@
+Izveidojiet konstruktoru klasei Darījums, caur kuru
+Varat iestatīt sākotnējās vērtības visiem klases rekvizītiem.
+
+class Transaction {
+
+    private Trader trader;
+    private int amount;
+
+}

@@ -1,0 +1,8 @@
+Pievienot darījumu apstrādes sistēmai no iepriekšējā darba
+Ceturtais noteikums automātiskai krāpšanas atklāšanai.
+
+Ceturtais noteikums automātiskai krāpšanas atklāšanai:
+- 4. noteikums: visi Jamaikas valsts tirgotāju darījumi ir jānoraida.
+
+Lai ieviestu šo noteikumu, pievienojiet FraudDetector klases kodu
+visas izmaiņas, kuras uzskatāt par nepieciešamām.

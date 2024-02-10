@@ -1,0 +1,8 @@
+Pievienot darījumu apstrādes sistēmai no iepriekšējā darba
+Trešais noteikums attiecas uz automātisku krāpšanas atklāšanu.
+
+Trešais noteikums automātiskai krāpšanas atklāšanai:
+- 3. noteikums: visi "Sidnejas" pilsētas tirgotāju darījumi ir jānoraida.
+
+Lai ieviestu šo noteikumu, pievienojiet FraudDetector klases kodu
+visas izmaiņas, kuras uzskatāt par nepieciešamām.

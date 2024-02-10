@@ -1,0 +1,7 @@
+Iepazīstiniet klausītāju ar ciklu KATRAM un
+parādīt tās izmantošanas piemērus.
+
+Parādiet, kā tiek piemērots vienotās atbildības princips
+programmatūras izstrādē.
+
+Mēģiniet atrisināt reālu problēmu, izmantojot darba interviju.

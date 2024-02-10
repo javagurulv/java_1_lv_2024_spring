@@ -1,0 +1,13 @@
+Trader klasē izveidojiet iegūšanas metodes visiem klases rekvizītiem.
+
+class Trader {
+
+    private String fullName;
+    private String city;
+
+    Trader(String fullName, String city) {
+        this.fullName = fullName;
+        this.city = city;
+    }
+
+}

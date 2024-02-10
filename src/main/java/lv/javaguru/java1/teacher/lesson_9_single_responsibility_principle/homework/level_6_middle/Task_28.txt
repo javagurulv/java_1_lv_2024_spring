@@ -1,0 +1,7 @@
+Mēs turpinām darbu pie automātiskas krāpšanas atklāšanas sistēmas.
+
+Uzņēmums vēlas, lai atklātie krāpnieciskie darījumi tiktu izdrukāti konsolē
+ar pilnīgu informāciju par tiem. Lai to izdarītu, ignorējiet toString() metodi klasēs Trader un Transaction.
+Izmantojiet transakcijas objekta ignorēto metodi toString() un
+Atklājot krāpšanu klasē FraudDetector, izdrukājiet visus konsoles rekvizītus
+darījumiem (tostarp tiem, kas ietilpst Trader klasē).

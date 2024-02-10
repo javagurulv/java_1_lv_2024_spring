@@ -1,0 +1,35 @@
+Mēs studējam Single Responsibility Principle.
+
+Zemāk ir daļējs transakciju apstrādes sistēmas kods.
+Jums tas būs jāveic un jāmaina
+atbilstoši biznesa prasībām.
+
+Katrs darījums sistēmā ir jāpārbauda, vai nav krāpšanas.
+Lai automātiski atklātu krāpšanu, pārbaudot darījumus
+Sistēmai jāpievieno noteikumi, kas tiks norādīti tālāk.
+
+class Trader {
+
+    private String fullName;
+    private String city;
+
+}
+
+
+class Transaction {
+
+    private Trader trader;
+    private int amount;
+
+}
+
+
+class FraudDetector {
+
+    boolean isFraud(Transaction t) {
+        return true;
+    }
+
+}
+
+Izveidojiet iepriekš minētās klases savā kodā.

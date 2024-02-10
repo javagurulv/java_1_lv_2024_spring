@@ -1,0 +1,9 @@
+Izveidojiet Trader klases konstruktoru, caur kuru
+Varat iestatīt sākotnējās vērtības visiem klases rekvizītiem.
+
+class Trader {
+
+    private String fullName;
+    private String city;
+
+}

@@ -1,0 +1,8 @@
+Pievienot darījumu apstrādes sistēmai no iepriekšējā darba
+Otrais noteikums attiecas uz automātisku krāpšanas atklāšanu.
+
+Otrais noteikums automātiskai krāpšanas atklāšanai:
+- 2. noteikums: visi darījumi, kas pārsniedz 1000000, ir jānoraida.
+
+Lai ieviestu šo noteikumu, pievienojiet FraudDetector klases kodu
+visas izmaiņas, kuras uzskatāt par nepieciešamām.

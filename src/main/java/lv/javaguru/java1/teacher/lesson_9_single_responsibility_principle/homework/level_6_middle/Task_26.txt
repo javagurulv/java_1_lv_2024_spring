@@ -1,0 +1,5 @@
+Mēs turpinām darbu pie automātiskas krāpšanas atklāšanas sistēmas.
+
+Abstraktajā FraudRule klasē ieviesiet get() metodi rekvizītam ruleName:
+
+    String getRuleName();

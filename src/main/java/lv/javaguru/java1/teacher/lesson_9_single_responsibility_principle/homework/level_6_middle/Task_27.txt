@@ -1,0 +1,9 @@
+Mēs turpinām darbu pie automātiskas krāpšanas atklāšanas sistēmas.
+
+Mainiet metodes FraudDetector.isFraud(Transaction t) atgriešanas veidu
+c Būla vērtību FraudDetectionResult un veiciet nepieciešamās izmaiņas programmas kodā un testos.
+
+Tagad, kad tiek aktivizēts kāds no krāpšanas atklāšanas noteikumiem, varat to izdarīt
+Jautājiet pašam noteikumam, lai uzzinātu tā nosaukumu. Lai to izdarītu, būs pietiekami izsaukt metodi
+getRuleName() uz FraudRule objekta. Tādā veidā iegūtā noteikuma nosaukums
+kā rezultātā jūs atgriezīsities objektā FraudDetectionResult.

@@ -1,0 +1,28 @@
+Mēs turpinām strādāt pie koda no iepriekšējā uzdevuma.
+
+Viens no veidiem, kā vienkāršot FraudDetector klasi, ir to noņemt no
+atbildība par katra krāpšanas atklāšanas noteikuma ieviešanu.
+Katrs noteikums būtībā ir atsevišķa programma, kuru var izpildīt
+neatkarīgi no visiem citiem noteikumiem.
+
+Ievērojot vienotas atbildības principu, mēs piedāvājam kodu
+ieviesiet katru noteikumu savā klasē!
+
+Tad noteikumu klasēm būs tikai viena atbildība
+(viena noteikuma īstenošana) un viens iemesls
+mainiet kodu šādās klasēs (kods noteikumu klasēs mainīsies
+tikai tad, kad mainās paši noteikumi).
+
+Lai to izdarītu, izveidojiet abstraktu klasi FraudRule.
+
+abstract class FraudRule {
+
+    private String ruleName;
+
+    public FraudRule(String ruleName) {
+        this.ruleName = ruleName;
+    }
+
+    public abstract boolean isFraud(Transaction t);
+
+}

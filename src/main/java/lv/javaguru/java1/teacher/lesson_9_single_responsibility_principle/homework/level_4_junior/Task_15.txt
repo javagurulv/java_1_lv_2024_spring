@@ -1,0 +1,8 @@
+Pievienot darījumu apstrādes sistēmai no iepriekšējā darba
+piektais noteikums automātiskai krāpšanas atklāšanai.
+
+Piektais noteikums automātiskai krāpšanas atklāšanai:
+- 5. noteikums: visi Vācijas tirgotāju darījumi par summu, kas lielāka par 1000, ir jānoraida.
+
+Lai ieviestu šo noteikumu, pievienojiet FraudDetector klases kodu
+visas izmaiņas, kuras uzskatāt par nepieciešamām.

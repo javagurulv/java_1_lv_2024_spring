@@ -1,0 +1,26 @@
+Mēs turpinām darbu pie automātiskas krāpšanas atklāšanas sistēmas.
+
+Uzņēmumi vēlas, lai mūsu sistēma ne tikai noteiktu, vai darījums ir
+krāpšana saskaņā ar noteikumiem, bet arī noteikta saskaņā ar kuru noteikumu
+darījums ir atzīts par krāpniecisku. Tas nepieciešams, lai vienkāršotu nodaļas darbu
+krāpniecisku darījumu izmeklēšana.
+
+Tā kā mūsu kodam ir jāatgriež divi rezultāti:
+- vai darījums ir krāpšana vai nav (būla)
+- noteikuma nosaukums, saskaņā ar kuru darījums tiek atzīts par krāpšanu (virkne),
+   šis lauks tiek aizpildīts tikai tad, ja darījums ir krāpniecisks, pretējā gadījumā nulles.
+
+Mēs nevaram atgriezt divus rezultātus no metodes FraudDetector.isFraud(Transaction t).
+
+Tāpēc izveidojiet atsevišķu FraudDetectionResult klasi, lai apvienotu abas
+atgriešanas vērtības:
+
+class FraudDetectionResult {
+
+    private boolean fraud;
+    private String ruleName;
+
+    // реализуйте конструктор класса
+    // реализуйте get() и set() методы для каждого свойства
+
+}

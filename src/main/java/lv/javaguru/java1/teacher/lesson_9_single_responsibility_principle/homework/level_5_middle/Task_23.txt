@@ -1,0 +1,2 @@
+Pēc analoģijas ar iepriekšējo uzdevumu veiciet to pašu
+piektais noteikums automātiskai krāpšanas atklāšanai (klase FraudRule5).

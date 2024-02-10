@@ -1,0 +1,15 @@
+Ieviesiet pirmo automātiskās krāpšanas noteikšanas noteikumu:
+
+- 1. noteikums: tirgotājs ar nosaukumu "Pokemon" ir krāpnieks,
+visi viņa darījumi ir jānoraida.
+
+Lai ieviestu šo noteikumu, pievienojiet FraudDetector klases kodu
+visas izmaiņas, kuras uzskatāt par nepieciešamām.
+
+class FraudDetector {
+
+    boolean isFraud(Transaction t) {
+        return true;
+    }
+
+}

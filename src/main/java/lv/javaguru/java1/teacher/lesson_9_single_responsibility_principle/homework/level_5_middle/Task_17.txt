@@ -1,0 +1,19 @@
+Kā redzat, uzņēmums var pievienot un pievienot jaunus noteikumus
+automātiskai krāpšanas atklāšanai.
+
+Ja mēs turpināsim veikt izmaiņas un jaunas funkcionalitātes FraudDetector klasē,
+tad šī klase kļūs ļoti liela. Vēl ļaunāk, šīs klases atbildība būs
+vienkārši augt. Atbildība šeit nozīmē to, ko šī klase uzņemas uz sevi
+atbildību par visu noteikumu ieviešanu. Tas ir slikti, jo ir pārāk daudz pienākumu
+ir arī pārāk daudz iespēju kļūdīties.
+
+Programmēšanā labākā klase ir tā, kas ievēro vienotas atbildības principu.
+Viena atbildība = viens iemesls izmaiņu veikšanai = maz iespējamo kļūdu
+= augstāka kvalitāte un stabilāks kods.
+
+Pirms lasiet tālāk, padomājiet par to, kā piemērot vienotas atbildības principu
+klasei FraudDetector.
+
+Mēģiniet īstenot iecerēto plānu!
+
+Kas no tā sanāca?

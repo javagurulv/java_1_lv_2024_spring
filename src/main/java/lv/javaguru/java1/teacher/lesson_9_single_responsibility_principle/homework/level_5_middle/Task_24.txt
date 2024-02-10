@@ -1,0 +1,20 @@
+Ir pienācis laiks izmantot atsevišķas krāpšanas atklāšanas noteikumu klases.
+
+Klasē FraudDetector izveidojiet konstruktoru, kas akceptē
+FraudRule tipa objektu masīvs vai saraksts. Caur šo konstruktoru
+visi automātiskie noteikumi tiks ievadīti FraudDetector klasē
+krāpšanas definīcijas, ko ievieš atsevišķas klases.
+
+Izlabojiet FraudDetector.isFraud(Transaction t) metodes kodu.
+Šīs metodes loģika būs ļoti vienkārša: izejiet visus Krāpšanas noteikumus,
+darījumam piemērot katru krāpšanas atklāšanas noteikumu
+un, ja vismaz viens noteikums atklāj krāpšanu, atgrieziet patiesu
+(jā, šis darījums ir krāpniecība),
+pretējā gadījumā atgriezt false (darījums ir tīrs, noteikumi nedarbojās).
+
+Tagad FraudDetector klasei ir jauns pienākums – tā ir konsekventa
+katra krāpšanas noteikšanas noteikuma piemērošana revidējamajam
+darījumiem. FraudDetector klases kods ir kļuvis mazs,
+tas nemainīsies, jo palielināsies krāpšanas atklāšanas noteikumu skaits!
+
+Labojiet testus atbilstoši jaunajai FraudDetector klases ieviešanai!
