@@ -1,0 +1,18 @@
+Pastāstiet mums par CPU (centrālā procesora vienības) arhitektūru.
+
+Pastāstiet mums par aparatūras atbalstu vairākuzdevumu veikšanai.
+
+Pastāstiet mums par operētājsistēmas atbalstu vairākuzdevumu veikšanai.
+
+Runājiet par Java atbalstu vairākuzdevumu veikšanai.
+
+Runājiet par vispārīgiem datiem un piekļuves tiem problēmu.
+
+Pastāstiet mums par sinhronizācijas iespējām.
+
+Bezvalstnieks pret valstspiederīgo.
+
+Runājiet par pavedienu baseiniem.
+
+Pavediens
+Palaist

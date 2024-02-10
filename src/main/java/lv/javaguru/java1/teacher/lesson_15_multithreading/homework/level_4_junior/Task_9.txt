@@ -1,0 +1,10 @@
+Padariet NotThreadSafeIdGeneratorComplexState klases pavedienu drošu
+no iepriekšējā uzdevuma, sinhronizējot visas publiskās metodes
+nextId() un isEven(). Lai to izdarītu, izmantojiet sinhronizēto atslēgvārdu.
+
+Vai tas jums izdevās?
+
+Kāpēc abas metodes ir jāsinhronizē?
+
+PS: nosacījums - veiciet vismaz 1000000 izsaukumu nextId() un isEven()
+katrā paralēlajā pavedienā.

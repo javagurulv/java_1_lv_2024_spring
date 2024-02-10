@@ -1,0 +1,7 @@
+Veiciet izmaiņas programmā, salīdzinot ar iepriekšējo uzdevumu.
+Drukājot tekstu "Hello World" uz pulti, straume
+jāizdrukā savs unikālais numurs.
+
+Piemērs:
+[thread unique number] Hello World
+[thread unique number] Hello World

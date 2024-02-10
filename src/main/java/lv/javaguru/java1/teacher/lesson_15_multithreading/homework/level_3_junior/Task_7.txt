@@ -1,0 +1,7 @@
+Mēģiniet padarīt klases NotThreadSafeIdGeneratorComplexState pavedienu drošu
+no iepriekšējā uzdevuma, izmantojot Atomic klases.
+
+Vai tas jums izdevās?
+
+PS: nosacījums - veiciet vismaz 1000000 izsaukumu nextId() un isEven()
+katrā paralēlajā pavedienā.

@@ -1,0 +1,15 @@
+class NotThreadSafeIdGenerator {
+
+    private int id;
+
+    public int nextId() {
+        return id++;
+    }
+
+}
+
+Tavs uzdevums (ja tu to uzņemies) ir uzrakstīt programmu
+kas pierādīs, ka šis id ģenerators nav pavedienam drošs.
+
+Padoms: mēģiniet izsaukt nextId() metodi vairākas reizes
+no dažādiem pavedieniem vienlaikus.

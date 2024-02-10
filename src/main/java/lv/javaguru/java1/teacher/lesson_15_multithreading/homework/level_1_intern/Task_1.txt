@@ -1,0 +1,2 @@
+Uzrakstiet programmu, kas konsolē izdrukā tekstu "Hello World".
+no papildu straumes.

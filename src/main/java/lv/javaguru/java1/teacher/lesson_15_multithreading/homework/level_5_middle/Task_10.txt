@@ -1,0 +1,17 @@
+class RandomNumberList {
+
+    private List<Integer> randomNumbers = new ArrayList<>();
+
+    public void add(int randomNumber) {
+        this.randomNumbers.add(randomNumber);
+    }
+
+    public int size() {
+        return this.randomNumbers.size();
+    }
+
+}
+
+Uzrakstiet programmu, kas izsauks add() metodi ar nejauši ģenerētu
+veseli skaitļi no dažādām plūsmām. Pierādīt, ka pielietojums ir vienkāršs
+ArrayList nav drošs daudzpavedienu vidē!

@@ -1,0 +1,32 @@
+Pievienojiet funkcionalitāti NotThreadSafeIdGenerator klasei
+noteikt, vai ID ir pāra vai nē, šādi:
+
+class NotThreadSafeIdGeneratorComplexState {
+
+    private int id;
+    private boolean even;
+
+    public int nextId() {
+        id++;
+        this.even = isEven(id);
+        return id;
+    }
+
+    public boolean isEven() {
+        return this.even;
+    }
+
+    private boolean isEven(int number) {
+        return number % 2 == 0;
+    }
+
+}
+
+Uzrakstiet programmu, kas parāda šo id un pat īpašumu
+var būt nekonsekventos stāvokļos.
+
+Lai to izdarītu, vairākas reizes vairākos pavedienos izsauciet metodi nextId().
+paralēli. Saņemot jaunu id vērtību, nekavējoties izsauciet metodi isEven().
+un pārbaudiet iegūto vērtību konsekvenci. Ja iegūtās vērtības
+nav konsekventi (id ir pāra, bet isEven() tiek atgriezts nevis pat un otrādi), tad
+ierakstiet šo faktu, izdrukājot id vērtības un pat konsolei.

@@ -1,0 +1,6 @@
+Nodrošiniet, lai ID ģenerators darbotos pareizi (no iepriekšējā uzdevuma)
+daudzpavedienu vidē, izmantojot AtomicInteger klasi. Priekš šī
+izveidot ThreadSafeAtomicIdGenerator klasi.
+
+Pierādiet, ka tas darbojas pareizi, izmantojot to pašu kodu, kuru izstrādājāt
+lai demonstrētu nepareizu NotThreadSafeIdGenerator klases darbību.

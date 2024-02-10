@@ -1,0 +1,2 @@
+Mēģiniet labot situāciju no iepriekšējā uzdevuma, izmantojot
+pavedieniem droša saraksta ieviešana Collections.synchronizedList(List).
