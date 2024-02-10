@@ -1,0 +1,34 @@
+Programmējot ir ērtāk un ātrāk visu izdarīt
+darbības, izmantojot tastatūru, nepārslēdzoties uz peli.
+
+Iemācieties ievadīt kodu Git bez peles!
+
+Alt (pa kreisi) + 1 - atver projekta logu, kurā ir redzama projekta struktūra.
+
+Izmantojiet augšupvērsto bultiņu, lai pārietu uz pašu projekta sakni.
+
+Izmantojot tastatūru, tiek izsaukta uznirstošā izvēlne.
+
+Bultiņas: uz augšu, uz leju, pa kreisi, pa labi – palīdz izvēlēties
+vēlamo izvēlnes vienumu.
+
+Git -> Iesaistīt direktoriju...
+
+Mēs rakstām ziņojumu komisijai.
+
+Ctrl (pa kreisi) + Enter ir zili iezīmētās pogas izsaukums
+jebkurā dialoglodziņā (mūsu gadījumā Commit).
+
+
+Pēc apstiprināšanas dariet to pašu ar komandu Push:
+
+Alt (pa kreisi) + 1 - atver projekta logu, kurā ir redzama projekta struktūra.
+
+Izmantojiet augšupvērsto bultiņu, lai pārietu uz pašu projekta sakni.
+
+Izmantojot tastatūru, tiek izsaukta uznirstošā izvēlne.
+
+Bultiņas: uz augšu, uz leju, pa kreisi, pa labi – palīdz izvēlēties
+vēlamo izvēlnes vienumu.
+
+Git -> Repozitorijs -> Push...

@@ -1,0 +1,13 @@
+Lieciet šai programmai darboties!
+
+class SizeMatters {
+    public static void main(String[] args) {
+        system.out.println("Sorry, I have an errors.");
+        system.out.println("Please fix me!")
+    }
+}
+
+Šī uzdevuma mērķis ir pievērst jūsu uzmanību nosaukumiem
+klasēm Java un skaidri norāda, ka programmēšanas valodas sintakse
+Java ir reģistrjutīga (atšķir lielos un mazos
+burti).

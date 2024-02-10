@@ -1,0 +1,10 @@
+Uzdevums "Laika tulkošana":
+Uzrakstiet programmu, kas pieprasa
+lietotājam ir sekunžu un displeju skaits
+laiks formātā stundas:minūtes:sekundes.
+Piemēram, ja lietotājs ievada 3665 sekundes,
+Programmai vajadzētu izvadīt 1:1:5.
+
+Mērķi:
+- izdomāt risinājuma algoritmu;
+- iepazīties ar dalīšanas darbību bez atlikuma (int / int).

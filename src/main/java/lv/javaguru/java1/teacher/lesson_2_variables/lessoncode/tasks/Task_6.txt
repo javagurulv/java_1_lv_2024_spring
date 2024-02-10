@@ -1,0 +1,16 @@
+Aritmētiskās darbības ar veseliem skaitļiem - kalkulators.
+Uzrakstiet programmu, kas veic visas aritmētiskās darbības
+(+/-/*/:) virs veseliem skaitļiem un izdrukā rezultātus konsolē.
+
+Skiču risinājums {
+    int number1 = 100;
+    int number2 = 200;
+    int additionResult = number1 + number2;
+    int subtractionResult = number1 - number2;
+    int multiplicationResult = number1 * number2;
+    int divisionResult = number1 / number2;
+    System.out.println();
+}
+
+Mērķi:
+- konsolidēt mainīgo lielumu izveidi un to izmantošanu praksē.

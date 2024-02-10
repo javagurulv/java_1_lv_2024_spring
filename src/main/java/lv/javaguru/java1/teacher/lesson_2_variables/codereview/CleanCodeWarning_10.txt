@@ -1,0 +1,27 @@
+BRĪDINĀJUMS: Neizmantojiet statiskas iekšējās klases,
+jo vēl neesat to izdarījis
+saprast to nozīmi un nezināt, kam tie tiek izmantoti.
+
+public class Task_23 {  static class AttentionPlease {
+    public static void main(String[] args) {
+        System.out.println("Code outside the method will not compile!");
+
+    }
+}
+}
+
+BETTER:
+
+public class Task_23 {
+    public static void main(String[] args) {
+        System.out.println("Code outside the method will not compile!");
+    }
+}
+
+или
+
+class AttentionPlease {
+    public static void main(String[] args) {
+        System.out.println("Code outside the method will not compile!");
+    }
+}

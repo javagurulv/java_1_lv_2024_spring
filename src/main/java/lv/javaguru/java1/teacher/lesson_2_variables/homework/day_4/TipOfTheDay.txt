@@ -1,0 +1,40 @@
+CamelCase ir izmantotā nosaukumu piešķiršanas metode
+programmēšana mainīgo nosaukumu sastādīšanai,
+funkcijas un klases.
+
+Šajā stilā katrs vārda vārds ir rakstīts ar lielo burtu,
+izņemot pirmo vārdu (izņemot klašu nosaukumus Java valodā).
+
+Apskatīsim piemēru: mums ir mainīgais,
+kurā tiek saglabāts skolēnu skaits klasē.
+Tā vietā, lai izmantotu nosaukumu "studentu skaits",
+mēs izmantotu CamelCase un nosauktu mainīgo "studentCount".
+
+Šeit ir CamelCase pamatnoteikumi:
+
+1. Visi vārdi, izņemot pirmo, ir rakstīti ar lielo burtu.
+2. Neizmantojiet atstarpes vai speciālās rakstzīmes mainīgo nosaukumos.
+3. Pirmais vārds tiek rakstīts ar mazo burtu.
+
+CamelCase priekšrocības:
+
+1. Uzlabo lasāmību:
+Izmantojot CamelCase, kods kļūst lasāmāks un saprotamāks.
+Lasot mainīgos vai funkcijas CamelCase, jūs uzreiz redzat
+robežas starp vārdiem un viegli noteikt, kuri vārdi veido vārdu.
+
+2. Konsekvence:
+CamelCase ir izplatīta nosaukumu piešķiršanas metode
+daudzās programmēšanas valodās. Izmantojot to, jūs sekojat
+kopīgus noteikumus un padariet savu kodu saskaņotāku ar citiem
+izstrādātājiem.
+
+3. Vienkārša rakstīšana:
+CamelCase neizmanto pasvītras vai citas rakstzīmes
+īpašās rakstzīmes, atvieglojot rakstīšanu.
+Turklāt atstarpju trūkums atvieglo mainīgo nosaukumu izmantošanu kodā.
+
+CamelCase izmantošana palīdz izveidot skaidru un
+strukturēts kods. Tas uzlabo lasāmību un
+jūsu koda atbilstību vispārpieņemtajām konvencijām
+programmēšanā.

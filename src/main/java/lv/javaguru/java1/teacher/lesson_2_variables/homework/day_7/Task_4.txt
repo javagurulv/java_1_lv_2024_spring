@@ -1,0 +1,34 @@
+Pārbaudiet, vai izveidoto struktūra sakrīt
+jūs pakešu struktūra pakešu skolotāja mapē.
+
+student_aleksandrs_padalko.lesson_1
+    daily_challenges_1
+    daily_challenges_2
+    daily_challenges_3
+    daily_challenges_4
+    daily_challenges_5
+    daily_challenges_6
+    daily_challenges_7
+student_aleksandrs_padalko.lesson_2
+    daily_challenges_1
+    daily_challenges_2
+    daily_challenges_3
+    daily_challenges_4
+    daily_challenges_5
+    daily_challenges_6
+    daily_challenges_7
+    и так далее ...
+
+Ja jūsu iepakojuma struktūra neatbilst iepriekš minētajam
+(tā, kas izmantota skolotāja mapē)
+lūdzu, izlabojiet to un nodrošiniet to precīzi
+ar pakotnes struktūru skolotāja mapē.
+
+Tas jādara šādu iemeslu dēļ:
+- jums būs vieglāk orientēties rakstītajā kodā;
+- skolotājam būs ērti pārbaudīt rakstīto
+   savu kodu (pārskatiet kodu).
+
+Ja jūsu paku struktūra neatbilst struktūrai
+paketes skolotāja mapē
+nevarēs pārbaudīt jūsu darbu (veikt koda pārskatīšanu).

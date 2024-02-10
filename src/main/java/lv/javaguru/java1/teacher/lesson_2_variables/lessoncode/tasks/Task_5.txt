@@ -1,0 +1,16 @@
+Uzrakstiet programmu, kas pievieno divus skaitļus un izdrukā
+rezultāts uz konsoli.
+
+Skiču risinājums {
+    int number1 = 100;
+    int number2 = 200;
+    int result = number1 + number2;
+    System.out.println();
+}
+
+Mērķi:
+- iepazīties ar int datu tipu veselu skaitļu attēlošanai;
+
+- iepazīties ar mainīgā lieluma jēdzienu;
+
+- trenējieties izdomāt klases nosaukumu jaunai programmai.

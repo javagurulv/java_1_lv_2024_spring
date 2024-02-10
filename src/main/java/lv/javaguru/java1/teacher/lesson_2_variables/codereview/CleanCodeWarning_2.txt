@@ -1,0 +1,20 @@
+BRĪDINĀJUMS: skatieties koda formatējumu, slikti formatēts
+Kods ir grūti nolasāms. Ir izgudroti koda formatēšanas noteikumi (atkāpes).
+lai palīdzētu personai ātri saprast programmatūru
+kodu, kompilators tos pilnībā ignorē kompilācijas laikā.
+
+        BankAccount {
+     public static void main(String[] args) {
+
+}
+
+
+     }
+
+LABĀK:
+
+BankAccount {
+     public static void main(String[] args) {
+
+     }
+}

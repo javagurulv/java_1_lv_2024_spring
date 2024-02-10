@@ -1,0 +1,16 @@
+Ņemot vērā kodu, jums ir jālabo main() metodes kods, lai
+lai programmu varētu palaist.
+Nav nepieciešams rakstīt klases funkcionalitāti.
+Izveidojiet pārskatītu klasi, lai iesniegtu savu darbu.
+
+class LoginService {
+
+	public void main(String[] args) {
+		System.out.println("You can login!");
+	}
+
+
+}
+
+Šīs aktivitātes mērķis ir pievērst jūsu uzmanību sintaksei.
+main() metodes deklarācijas Java programmēšanas valodā.

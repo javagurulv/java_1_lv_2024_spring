@@ -1,0 +1,10 @@
+Komanda System.out.println("teksts"); izvada norādīto "tekstu"
+uz konsoli un pārvieto kursoru uz jaunu rindiņu.
+
+Lai izvadītu tekstu uz konsoli, nepārvietojot kursoru uz
+jaunu rindu varat izmantot komandu
+     System.out.print("teksts");
+šī komanda izdrukās tekstu konsolē un atstās kursoru tajā pašā rindā.
+
+Uzrakstiet programmu, kas demonstrē komandas lietošanu
+     System.out.print("teksts");

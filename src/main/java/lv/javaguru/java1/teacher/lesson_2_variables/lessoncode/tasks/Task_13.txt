@@ -1,0 +1,8 @@
+Uzdevums "Ciparu paritātes noteikšana":
+Uzrakstiet programmu, kas pieprasa
+lietotājam ir vesels skaitlis un tiek parādīts ziņojums,
+norāda, vai skaitlis ir pāra vai nepāra.
+
+Mērķi:
+- iepazīties ar nodaļas darbības atlikumu (%).
+- iepazīstieties ar operatoru if() {}.

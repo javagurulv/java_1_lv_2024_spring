@@ -1,0 +1,6 @@
+Uzdevums "Kvadrātvienādojuma saknes":
+Uzrakstiet programmu, kas atrod kvadrātvienādojuma saknes.
+
+Mērķi:
+- aprēķinos pielietot mainīgā lieluma jēdzienu;
+- atrodiet risinājuma algoritmu (Google).

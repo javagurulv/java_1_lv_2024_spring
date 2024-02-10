@@ -1,0 +1,4 @@
+Izskaidrojiet mainīgo un datu tipu jēdzienu.
+Iemācieties ātri izveidot jaunas nodarbības
+nelielu programmu rakstīšanai.
+Iemācieties veikt pamatdarbības ar Git: add, commit, push, pull.

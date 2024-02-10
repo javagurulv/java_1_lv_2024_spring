@@ -1,0 +1,11 @@
+Programmējot ir ērtāk un ātrāk visu izdarīt
+darbības, izmantojot tastatūru, nepārslēdzoties uz peli.
+
+Atveriet vairākas nodarbības, jums vajadzētu būt
+katrai klasei koda redaktorā ir viena grāmatzīme.
+
+Iemācieties pārslēgties starp atvērtajām klasēm, neizmantojot peli!
+
+Alt (pa kreisi) + kreisā bultiņa
+
+Alt (kreisais) + labā bultiņa

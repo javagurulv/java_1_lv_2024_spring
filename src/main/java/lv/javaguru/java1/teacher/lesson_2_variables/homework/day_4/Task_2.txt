@@ -1,0 +1,13 @@
+Programmējot ir ērtāk un ātrāk visu izdarīt
+darbības, izmantojot tastatūru, nepārslēdzoties uz peli.
+
+Iemācieties izveidot jaunu klasi bez peles!
+
+Alt (pa kreisi) + 1 - atver projekta logu, kurā ir redzama projekta struktūra.
+
+Izsauc uznirstošo izvēlni, izmantojot tastatūru (Fn + Ctrl (pa labi)).
+
+Bultiņas: uz augšu, uz leju, pa kreisi, pa labi – palīdz izvēlēties
+vēlamo izvēlnes vienumu.
+
+Enter - pēc jaunās klases nosaukuma ievadīšanas.

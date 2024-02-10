@@ -1,0 +1,26 @@
+Pārbaudiet visus izveidoto pakotņu nosaukumus.
+
+Viņu nosaukumos drīkst izmantot tikai mazos burtus!
+Tas ir ierasts Java valodā.
+
+Lai gan kompilators sniedz jums iespēju pakotņu nosaukumos
+izmantojiet lielos burtus, tas ievērojami pasliktina lasāmību
+Java kods īpaši lielās lietojumprogrammās, kuras jūs drīzumā
+tu rakstīsi pats. Tāpēc mēs uzreiz mācāmies
+pareizi nosauc iepakojumus!
+
+Labojiet paku nosaukumus, ja tajos ir lielie burti.
+
+Alt (pa kreisi) + 1 - atveriet projekta logu.
+
+Izmantojiet augšup, lejup, pa labi un pa kreisi vērstās bultiņas, lai atlasītu paketi
+kuru nosaukumā ir lielie burti.
+
+Izmantojot tastatūru, tiek izsaukta uznirstošā izvēlne.
+
+Refaktors —> Pārdēvēt...
+
+Un mēs piešķiram jūsu iepakojumam jaunu nosaukumu.
+
+Ātra taustiņu kombinācija, kad kursi atrodas
+uz pakotnes nosaukuma koda redaktorā: Shift (pa kreisi) + F6.

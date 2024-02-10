@@ -1,0 +1,12 @@
+Uzrakstiet programmu, kas drukā
+jūsu vārds vienā rindā un uzvārds citā rindā uz konsoli.
+
+Mērķi:
+- iemācīties kopēt nodarbības, neizmantojot
+   pele (Ctrl + C -> Ctrl + V);
+
+- iemācīties dot klasēm jaunus nosaukumus
+   (CamelCase apzīmējums https://ru.wikipedia.org/wiki/CamelCase);
+
+- iepazīties ar komandu secību,
+   katra komanda jaunā rindā.

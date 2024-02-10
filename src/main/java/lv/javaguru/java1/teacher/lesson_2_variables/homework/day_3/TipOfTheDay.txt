@@ -1,0 +1,43 @@
+Ir ļoti svarīgi piešķirt mainīgajiem jēgpilnus nosaukumus
+programmēšana. Kāpēc?
+
+Iedomājieties, ka strādājat pie liela projekta
+mainīgo lielumu kopa, un katram no tiem ir pirmskaitlis un
+neinformatīvs nosaukums, piemēram, "a" vai "x".
+Kad pēc kāda laika atgriezīsities pie sava koda,
+jūs varat apjukt un aizmirst, kādu informāciju tas satur
+katrs mainīgais.
+
+Tāpēc izteiksmīgi mainīgo nosaukumi ir svarīgi:
+
+1. Koda skaidrība:
+Izmantojot izteiksmīgus nosaukumus,
+jūs padarāt savu kodu skaidrāku un vieglāk lasāmu.
+Citi izstrādātāji vai pat jūs varat viegli saprast
+piešķirot mainīgo tikai pēc tā nosaukuma, bez vajadzības
+izpētīt papildu kodu.
+
+2. Uzlabots atbalsts un serviss:
+Ja pēc kāda laika atgriezīsities pie sava koda
+vai nodot to citam izstrādātājam, izteiksmīgi nosaukumi
+mainīgie palīdzēs ātri saprast, ko katrs dara
+mainīgais un kā tas tiek izmantots. Tas vienkāršo apkopi
+kodu un veikt tajā izmaiņas.
+
+3. Kļūdu iespējamības samazināšana:
+Ja mainīgo nosaukumi skaidri atspoguļo to mērķi,
+jūs, visticamāk, tos izmantosit pareizi
+savā kodā. Izteiksmīgi nosaukumi palīdz izvairīties no neskaidrībām
+un kļūdas, kas saistītas ar mainīgo lielumu nepareizu izmantošanu.
+
+4. Izmaiņu vēstures lasāmība:
+Izteiksmīgu mainīgo nosaukumu izmantošana veido vēsturi
+izmaiņas kodā ir saprotamākas. Ja veicat izmaiņas
+iekļūt kodā vai skatīt saistību vēsturi versiju kontroles sistēmā,
+skaidri mainīgo nosaukumi palīdzēs jums izsekot,
+kādas izmaiņas tika veiktas un kāpēc.
+
+Tātad, piešķirot mainīgajiem jēgpilnus nosaukumus, jūs izveidojat savu
+kods ir saprotamāks, vieglāk lasāms, atbalstāms un uzturējams.
+Tas palīdz jums un citiem izstrādātājiem strādāt efektīvāk
+ar kodu un samazina kļūdu iespējamību.

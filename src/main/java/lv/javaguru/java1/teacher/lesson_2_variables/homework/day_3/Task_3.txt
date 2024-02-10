@@ -1,0 +1,5 @@
+Uzrakstiet programmu, kas jautā lietotājam
+trīs veselus skaitļus un parāda to vidējo aritmētisko
+(saskaita visus skaitļus un dala ar to skaitu).
+
+Piezīme. Lūdzu, ņemiet vērā, ka rezultāts var būt daļskaitlis.

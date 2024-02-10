@@ -1,0 +1,20 @@
+BRĪDINĀJUMS: nepareizs mainīgā nosaukums. Ko saka nosaukums?
+mainīgais "a"? Ja programma ir liela un kods ir garš,
+tad kaut kur koda vidū tiekoties ar mainīgā "a" nosaukumu
+cilvēks nesapratīs, kas tas ir par mainīgo un kāpēc
+tas ir paredzēts. Mainīgā nosaukumam nekavējoties jānorāda
+kāpēc šis mainīgais tika izveidots un kas tajā tiek glabāts.
+
+System.out.print("Enter number: ");
+int a = scanner.nextInt();
+
+double r = scanner.nextDouble();
+double p = 3.14159;
+
+BETTER:
+
+System.out.print("Enter number: ");
+int number = scanner.nextInt();
+
+double radius = scanner.nextDouble();
+double pi = 3.14159;

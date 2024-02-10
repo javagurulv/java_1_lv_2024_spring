@@ -1,0 +1,35 @@
+Mainīgais ir sava veida atmiņas apgabals, kurā mēs
+Mēs varam saglabāt un saglabāt informāciju, kamēr programma darbojas.
+
+Varat iedomāties mainīgo kā kastīti vai konteineru,
+kurā var kaut ko ievietot un dot tam "kaut kam" nosaukumu.
+
+Iedomāsimies, ka jums ir kastīte ar uzrakstu "augļi".
+Šajā kastē varat ievietot dažādus augļus, piemēram, ābolus,
+bumbieri vai banāni. Jūs varat izmantot kastīti, lai uzglabātu un
+jebkurā laikā piekļūt augļiem.
+
+Programmēšanā mainīgais darbojas līdzīgi.
+Jūs deklarējat mainīgo, piešķirat tam nosaukumu un varat to saglabāt
+dažādas vērtības šajā mainīgajā programmas izpildes laikā.
+
+Piemēram, mums ir mainīgais "vecums" (vecums).
+Šim mainīgajam varam piešķirt vērtību, piemēram, 25.
+Tagad "vecums" saglabā vērtību 25. Vēlāk mēs varam mainīt
+mainīgā lieluma "age" vērtību līdz 30 gadiem vai jebkuru citu skaitli,
+atkarībā no mūsu programmas.
+
+Mainīgie palīdz mums strādāt ar datiem un ietaupīt
+aprēķinu rezultāti vai lietotāja ievade. Mēs varam
+izmantot mainīgās vērtības mūsu programmās,
+veikt darbības ar tiem, parādīt vai saņemt tos
+lēmumus, pamatojoties uz viņu vērtībām.
+
+Ir svarīgi izvēlēties pareizus un aprakstošus mainīgo nosaukumus,
+lai saprastu, kādu informāciju tie satur. Piemēram,
+vienkāršā vārda "a" vietā labāk izmantot saprotamākus nosaukumus,
+piemēram, "vecums", "vārds" vai "skaitītājs".
+
+Mainīgie lielumi ļauj mums uzglabāt un izmantot informāciju
+mūsu programmās, padarot tās elastīgas un spējīgas veikt
+dažādi uzdevumi atkarībā no pašreizējā datu stāvokļa.

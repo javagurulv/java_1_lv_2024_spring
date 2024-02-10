@@ -1,0 +1,24 @@
+BRĪDINĀJUMS: Apvienojot formulas aprēķinu un konsoles izvadi
+vienā rindā. Jā, programmas kods ļauj rakstīt uz
+vienā rindā ir vairākas darbības (saskaitīšana, reizināšana,
+virkņu savienošana un konsoles izvade). Šis dizains
+saprotams sastādītājam, bet ne cilvēkiem. Kad
+programmētājs nolasa kodu, viņš grib redzēt katrā rindā
+vienu komandu, tad būs vienkārši un saprotami. Vieglāk
+lasīt un saprast 100 koda rindu programmu, kurā
+katrā rindā ir viena komanda nekā programmā
+20 koda rindiņas, kurās katrā rindā ir 3 - 5 komandas.
+Atcerieties, ka mēs rakstām programmas kodu cilvēkiem! Par to
+lai cilvēkam būtu vieglāk ar to tikt galā, saprast un pēc tam
+veikt tajā izmaiņas.
+
+System.out.println("Perimeter= "+2*p*r);
+System.out.println("Space= "+p*r*r);
+
+BETTER:
+
+double perimeter = 2 * p * r;
+double space = p * r * r;
+
+System.out.println("Perimeter = " + perimeter);
+System.out.println("Space = " + space);

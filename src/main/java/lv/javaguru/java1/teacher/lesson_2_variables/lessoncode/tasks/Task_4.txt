@@ -1,0 +1,5 @@
+Saņemiet izmaiņas no globālās repozitorija uz datoru.
+
+Mērķi:
+- iemācīties atjaunināt projektu no globālās krātuves
+   (komanda Git-> pull).

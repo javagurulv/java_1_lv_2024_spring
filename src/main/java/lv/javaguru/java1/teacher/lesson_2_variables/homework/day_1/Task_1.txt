@@ -1,0 +1,10 @@
+Ņemot vērā kodu, jums ir jānovērš sintakses kļūda,
+kā rezultātā rodas kompilācijas kļūda.
+Nav nepieciešams rakstīt klases funkcionalitāti.
+Izveidojiet pārskatītu klasi, lai iesniegtu savu darbu.
+
+class Book {
+
+
+Šīs aktivitātes mērķis ir pievērst jūsu uzmanību sintaksei.
+klašu deklarācijas Java programmēšanas valodā.

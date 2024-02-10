@@ -1,0 +1,45 @@
+Datu tips ir veids, kā dators uzglabā un
+apstrādā dažāda veida informāciju.
+
+Programmējot, ir jānorāda datu tips mainīgajiem,
+lai dators saprastu, kā apstrādāt šos datus.
+
+Iedomāsimies, ka jums ir uzglabāšanas kaste.
+Kaste var būt dažāda izmēra un ar dažādām īpašībām.
+Arī datu tipiem programmēšanā var būt savas īpašības.
+
+Programmēšanā mums ir dažāda veida dati,
+piemēram, skaitļi, virknes, simboli un Būla vērtības.
+
+Katram datu veidam ir sava loma un mērķis.
+
+Piemēram, skaitļu datu tips var attēlot veselus skaitļus,
+piemēram, 5 vai -10, kā arī peldošā komata skaitļi,
+piemēram, 3,14 vai -0,5. Izmantojot skaitliskos datu tipus
+var veikt matemātiskas darbības, piemēram, saskaitīšanu,
+atņemšana, reizināšana un dalīšana.
+
+Virknes datu tips tiek izmantots, lai attēlotu teksta informāciju.
+Piemēram, rindā var būt jūsu vārds vai frāze "Sveika, pasaule!"
+Virkņu datu tipi ļauj strādāt ar tekstu, kombinēt
+virknes un veikt citas ar teksta apstrādi saistītas darbības.
+
+Būla datu tipam ir tikai divas iespējamās vērtības:
+patiess (patiess) vai nepatiess (nepatiess). Tiek izmantoti Būla datu tipi
+lai attēlotu nosacījumus vai karogus, kas nosaka, vai
+vai konkrēts nosacījums ir izpildīts vai nē.
+
+Ir arī citi datu veidi, piemēram, rakstzīmes, kuras
+apzīmē atsevišķus burtus un īpašus datu tipus,
+kas paredzēti sarežģītākas informācijas glabāšanai,
+piemēram, masīvi vai datu struktūras.
+
+Programmēšanā ir svarīgi saprast datu tipus,
+jo tie palīdz datoram saprast, kā apstrādāt un
+darboties ar saviem datiem.
+
+Datu tipi nosaka raksturlielumus un ierobežojumus vērtībām, kuras
+kurus var saglabāt mainīgajos.
+
+Pareiza datu veida atlase mainīgajam ļauj to izdarīt
+optimizējiet atmiņu un pārliecinieties, ka programma darbojas pareizi.

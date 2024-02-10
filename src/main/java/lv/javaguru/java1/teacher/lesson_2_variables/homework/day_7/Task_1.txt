@@ -1,0 +1,12 @@
+Lieciet šai programmai darboties!
+
+class NoSleepNoFocus {
+    public static void main(String[] args) {
+        System.out.println(I wanna coffee);
+        System.out.println("So bad);
+    }
+}
+
+Šī uzdevuma mērķis ir pievērst jūsu uzmanību tam, ka
+kas ir teksts (virkne) Java programmēšanas valodā
+ir rakstīts dubultpēdiņās.

@@ -1,0 +1,33 @@
+Izlabojiet kompilācijas kļūdas šajā programmā.
+
+public class CorrectDataTypes {
+
+	public static void main(String[] args) {
+
+		int numberOne = 10;
+		double numberTwo = 20.0;
+
+		System.out.println("Number 1 = " + numberOne);
+		System.out.println("Number 2 = " + numberTwo);
+
+		float sum = numberOne + numberTwo;
+
+		System.out.println("Sum = " + sum);
+	}
+
+}
+
+Šī uzdevuma mērķis ir pievērst jūsu uzmanību tam, ka
+Kāds ir rezultāta veids Java programmēšanas valodā?
+aritmētiskā darbība ir
+plašākā argumenta veids. Tas ir, ja:
+
+    int a = 1;
+    long b = 2L;
+    long result = a + b;
+
+tad saskaitīšanas darbības rezultāta veids (a + b) būs garš,
+jo garais veids ir plašāks datu tips nekā int.
+Plašs - tādā nozīmē, ka šī datu tipa mainīgajā
+var attēlot vērtības no lielāka diapazona.
+Garā datu tipa diapazons ir lielāks nekā int tipa diapazons.

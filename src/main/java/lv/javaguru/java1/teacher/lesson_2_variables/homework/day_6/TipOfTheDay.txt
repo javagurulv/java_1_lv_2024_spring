@@ -1,0 +1,50 @@
+Spēcīga rakstīšana ir programmēšanas jēdziens,
+kas nozīmē, ka katram mainīgajam ir jābūt
+noteiktu datu tipu, un tā veidu nevar mainīt
+programmas izpildes laikā.
+
+Apskatīsim piemēru. Iedomājieties, kas jums ir
+mainīgais "age" (vecums) tipa "integer" (vesels skaitlis).
+Tas nozīmē, ka varat izmantot mainīgo "vecums".
+tikai veselu skaitļu, piemēram, 25 vai -10, glabāšanai.
+Ja mēģināt tai piešķirt peldošā komata vērtību,
+piemēram, 3.14, radīsies kļūda, jo datu tips
+neatbilst paredzētajam veidam.
+
+Spēcīga rakstīšana palīdz novērst kļūdas,
+kas saistīti ar nepareizu mainīgo lielumu izmantošanu.
+Tas nodrošina, ka tiks izmantotas mainīgās vērtības
+tikai to konkrētajā datu tipā.
+
+Spēcīgas mašīnrakstīšanas priekšrocības:
+
+1. Nosakiet kļūdas agrīnā stadijā.
+Ja kompilators vai tulks saskaras ar vispārīgu kļūdu,
+piemēram, mēģinājums izmantot nepareiza veida mainīgo,
+tas rada kļūdu pat pirms programmas izpildes. Tas palīdz
+atklāt problēmas agrīnā attīstības stadijā un novērst tās
+iespējamās kļūdas darba programmā.
+
+2. Datu drošība:
+Spēcīga rakstīšana palīdz nodrošināt, ka dati programmā
+tiks izmantots pareizi. Piemēram, ja
+vari būt drošs, ka mainīgais ir paredzēts, lai saturētu skaitli
+ka neviens nemēģinās to izmantot teksta datu glabāšanai.
+
+3. Koda lasāmība un saprotamība:
+Ja katram mainīgajam ir noteikts datu tips,
+tas padara kodu skaidrāku un labāk lasāmu citiem izstrādātājiem.
+Viņi var viegli saprast, kādi dati un kā tiek glabāti mainīgajā
+tie tiek izmantoti.
+
+4. Uzlabota veiktspēja:
+Kompilatori un tulki var veikt koda optimizāciju
+pamatojoties uz informāciju par datu veidiem. Tas ļauj programmām
+strādāt efektīvāk un paveikt lietas ātrāk.
+
+Ir svarīgi saprast, ka spēcīga rakstīšana var būt vairāk
+ierobežojošas un prasa stingrāku ievērošanu
+mašīnrakstīšanas noteikumi. Tomēr tas palīdz radīt uzticamākus,
+drošas un lasāmas programmas.
+
+Java ir stingri drukāta programmēšanas valoda.

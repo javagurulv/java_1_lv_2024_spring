@@ -1,0 +1,5 @@
+BRĪDINĀJUMS: Atkāpe starp aritmētiskajām darbībām
+lai labāk nolasītu programmas kodu.
+2*p*r
+
+BETTER: 2 * p * r

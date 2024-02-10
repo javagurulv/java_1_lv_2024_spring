@@ -1,0 +1,21 @@
+Uzdevums "Trīsstūra laukums":
+Uzrakstiet programmu, kas pieprasa
+lietotājam ir trīs trijstūra malas,
+un pēc tam aprēķina un parāda tā laukumu.
+
+Mērķi:
+- Es nezinu, ar ko sākt! Ko darīt?
+   Kā rīkoties situācijā, kad nekas nav skaidrs?
+
+- algoritma sastādīšana problēmas risināšanai vārdos!
+
+- Es nezinu, kā aprēķināt trīsstūra laukumu, kas man jādara?
+
+- meklēt formulu Google;
+
+- Es nezinu, kā pieprasīt datus no lietotāja
+   no konsoles -> Google palīgā!
+
+- Gārņa formula, kas aprēķināta pa daļām;
+
+- Es nezinu, kā aprēķināt kvadrātsakni Java -> Google!

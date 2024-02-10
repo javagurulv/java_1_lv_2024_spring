@@ -1,0 +1,13 @@
+BRĪDINĀJUMS: neizmantojiet mainīgo nosaukumos (īpaši sākumā)
+pasvītrojums. Šis programmēšanas stils tiek izmantots bieži
+C++, bet Java labāk to nedarīt. Nelejupielādējiet kodu
+programmas ar papildu simboliem.
+
+    public String setValues(String _bookName, String _bookGenre, int _bookID, int _bookNumber, int[] _cordPlaced) {
+        String param = (_bookName + _bookGenre + _bookID + _bookNumber);
+
+
+BETTER:
+
+    public String setValues(String bookName, String bookGenre, int bookID, int bookNumber, int[] cordPlaced) {
+        String param = (bookName + bookGenre + bookID + bookNumber);

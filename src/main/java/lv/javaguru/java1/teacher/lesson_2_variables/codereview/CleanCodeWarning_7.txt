@@ -1,0 +1,10 @@
+BRĪDINĀJUMS. Nepievienojiet mainīgā nosaukumam tā datu tipu prefiksu.
+No jebkuras vietas programmā virziet kursoru virs mainīgā
+un nospiediet kombināciju Ctrl + Q, jūs redzēsit tipa uzvedni
+mainīgie dati.
+
+double secondDoubleNumber = scanner.nextDouble();
+
+BETTER:
+
+double secondNumber = scanner.nextDouble();

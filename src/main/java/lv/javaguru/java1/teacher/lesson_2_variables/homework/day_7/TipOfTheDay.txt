@@ -1,0 +1,54 @@
+Java baitu kods ir starpposma kods, kas tiek ģenerēts
+Java kompilators no programmas pirmkoda.
+
+Tā vietā, lai tieši tulkotu pirmkodu mašīnkodā,
+Java kompilators to pārvērš baitkodā, kas ir
+instrukciju kopa, ko Java virtuālā mašīna (JVM) saprot.
+
+Iedomāsimies, ka rakstāt vēstuli savā dzimtajā valodā,
+bet tavs draugs šo valodu nesaprot. Lai viņš varētu izlasīt tavu vēstuli,
+jūs to tulkojat īpašā valodā, ko tas var saprast.
+
+Baitkods Java veic līdzīgu funkciju - tas tulko
+jūsu Java avota kods tiek pārveidots par vispārīgu starpkodu,
+ko var izpildīt Java virtuālā mašīna.
+
+Baitkods ir instrukciju kopums, kas rakstīts īpašā valodā,
+ko JVM var saprast. Java virtuālā mašīna (JVM)
+ir programma, kas izpilda baitkodu un konvertē
+to mašīnkodā, kas ir saprotams konkrētai operētājsistēmai
+un aparatūru.
+
+Java baitkoda izmantošanas priekšrocības:
+
+1. Pārnesamība:
+Baitkods ir neatkarīgs no platformas, kas nozīmē
+ka to var izpildīt jebkurā sistēmā, kurā tā ir instalēta
+Java virtuālā mašīna (JVM). Tas ieslēdz programmas
+Java ir pārnēsājama un ļauj tos palaist dažādos
+operētājsistēmas bez nepieciešamības veikt atkārtotu kompilāciju.
+
+2. Drošība:
+Izmantojot JVM baitkoda izpildei, Java nodrošina
+papildu drošības līmeņi. JVM pārņem kontroli
+piekļuvi resursiem un novērš nedroša koda izpildi,
+kas padara Java programmas salīdzinoši drošas.
+
+3. Atmiņas pārvaldība:
+JVM nodrošina automātisku atmiņas pārvaldību,
+atbrīvojot programmētāju no nepieciešamības skaidri piešķirt un
+atbrīvot atmiņu. JVM automātiski piešķir atmiņu
+objektiem un pēc tam automātiski atbrīvo to, kad objekts
+vairs nelietots, atkritumu savācējs.
+
+4. JIT interpretācija un apkopošana:
+JVM interpretē baitkodu programmas izpildes sākumposmā,
+un pēc tam var izmantot Just-In-Time (JIT) kompilāciju
+bieži izmantotā koda pārvēršana mašīnkodā,
+kas uzlabo programmas izpildes veiktspēju.
+
+Rezultātā baitkoda izmantošana Java ļauj izveidot
+pārnēsājamas un drošas programmas, kuras var izpildīt
+uz dažādām sistēmām. JVM ir starpnieks starp baitu kodu
+un operētājsistēmu, nodrošinot programmas izpildi
+un atmiņas pārvaldība.

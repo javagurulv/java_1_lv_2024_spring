@@ -1,0 +1,12 @@
+Uzrakstiet programmu, kas savieno (salīmē) virknes.
+
+Skiču risinājums {
+    String firstName = "Vasja";
+    String lastName = "Pupkin";
+    String result = firstName + lastName;
+    System.out.println();
+}
+
+Mērķi:
+- iepazīt String datu tipu;
+- iepazīties ar virkņu savienošanas darbību.

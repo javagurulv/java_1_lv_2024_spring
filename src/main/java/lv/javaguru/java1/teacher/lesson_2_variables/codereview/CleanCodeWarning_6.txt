@@ -1,0 +1,30 @@
+BRĪDINĀJUMS: Nosakot Java operācijas rezultāta veidu no visiem
+mainīgie, kas piedalās izteiksmē, izvēlas plašāko veidu.
+Ja visi mainīgie (ieskaitot pašu skaitli 3) ir veseli skaitļi
+datu tipiem, tad, vērtējot izteiksmes labo pusi, izvēlēsies Java
+rezultātam datu tips ir int, un tikai aiz labā
+daļa tiks pilnībā izpildīta un rezultāts tiks saglabāts
+atmiņa kā int (vesels skaitlis), tikai tad Java skatīsies
+mainīgā dubultā vidējā datu tips (pa kreisi) un konvertē
+int, lai dubultotu, un reklāmguvuma rezultāts tiks saglabāts vidējā mainīgajā.
+Tas nozīmē, ka vidējā mainīgā jūs nekad neiegūsit
+skaitlis ar daļskaitli, jo, aprēķinot labo pusi
+starprezultāts tiks saglabāts atmiņā int.
+
+int firstNumber = ...;
+int secondNumber = ...;
+int thirdNumber = ...;
+
+double average = (firstNumber + secondNumber + thirdNumber) / 3;
+
+BETTER:
+
+int firstNumber = ...;
+int secondNumber = ...;
+int thirdNumber = ...;
+
+double average = (firstNumber + secondNumber + thirdNumber) / 3.0D;
+
+3.0D - означает, что это число представлено в типе данных double.
+В таком случае справа самым широким типом данных из всех окажется
+именно double и при вычислении дробная часть не потеряется.

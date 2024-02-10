@@ -1,0 +1,14 @@
+Lieciet šai programmai darboties!
+
+class AttentionPlease {
+
+    System.out.println("Code outside the method will not compile!");
+
+    public static void main(String[] args) {
+
+    }
+}
+
+Šī uzdevuma mērķis ir pievērst jūsu uzmanību tam, kur jums vajadzētu
+atrodiet programmas kodu. Java programmēšanas valodā
+Programmas kodam ar komandām jāatrodas metodes iekšpusē.

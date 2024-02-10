@@ -1,0 +1,46 @@
+BRĪDINĀJUMS: norādiet pareizos mainīgo nosaukumus!
+Nosaukumiem jānorāda, kas tiek saglabāts šajos mainīgajos,
+un nedrīkst būt maldinoši viltojumi.
+
+double average = num1 - num2; // Šis mainīgā nosaukums ir maldinošs
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter first number :");
+        double num1 = sc.nextDouble() ;
+
+        System.out.println("Enter second number :");
+        double num2 = sc.nextDouble() ;
+
+        double average = num1 - num2;
+        System.out.println("Addition - " + average);
+
+        average = num1 + num2;
+        System.out.println("Subtraction - " + average);
+
+        average  = num1 * num2;
+        System.out.println("Multiplication - " + average);
+
+        average  = num1 / num2 ;
+        System.out.println("Division - " + average);
+
+
+BETTER:
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter first number :");
+        double num1 = sc.nextDouble() ;
+
+        System.out.println("Enter second number :");
+        double num2 = sc.nextDouble() ;
+
+        double subtractionResult = num1 - num2;
+        System.out.println("Subtraction - " + subtractionResult);
+
+        double additionResult = num1 + num2;
+        System.out.println("Addition - " + additionResult);
+
+        double multiplicationResult  = num1 * num2;
+        System.out.println("Multiplication - " + multiplicationResult);
+
+        double divisionResult  = num1 / num2 ;
+        System.out.println("Division - " + divisionResult);

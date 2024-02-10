@@ -1,0 +1,13 @@
+ĶMI kalkulatora uzdevums:
+Uzrakstiet programmu, kas pieprasa
+lietotājam ir savs svars (kilogramos) un augums
+(metros) un pēc tam to aprēķina un izvada
+ķermeņa masas indekss (ĶMI, ķermeņa masas indekss).
+ĶMI aprēķināšanas formula ir šāda: ĶMI = svars / (augstums * augums).
+
+Mērķi:
+- pētot jomu (priekšmetu jomu), kas ir ķermeņa masas indekss, ĶMI?
+   (izveidojiet savā pakotnē failu bmi.txt un kopējiet tajā atrasto failu
+   informācija par ĶMI internetā);
+
+- šajā uzdevumā izmantojamo datu tipu noteikšana.

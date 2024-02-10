@@ -1,0 +1,11 @@
+Pievienojiet iepriekš izveidotās klases Git un
+iepazīties ar komandām Git->commit, Git->push.
+
+Mērķi:
+- iemācīties pievienot failus Git (zaļš, komanda Git->Pievienot);
+
+- iemācīties veikt izmaiņas vietējā repozitorijā
+   Git (komanda Git->Commit);
+
+- iemācīties virzīt izmaiņas globālajā repozitorijā
+   (GitHub) (Git->Push).

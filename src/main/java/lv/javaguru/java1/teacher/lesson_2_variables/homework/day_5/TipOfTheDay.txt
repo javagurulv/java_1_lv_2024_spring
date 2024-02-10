@@ -1,0 +1,49 @@
+Kompilators ir programmatūra, kas pārveido kodu
+rakstīts programmēšanas valodā, mašīnkodā,
+dators saprotams.
+
+Rakstot programmu programmēšanas valodā,
+kompilators pārvērš jūsu kodu instrukciju secībā,
+ko dators var saprast un izpildīt.
+
+Iedomājieties, ka rakstāt vēstuli vienā valodā,
+un tavs draugs tikai runā citā valodā.
+Lai viņš varētu saprast jūsu vēstules saturu,
+jums tas ir jātulko viņa dzimtajā valodā.
+
+Kompilators veic līdzīgu uzdevumu - tas pārtulko jūsu kodu
+programmēšanas valodā datoram saprotamā valodā.
+
+Šeit ir norādītas galvenās kompilatora darbības:
+
+1. Analīze:
+Kompilators analizē jūsu kodu un pārbauda, ​​vai tas nav pieejams
+sintaktiskās un semantiskās kļūdas. Viņš pārbauda
+pareizu sintaksi, datu tipus un citus koda aspektus.
+
+2. Starpposma attēlojuma ģenerēšana:
+Kompilators izveido jūsu koda starpposma attēlojumu,
+kas atvieglo tā tālāku apstrādi un pārveidošanu
+mašīnkodā. Tā var būt abstrakta sintaktiska
+koks vai starpinstrukciju kopums.
+
+3. Optimizācija:
+Kompilators veic dažādas jūsu koda optimizācijas,
+lai uzlabotu tā veiktspēju un efektivitāti.
+Piemēram, tas var noņemt neizmantoto kodu,
+uzlabot algoritmus vai pārkārtot instrukcijas
+ātrākai izpildei.
+
+4. Mašīnkoda ģenerēšana:
+Pēdējā posmā kompilators ģenerē mašīnkodu - kopu
+norādījumus, ko saprot datora procesors.
+Šo mašīnas kodu var izpildīt dators un
+izpildiet programmā aprakstītos uzdevumus.
+
+Kompilatori ir svarīgs izstrādes rīks
+programmatūra. Tie ļauj programmētājiem rakstīt
+kodēt augsta līmeņa programmēšanas valodās un konvertēt
+to mašīnkodā, ko var izpildīt dators.
+
+Kompilācija palīdz izveidot efektīvas un pārnēsājamas programmas,
+kas var darboties dažādās platformās un arhitektūrās.

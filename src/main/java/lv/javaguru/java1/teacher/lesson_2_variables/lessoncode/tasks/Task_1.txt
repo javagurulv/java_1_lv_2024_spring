@@ -1,0 +1,6 @@
+Uzrakstiet programmu, kas izdrukā jūsu vārdu konsolē.
+
+Mērķis:
+- izveidot savu pakotni, izmantojot veidni (studenta_vārds_uzvārds_1);
+- izveidojiet savā paketē zem paketes lesson_2;
+- iepazīties ar komandu izvadi uz konsoli.

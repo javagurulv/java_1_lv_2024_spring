@@ -1,0 +1,24 @@
+Rakstot Java kodu, ir ierasts izmantot
+apzīmējums CamelCase (no angļu valodas “Camel Case”,
+arī "Humpbacked Register", "Camel Style") - rakstīšanas stils
+salikteņi, kuros vairāki vārdi ir rakstīti kopā bez atstarpēm,
+šajā gadījumā katrs vārds frāzē ir rakstīts ar lielo burtu.
+Stilu sauc CamelCase, jo lielie burti
+iekšā vārdi atgādina kamieļa kuprus (angļu: Camel).
+
+Arī Java ir ierasts, ka klases nosaukumā ir pirmais burts
+vienmēr dariet to ar lielajiem burtiem. Java kompilators un sintakse
+tas nav nepieciešams, taču stingra šī noteikuma ievērošana to ievērojami atvieglo
+lasīšanas programmas.
+
+Uzdevums: dodiet klasēm pareizus nosaukumus no Java koda viedokļa:
+
+book
+Bankaccount
+systemUnit
+Login_Service
+banktransaction
+task1
+
+Izveidojiet šīs klases ar nosaukumiem,
+kas ir pareizi no Java koda viedokļa.

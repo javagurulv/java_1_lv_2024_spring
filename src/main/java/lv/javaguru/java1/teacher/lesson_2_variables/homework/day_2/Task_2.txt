@@ -1,0 +1,4 @@
+Uzrakstiet konsoles programmu, kas pieprasa
+lietotājvārdu un konsolē parāda šādu tekstu:
+
+HELLO lietotājvārds!

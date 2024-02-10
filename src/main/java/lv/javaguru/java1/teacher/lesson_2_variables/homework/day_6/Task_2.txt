@@ -1,0 +1,25 @@
+Programmējot ir ērtāk un ātrāk visu izdarīt
+darbības, izmantojot tastatūru, nepārslēdzoties uz peli.
+
+Iemācieties izpildīt komandu Pull no Git bez peles!
+
+Alt (pa kreisi) + 1 - atver projekta logu, kurā ir redzama projekta struktūra.
+
+Izmantojiet augšupvērsto bultiņu, lai pārietu uz pašu projekta sakni.
+
+Izmantojot tastatūru, tiek izsaukta uznirstošā izvēlne.
+
+Bultiņas: uz augšu, uz leju, pa kreisi, pa labi – palīdz izvēlēties
+vēlamo izvēlnes vienumu.
+
+Git -> Repozitorijs -> Izvilkt...
+
+Ctrl (pa kreisi) + Enter ir zili iezīmētās pogas izsaukums
+jebkurā dialoglodziņā (mūsu gadījumā Pull).
+
+
+
+Komanda Pull jāizpilda pirms darba sākšanas,
+reālā projektā vismaz reizi dienā vai pat biežāk,
+saņemt no ģenerāļa aktuālo informāciju
+kodu krātuve.

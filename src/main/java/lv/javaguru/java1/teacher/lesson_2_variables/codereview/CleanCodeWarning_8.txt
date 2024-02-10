@@ -1,0 +1,13 @@
+BRĪDINĀJUMS: cirtainiem izmantojiet tikai vienu stilu
+iekavās. Vai nu ievietojiet iekavas tajā pašā rindā beigās, vai arī vienmēr
+jauna līnija. Labākais variants ir vienmēr izmantot cirtaini breketes
+rindas beigās. Tas uzlabos koda lasāmību.
+
+public class Task_8 { //тут фигурная скобка стоит в конце строки
+    public static void main(String[] args)
+    {  //šeit cirtainais skava atrodas rindas sākumā
+
+BETTER:
+
+public class Task_8 {  //cirtainais skava ir līnijas beigās
+    public static void main(String[] args) { //cirtainais skava ir līnijas beigās

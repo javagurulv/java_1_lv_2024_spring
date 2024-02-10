@@ -1,0 +1,18 @@
+Aritmētiskās darbības ar reāliem skaitļiem - kalkulators.
+Uzrakstiet programmu, kas veic visas aritmētiskās darbības
+(+/-/*/:) pār reāliem skaitļiem un izdrukā rezultātus konsolē.
+
+Skiču risinājums {
+    double number1 = 1.5;
+    double number2 = 2.7;
+    double additionResult = number1 + number2;
+    double subtractionResult = number1 - number2;
+    double multiplicationResult = number1 * number2;
+    double divisionResult = number1 / number2;
+    System.out.println();
+}
+
+Mērķi:
+- iepazīties ar dubulto datu tipu;
+- iepazīties ar operācijām ar reāliem skaitļiem;
+- mācieties izdomāt klases nosaukumu.

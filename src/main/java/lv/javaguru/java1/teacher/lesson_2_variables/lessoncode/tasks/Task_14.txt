@@ -1,0 +1,9 @@
+Uzdevums "Temperatūras pārveidotājs":
+Uzrakstiet programmu, kas pārveido temperatūru
+grādos pēc Celsija līdz Fārenheita un Kelvina grādiem.
+Jautājiet lietotājam temperatūru grādos
+Celsija un izvadiet rezultātu pēc Fārenheita
+un Kelvina grādos.
+
+Mērķi:
+- priekšmeta jomas izpēte (informāciju meklē Google).
