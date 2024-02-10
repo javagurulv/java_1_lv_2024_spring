@@ -1,0 +1,3 @@
+Izveidojiet metodi get() robotu klasē, lai iegūtu vērtību
+robota nosaukuma īpašības. Izmantojiet izveidoto metodi
+RobotApp klasē, lai konsolē izdrukātu abu robotu nosaukumus.

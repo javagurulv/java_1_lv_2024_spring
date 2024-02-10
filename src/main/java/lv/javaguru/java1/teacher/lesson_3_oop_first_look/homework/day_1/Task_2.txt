@@ -1,0 +1,3 @@
+Izveidojiet klasi RobotApp (App - Application) ar main() metodi.
+Main() metodē demonstrējiet divu robotu izveidi ar
+dažādi nosaukumi.

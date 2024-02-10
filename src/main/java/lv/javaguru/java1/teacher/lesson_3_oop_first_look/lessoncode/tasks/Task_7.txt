@@ -1,0 +1,9 @@
+Izveidojiet klasi, kas apraksta ābolu.
+Šīs klases objektiem ir jābūt šādām īpašībām:
+- dažādība;
+- krāsa;
+- svars.
+
+Mērķis:
+- iemācīties veidot nodarbības prezentācijai
+   sarežģīti objekti no reālās pasaules.

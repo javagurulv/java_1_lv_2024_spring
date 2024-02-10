@@ -1,0 +1,36 @@
+Pārbaudiet, vai izveidoto pakotņu struktūra
+atbilst skolotāja mapē esošo pakotņu struktūrai.
+
+teacher
+student_aleksandrs_padalko
+    lesson_2
+        day_1
+        day_2
+        day_3
+        day_4
+        day_5
+        day_6
+        day_7
+    lesson_3
+        day_1
+        day_2
+        day_3
+        day_4
+        day_5
+        day_6
+        day_7
+un tā tālāk ...
+
+Ja iepakojuma struktūra neatbilst
+norādīts iepriekš (tā, kas izmantota skolotāja mapē)
+lūdzu, izlabojiet to un nodrošiniet to precīzi
+ar pakotnes struktūru skolotāja mapē.
+
+Tas jādara šādu iemeslu dēļ:
+- jums būs vieglāk orientēties rakstītajā kodā;
+- skolotājam būs ērti pārbaudīt rakstīto
+   savu kodu (pārskatiet kodu).
+
+Ja jūsu paku struktūra neatbilst struktūrai
+skolotāja mapē esošās paketes nevarēs pārbaudīt
+savu darbu (veiciet koda pārskatīšanu).

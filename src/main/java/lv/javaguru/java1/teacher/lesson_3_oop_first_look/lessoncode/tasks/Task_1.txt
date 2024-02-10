@@ -1,0 +1,9 @@
+Izveidojiet klasi, kas apraksta bankas kontu.
+Šīs klases objektiem ir jābūt diviem rekvizītiem:
+- īpašnieks;
+- naudas daudzums
+   (vienkāršības labad šajā uzdevumā izmantojiet int datu tipu).
+
+Mērķi:
+- iemācīties deklarēt klases īpašības;
+- mācieties izdomāt klases nosaukumu.

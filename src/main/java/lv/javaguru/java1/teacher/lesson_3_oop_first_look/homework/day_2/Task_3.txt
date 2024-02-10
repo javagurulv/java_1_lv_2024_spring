@@ -1,0 +1,3 @@
+Izveidojiet get() metodes katram īpašumam klasē Auto.
+Izmantojiet izveidotās metodes
+CarApp klasē, lai konsolē parādītu automašīnas īpašuma vērtības.

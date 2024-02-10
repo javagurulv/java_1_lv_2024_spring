@@ -1,0 +1,3 @@
+Izveidojiet klasi CarApp (App - Application) ar main() metodi.
+Main() metodē demonstrē trīs mašīnu izveidi ar
+dažādas īpašuma vērtības.

@@ -1,0 +1,4 @@
+Izveidojiet klases, kas apraksta grāmatu un grāmatas nodaļu
+get() metodes katram īpašumam.
+Izmantojiet izveidotās metodes
+klasē BookApp, lai konsolei izvadītu rekvizītu vērtības.

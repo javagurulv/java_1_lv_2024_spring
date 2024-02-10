@@ -1,0 +1,8 @@
+BRĪDINĀJUMS. Nepievienojiet un neatstājiet kodā nevajadzīgas importēšanas komandas.
+
+import java.sql.SQLOutput;  - kāda šī klase ir? Vai esat pārliecināts, ka izmantojat to savā kodā?
+import java.util.Scanner;
+
+Neizmantotas (liekas) importēšanas komandas izstrādes vidē
+ir izcelti pelēkā krāsā, tos var droši noņemt no koda. Importēt
+komandas parāda, kuras trešās puses klases jūs izmantojat savā kodā.

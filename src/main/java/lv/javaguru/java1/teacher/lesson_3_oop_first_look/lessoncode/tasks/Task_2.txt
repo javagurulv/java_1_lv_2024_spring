@@ -1,0 +1,7 @@
+Izveidojiet BankAccountApp klasi (lietotne ir saīsinājums no Application)
+un savā galvenajā(...) metodē izveidot vairākus
+klases Bankas konts objekti.
+
+Mērķi:
+- iemācīties lietot noklusējuma klases konstruktoru;
+- iemācīties veidot objektus (klases instances).

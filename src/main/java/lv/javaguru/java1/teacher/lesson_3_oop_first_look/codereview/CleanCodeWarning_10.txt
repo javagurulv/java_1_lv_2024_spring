@@ -1,0 +1,53 @@
+BRĪDINĀJUMS: mulsinošas (sarežģītas) biznesa loģikas ieviešanas piemērs.
+Plus nepareizas biznesa loģikas ieviešanas piemērs.
+
+class Stock {
+    String companyName;
+    int currentPrice;
+    int minPrice;
+    int maxPrice;
+
+    public Stock(String companyName, int currentPrice) {
+        this.companyName = companyName;
+        this.currentPrice = currentPrice;
+        this.minPrice = currentPrice;
+        this.maxPrice = currentPrice;
+    }
+
+    public void updatePrice(int price) {
+        if (maxPrice > currentPrice && minPrice < currentPrice) {
+            this.currentPrice = price;
+        } else if (price > currentPrice) {
+            this.maxPrice = price;
+        } else if (price < currentPrice) {
+            this.minPrice = price;
+        }
+    }
+
+Kad mainīsies minimālā vai maksimālā akciju cena?
+Vai tas ir viegli saprotams no koda? Es tā nedomāju.
+Problēma ar šo kodu ir tā, ka tiek mainīts maksimums
+vai minimālā cena ir atkarīga no pirmā nosacījuma
+maxCena > pašreizējāCena && minCena < pašreizējāCena, nosacījumi,
+kas nosaka akcijas pašreizējās vērtības izmaiņas.
+
+Vai pašreizējā cena mainās pareizi? Kas notiek, ja strāva
+vai cena būs lielāka par maksimālo? Vai šajā gadījumā tas mainīsies?
+pašreizējā cena?
+
+Problēma ar šo kodu ir tāda, ka tiek mainīts maksimums, minimums
+un pašreizējās cenas ir atkarīgas viena no otras. Lai gan reālajā dzīvē
+maksimālās, minimālās un pašreizējās cenas noteikšana ir atšķirīga
+nav savstarpēji saistīti.
+
+Labāk:
+
+    public void updatePrice(int price) {
+        this.currentPrice = price;
+        if (price > maxPrice) {
+            this.maxPrice = price;
+        }
+        if (price < minPrice) {
+            this.minPrice = price;
+        }
+    }

@@ -1,0 +1,8 @@
+Izveidojiet uzdevuma konstruktoru klasē Bankas konts
+bankas konta īpašnieks.
+
+Mērķi:
+- iepazīties ar klases konstruktora jēdzienu un tā mērķi
+   izveidotā objekta īpašību sākotnējo vērtību iestatīšana;
+- parādīt, kā izskatās noklusējuma klases konstruktors;
+- iemācīties izveidot objektus (klases gadījumus) ar parametriem.

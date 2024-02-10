@@ -1,0 +1,3 @@
+Izveidojiet klasi DoctorDayVisitApp (Lietotne — lietojumprogramma) ar main() metodi.
+Main() metodē demonstrē divu objektu izveidi
+aprakstot dienas vizītes pie ārstiem.

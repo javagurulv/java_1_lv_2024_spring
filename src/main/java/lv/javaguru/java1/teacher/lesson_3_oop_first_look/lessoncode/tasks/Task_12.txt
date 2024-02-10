@@ -1,0 +1,11 @@
+Izveidojiet klasi, kurā aprakstīta atbilde uz aptaujas jautājumu.
+Šīs klases objektiem ir jābūt šādām īpašībām:
+- jautājuma teksts;
+- atbilde (formātā JĀ/NĒ).
+
+* - uz jautājumiem ir jāatbild tikai JĀ/NĒ formātā.
+
+Mērķis:
+- iemācīties veidot nodarbības prezentācijai
+   sarežģīti objekti no reālās pasaules;
+- iepazīties ar Būla datu tipu (patiess/false).

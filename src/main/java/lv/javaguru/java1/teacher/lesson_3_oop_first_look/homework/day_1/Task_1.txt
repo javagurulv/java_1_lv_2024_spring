@@ -1,0 +1,3 @@
+Izveidojiet robotu klasi ar vienu rekvizītu - nosaukumu.
+Klasei jābūt konstruktoram ar vienu parametru,
+lai iestatītu robota nosaukuma sākotnējo vērtību.

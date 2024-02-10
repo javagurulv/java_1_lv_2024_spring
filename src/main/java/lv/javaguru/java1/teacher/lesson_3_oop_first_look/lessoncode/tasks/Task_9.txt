@@ -1,0 +1,9 @@
+Izveidojiet klasi, kas raksturo valsti.
+Šīs klases objektiem ir jābūt šādām īpašībām:
+- valsts nosaukums (Latvija, Igaunija utt.);
+- valsts kods (LV, EE, ...);
+- iedzīvotāju skaits (valstī dzīvojošo iedzīvotāju skaits).
+
+Mērķis:
+- iemācīties veidot nodarbības prezentācijai
+   sarežģīti objekti no reālās pasaules.

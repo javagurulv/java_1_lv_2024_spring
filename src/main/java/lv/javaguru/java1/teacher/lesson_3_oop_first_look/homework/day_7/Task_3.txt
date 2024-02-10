@@ -1,0 +1,14 @@
+Izveidojiet klasi, kas apraksta suni.
+Suņa vārdam un vecumam jābūt norādītam pilnos gados.
+
+Padariet to tā, lai suņa objektu varētu izveidot tikai
+norādot savu segvārdu un vecumu.
+
+Iemāciet virtuālajam sunim “dot balsi” — kad sauc
+Suņa metodei jāatgriež frāze: "Mans segvārds ir" + suņa vārds.
+
+Iemāciet virtuālajam suni "svinēt dzimšanas dienu" - ar
+Izsaucot šo metodi, suņa vecumam vajadzētu palielināties par 1 gadu.
+
+Māciet sunim "pateikt, cik viņam gadu" - izsaucot šo metodi
+atgriezt suņa vecumu gados.

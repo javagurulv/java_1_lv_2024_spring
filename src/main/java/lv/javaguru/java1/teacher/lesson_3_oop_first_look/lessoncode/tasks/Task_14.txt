@@ -1,0 +1,24 @@
+Izveidojiet klases, kas raksturo ģimeni.
+Ģimene sastāv no mātes, tēva un diviem bērniem.
+
+Mamma iebilst:
+- Vārds
+- uzvārds
+- vecums pabeigtos gados
+
+Tēta iebildums:
+- Vārds
+- uzvārds
+- vecums pabeigtos gados
+
+Bērna objekts:
+- Vārds
+- uzvārds
+- vecums pilnos gados.
+
+Parādiet ar piemēru, kā izmantot izveidotās klases.
+Izveidojiet ar viņiem divas dažādas ģimenes.
+
+Mērķis:
+- iemācīties veidot nodarbības prezentācijai
+   sarežģīti objekti no reālās pasaules.

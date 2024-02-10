@@ -1,0 +1,8 @@
+BRĪDINĀJUMS: izmantojiet to pašu koda formatēšanas stilu
+visās vietās.
+
+Robot robot=new Robot();
+Robot robot1 = new Robot();
+
+Lai nodrošinātu koda lasāmību, zīmi = labāk ieskauj ar atstarpēm abās pusēs,
+kā tas izdarīts otrajā rindā.

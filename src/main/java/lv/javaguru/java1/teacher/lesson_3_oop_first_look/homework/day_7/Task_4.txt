@@ -1,0 +1,18 @@
+Izveidojiet klasi, kas apraksta mūzikas skaļruni.
+Mūzikas skaļrunim jābūt modelim, skaņas līmenim (no 0 līdz 10)
+un rekvizītu, kas apraksta, vai tas ir iespējots vai nav.
+
+Padariet to tā, lai mūzikas kolonnas objektu varētu izveidot tikai
+norādot modeli un izslēgtā stāvoklī (ar skaņas līmeni = 0).
+
+Māciet ieslēgt mūzikas skaļruni.
+
+Māciet mūzikas skaļrunim palielināt skaņas līmeni par 1,
+Šī darbība tiek veikta tikai tad, ja ir ieslēgts mūzikas skaļrunis.
+
+Māciet mūzikas skaļruni izslēgt, kamēr skaņas līmenis
+ir atiestatīts uz 0.
+
+Māciet mūzikas skaļrunim atgriezt skaņas līmeni,
+vai tas ir iespējots vai nē, un tā modelis (create get() metodes priekš
+visas mūzikas kolonnas īpašības).

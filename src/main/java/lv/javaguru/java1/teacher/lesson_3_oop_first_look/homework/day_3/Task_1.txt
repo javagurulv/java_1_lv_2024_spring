@@ -1,0 +1,14 @@
+Izveidojiet klases, kas apraksta grāmatu.
+Grāmatu raksturo šādas īpašības:
+- Vārds;
+- autors;
+- izdošanas gads;
+- 1. nodaļa;
+- 2. nodaļa;
+
+Grāmatas nodaļa ir objekts, kuram ir:
+- Vārds;
+- nodaļas teksts;
+
+Katrai klasei jābūt konstruktoram,
+lai iestatītu sākotnējo vērtību visiem klases rekvizītiem.

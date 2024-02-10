@@ -1,0 +1,5 @@
+Uzziniet, kā izveidot klases skatam
+sarežģīti objekti no reālās pasaules.
+Izprotiet, kā objekti var aprakstīt sarežģītus datus
+(tas ir dati, nevis algoritmi, par algoritmu aprakstu
+nodarbību veidā tiks apspriests vēlāk kursā).

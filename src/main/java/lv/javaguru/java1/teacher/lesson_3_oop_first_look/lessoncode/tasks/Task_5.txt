@@ -1,0 +1,10 @@
+Izveidojiet metodes klasē Bankas konts:
+- getOwner()
+- getMoneyAmount()
+lai iegūtu objekta īpašību vērtību pēc tā izveidošanas.
+Izmantojiet izveidotās get() metodes BankAccountApp klasē
+lai izvadītu objekta rekvizītu vērtības uz konsoli.
+
+Mērķi:
+- iemācīties izveidot get() metodes;
+- iemācīties izmantot get() metodes.

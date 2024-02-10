@@ -1,0 +1,3 @@
+Izveidojiet metodes Car set() klasē, lai iestatītu jaunu
+vērtības katram mašīnas īpašumam. Izmantojiet izveidotās metodes
+CarApp klasē automašīnu markas, krāsas un cenas maiņai.

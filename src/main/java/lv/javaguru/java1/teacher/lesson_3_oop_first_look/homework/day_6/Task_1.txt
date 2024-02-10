@@ -1,0 +1,23 @@
+Pārbaudiet visus izveidoto klašu nosaukumus.
+
+Java valodā ir ierasts nosaukt klases ar lielo burtu.
+Lai gan kompilators sniedz iespēju deklarēt klasi ar mazo burtu,
+tas ievērojami pasliktina Java koda lasāmību, īpaši lielās lietojumprogrammās,
+kuru drīz rakstīsi pats. Tāpēc mēs uzreiz mācāmies
+pareizi nosauc klases!
+
+Ja atrodat klasi, kas nosaukta ar mazu burtu, izlabojiet tās nosaukumu.
+
+Alt (pa kreisi) + 1 - atveriet projekta logu.
+
+Izmantojiet augšup, lejup, pa labi un pa kreisi vērstās bultiņas, lai atlasītu klasi
+kura vārdu vēlaties labot.
+
+Izmantojot tastatūru, tiek izsaukta uznirstošā izvēlne.
+
+Refaktors —> Pārdēvēt...
+
+Un mēs piešķiram jūsu klasei jaunu nosaukumu.
+
+Ātrs tastatūras īsinājumtaustiņš, kad kursi ir
+norādīti uz klases nosaukuma koda redaktorā: Shift (pa kreisi) + F6.

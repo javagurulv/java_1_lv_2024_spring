@@ -1,0 +1,11 @@
+Izveidojiet metodes klasē Bankas konts:
+- setOwner()
+- setMoneyAmount()
+lai mainītu objekta īpašību vērtību pēc tā izveidošanas.
+Izmantojiet izveidotās set() metodes BankAccountApp klasē
+lai mainītu objekta īpašības pēc tā izveidošanas.
+
+Mērķi:
+- iemācīties izveidot set() metodes;
+- iemācīties izmantot set() metodes vērtību maiņai
+   objekta īpašības pēc tā izveidošanas.

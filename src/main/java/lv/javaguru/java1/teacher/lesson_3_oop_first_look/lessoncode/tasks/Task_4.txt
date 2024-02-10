@@ -1,0 +1,6 @@
+Izveidojiet uzdevuma konstruktoru klasē Bankas konts
+bankas konta īpašnieks un kontā esošās naudas summa.
+
+Mērķi:
+- iemācīties izveidot klases konstruktoru ar vairākiem parametriem;
+- iemācīties lietot klases konstruktoru ar vairākiem parametriem.

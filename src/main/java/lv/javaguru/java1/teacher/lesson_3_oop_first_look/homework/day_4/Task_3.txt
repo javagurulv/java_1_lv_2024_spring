@@ -1,0 +1,4 @@
+Izveidot nodarbībās par
+get() metodes katram īpašumam.
+Izmantojiet izveidotās metodes
+DoctorDayVisitApp klasē, lai konsolei izvadītu rekvizītu vērtības.

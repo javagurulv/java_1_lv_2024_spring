@@ -1,0 +1,3 @@
+Izveidojiet metodi Robot set() klasē, lai iestatītu jaunu
+robota nosaukuma īpašuma vērtības. Izmantojiet izveidoto metodi
+RobotApp klasē, lai mainītu abu robotu nosaukumus pēc to izveides.

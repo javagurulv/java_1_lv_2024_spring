@@ -1,0 +1,40 @@
+BRĪDINĀJUMS: vienkāršojiet metodes kodu, izmantojot pārstrukturēšanas metodes
+Daļas koda pārvietošana uz atsevišķu metodi un atkārtota izmantošana.
+
+    public int maxOfThreeNumbers(int firstNumber, int secondNumber, int thirdNumber) {
+
+        if (firstNumber > secondNumber && firstNumber > thirdNumber) {
+            return firstNumber;
+        } else if (secondNumber > firstNumber && secondNumber > thirdNumber) {
+            return secondNumber;
+        } else if (firstNumber == secondNumber && firstNumber > thirdNumber) {
+            return firstNumber; //or return secondNumber
+        } else if (firstNumber == thirdNumber && firstNumber > secondNumber) {
+            return firstNumber; //or return  thirdNumber
+        } else if (secondNumber == thirdNumber && secondNumber > firstNumber) {
+            return secondNumber; // or return thirdNumber
+        } else if (firstNumber == secondNumber && secondNumber == thirdNumber) {
+            return secondNumber; //return any
+        } else {
+            return thirdNumber;
+        }
+    }
+
+Kāds ir maksimālais trīs skaitļu skaits? Atbildiet uz šo jautājumu ar galvu
+nav viegli, mums jāsāk aprakstīt sarežģītus apstākļus (pirmais numurs
+vairāk nekā otro un vairāk nekā trešo un tā tālāk). Tas ir skaidrs pirms mums
+uzdevums, kas prasa vienkāršošanu! Mēģiniet to sadalīt vairākos
+mazi apakšuzdevumi. Šķiet, ka tas ir vieglāk atrodams uzdevums
+maksimālais skaits divi. Atrodot maksimumu no pirmajiem diviem
+un, salīdzinot to ar trešo skaitli, mēs atradīsim maksimālo skaitli no trim.
+
+Labāk:
+
+    public int maxOfTwoNumbers(int firstNumber, int secondNumber) {
+        return Math.max(firstNumber, secondNumber);
+    }
+
+    public int maxOfThreeNumbers(int firstNumber, int secondNumber, int thirdNumber) {
+        int max = maxOfTwoNumbers(firstNumber, secondNumber);
+        return maxOfTwoNumbers(max, thirdNumber);
+    }

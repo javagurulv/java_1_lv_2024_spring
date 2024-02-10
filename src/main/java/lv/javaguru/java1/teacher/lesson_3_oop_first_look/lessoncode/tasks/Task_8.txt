@@ -1,0 +1,9 @@
+Izveidojiet klasi, kas apraksta klēpjdatoru.
+Šīs klases objektiem ir jābūt šādām īpašībām:
+- modelis;
+- diagonāles izmērs collās;
+- cena.
+
+Mērķis:
+- iemācīties veidot nodarbības prezentācijai
+   sarežģīti objekti no reālās pasaules.

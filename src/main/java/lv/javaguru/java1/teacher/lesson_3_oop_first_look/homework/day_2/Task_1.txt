@@ -1,0 +1,7 @@
+Izveidojiet klasi, kas apraksta mašīnu ar šādām īpašībām:
+- Zīmols;
+- krāsa;
+- cena.
+
+Klasei jābūt konstruktoram,
+lai iestatītu sākotnējo vērtību visiem klases rekvizītiem.

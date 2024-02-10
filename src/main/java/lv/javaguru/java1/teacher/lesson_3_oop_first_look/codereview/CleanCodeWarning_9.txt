@@ -1,0 +1,12 @@
+BRĪDINĀJUMS: piešķiriet testa metodēm jēgpilnus nosaukumus,
+kas runā par to, kas tiek pārbaudīts testā.
+
+    public void sumTest()
+
+    public void mulTest()
+
+BETTER:
+
+    public void shouldSumTwoNumbers()
+
+    public void shouldMultiplyTwoNumbers()

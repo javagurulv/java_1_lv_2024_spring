@@ -1,0 +1,28 @@
+BRĪDINĀJUMS: Nedeklarējiet vairākas klases vienā failā
+(Subjektīvs viedoklis).
+
+public class Book {
+
+}
+
+class BookDemo {
+
+}
+
+Jā, vairāku klašu deklarēšana vienā failā ir atļauta
+programmēšanas valodas noteikumi. Bet, manuprāt, tas ir labāk šādā veidā
+nedarīt, it īpaši, ja nākotnē plānojam rakstīt lielus
+un nopietni izaicinājumi. Un tāpēc. Klase ir konteiners, kas
+mēs varam ievietot kādu programmas funkcionalitātes daļu. Parasti
+mēs izceļam dažas funkcionalitātes, kas ir cieši saistītas viena ar otru,
+un sakārtot (iepakot) to atsevišķā klasē. Tā mēs
+Mēs fiziski atdalām šo funkcionalitātes daļu no visa pārējā.
+Izolēsim viņu. Un klase (un atsevišķais fails, kurā tā atrodas) ir forša
+piemērots šim uzdevumam. Vairāku klašu ievietošana vienā failā
+Mēs, kaut arī nedaudz, pārkāpjam izolācijas principu.
+Vairāku klašu ievietošana vienā failā ir saprātīga līmenī
+lietojumprogrammu arhitektūra, ja vēlamies grupēt vienuviet
+vairākas vienas un tās pašas saskarnes vai klases implementācijas, nevis
+parādiet tos ārpus paša faila (ja deklarējat klases kā
+privāti, tad tie nebūs pieejami pat citu klašu iekšienē
+to pašu iepakojumu).

@@ -1,0 +1,10 @@
+Izveidojiet klasi, kurā aprakstīts skolēna vērtējums kādā mācību priekšmetā skolā.
+Šīs klases objektiem ir jābūt šādām īpašībām:
+- studenta vārds;
+- skolēna uzvārds;
+- preces nosaukums;
+- pakāpe.
+
+Mērķis:
+- iemācīties veidot nodarbības prezentācijai
+   sarežģīti objekti no reālās pasaules.

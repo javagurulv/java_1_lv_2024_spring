@@ -1,0 +1,20 @@
+Izveidojiet nodarbības, kurās aprakstīta pacientu pieņemšana pie ārsta uz vienu dienu.
+Ārsts katru dienu veic tikai divas tikšanās:
+- 10:00-12:00;
+- 14:00-16:00.
+
+Vienojieties pie ārsta uz vienu dienu
+To raksturo šādas īpašības:
+- ārsta vārds un uzvārds;
+- specialitāte (zobu, ausu, deguna, rīkles, ...);
+- ierakstīšanas datums;
+- reģistrācija 10:00-12:00;
+- reģistrācija 14:00-16:00.
+
+Tikšanās ir objekts, kuram ir:
+- pacienta vārds un uzvārds;
+- diagnoze;
+- vizītes izmaksas.
+
+Katrai klasei jābūt konstruktoram,
+lai iestatītu sākotnējo vērtību visiem klases rekvizītiem.

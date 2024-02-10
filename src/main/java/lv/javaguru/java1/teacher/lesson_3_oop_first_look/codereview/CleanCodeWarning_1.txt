@@ -1,0 +1,8 @@
+BRĪDINĀJUMS: kodā ir nevajadzīgi komentāri
+
+    //constructor without parameters and body
+    public Robot(){
+    }
+
+Komentāri jums ir noderīgi studiju laikā, bet reālā kodā
+Labāk neatstāt šādus "bezjēdzīgus" komentārus.

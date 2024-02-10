@@ -1,0 +1,12 @@
+Izveidojiet klasi, kas apraksta lidmašīnas biļeti.
+Šīs klases objektiem ir jābūt šādām īpašībām:
+- izlidošanas lidostas nosaukums;
+- ierašanās lidostas nosaukums;
+- izbraukšanas datums un laiks;
+- ierašanās datums un laiks.
+
+Mērķis:
+- iemācīties veidot nodarbības prezentācijai
+   sarežģīti objekti no reālās pasaules;
+- iepazīstieties ar datu tipu java.util.Date
+   lai iestatītu datumu un laiku.

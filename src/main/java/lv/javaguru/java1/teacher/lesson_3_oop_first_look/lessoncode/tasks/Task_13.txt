@@ -1,0 +1,14 @@
+Izveidojiet klasi, kas apraksta anketu.
+Šīs klases objektiem ir jābūt šādām īpašībām:
+- tās personas vārds, kura atbild uz anketu;
+- divi jautājumi un atbildes uz tiem.
+
+* - jautājumiem un atbildēm izmantojiet izveidoto klasi
+iepriekšējā uzdevumā.
+
+Parādiet ar piemēru, kā izmantot izveidotās klases.
+Izmantojot tās, izveido divas aizpildītas anketas.
+
+Mērķis:
+- iemācīties veidot nodarbības prezentācijai
+   sarežģīti objekti no reālās pasaules.

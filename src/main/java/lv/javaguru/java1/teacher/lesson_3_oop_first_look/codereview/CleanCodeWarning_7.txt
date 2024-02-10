@@ -1,0 +1,20 @@
+BRĪDINĀJUMS: nesarežģīt kodu ar nevajadzīgu if paziņojumu.
+
+    public boolean isEven(int number) {
+        if (number % 2 == 0) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+Šajā gadījumā metode atgriež Būla vērtību un atbild uz jautājumu
+pāra skaitlis vai nē. Pārbauda, vai skaitlis ir vai nav
+skaitlis % 2 == 0. Tad kāpēc šīs pārbaudes rezultāts nav uzreiz
+atgriešanās kā metodes rezultāts?
+
+Labāk:
+
+    public boolean isEven(int number) {
+        return (number % 2) == 0;
+    }

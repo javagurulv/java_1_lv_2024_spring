@@ -1,0 +1,20 @@
+BRĪDINĀJUMS: grūti nolasāms kods! Bez atstarpēm visa rinda tiek sapludināta
+vienā veselumā, un cilvēkam ir jāpavada laiks (pat sekundes daļa)
+lai saprastu rakstītā koda nozīmi.
+
+programmingLanguage==programmingLanguage2
+
+Lai nodrošinātu koda lasāmību, zīmi == labāk ieskauj ar atstarpēm abās pusēs.
+
+Programmētāja produktivitāte lielā mērā ir atkarīga no darba slodzes
+ar ko viņš saskaras, lasot kodu. Ja kods ir uzrakstīts slikti,
+slikti formatēts, tad programmētājam, kas lasa jūsu kodu, tas būs jādara
+papildus izkāš, lai saprastu nozīmi. Pārmērīga spriedze
+vienā vietā, tad citā, tad trešajā noved pie straujas
+efektivitātes zudums. Programmētājs ir cilvēks, un cilvēkam ir resurss
+smadzenes un enerģija dienā ir ļoti ierobežota. Ja
+cilvēkam būs jāvelta vairāk laika lasīšanai un izpratnei
+kodu, tad tam būs mazāk resursu
+aktivitātes (jauna koda rakstīšana). Vienmēr atcerieties to
+Jūs pats varat izlasīt kodu pēc mēneša vai pusgada!
+Nepakļaujiet sevi rakstītā koda sliktajai kvalitātei.

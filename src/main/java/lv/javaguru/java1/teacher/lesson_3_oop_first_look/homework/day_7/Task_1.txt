@@ -1,0 +1,6 @@
+Izveidojiet klasi - apli, kam vajadzētu būt šādām īpašībām:
+Īpašības: rādiuss (dubultais rādiuss),
+Metodes: platības aprēķināšana (dubultā aprēķinsArea()).
+
+Klase, kas deklarē apļa formu, jāsauc par "Apli".
+Klase ar darba demonstrāciju jāsauc par "CircleDemo".
