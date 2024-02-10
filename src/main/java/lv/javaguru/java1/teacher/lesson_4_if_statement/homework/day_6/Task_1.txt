@@ -1,0 +1,8 @@
+Gada sezonas noteikšana.
+
+Uzrakstiet programmu, kas aizņem mēnesi
+kā skaitlis no 1 līdz 12. Programmā ir jāparāda gada sezona,
+kam šis mēnesis atbilst.
+
+Atrodiet informāciju par slēdža paziņojumu, izpētiet to
+un izmantojiet to, lai noteiktu sezonu.

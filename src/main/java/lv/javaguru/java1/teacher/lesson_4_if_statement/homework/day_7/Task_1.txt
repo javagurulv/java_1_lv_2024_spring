@@ -1,0 +1,20 @@
+Pārbaudiet visu kodu un pārliecinieties, vai mainīgo nosaukumi ir pareizi
+tavējais sākas ar mazu burtu.
+
+Ja jūs saskaraties ar mainīgo, kas nosaukts ar lielo burtu,
+pēc tam mainiet tā nosaukumu tā, lai tas
+sākās ar mazo (mazo) burtu.
+
+Tā ir izplatīta kļūda, nosaucot mainīgos ar lielo burtu.
+
+Java valodā klases tiek izsauktas ar lielo burtu. Ja jūs zvanāt
+mainīgie ir ar lielo burtu, tie tiks sajaukti ar nosaukumiem
+klasēm, un kods kļūs grūtāk nolasāms.
+
+Java ir neizteikts noteikums — ja kodā redzat,
+kaut kas nosaukts ar lielo burtu (lielo burtu)
+burti, tad tas ir klases vai interfeisa nosaukums
+(Par šo koncepciju jūs uzzināsit vēlāk kursa laikā).
+
+Neizmantojiet mainīgos lielumus
+lai jūsu kods būtu vieglāk lasāms un saprotams!

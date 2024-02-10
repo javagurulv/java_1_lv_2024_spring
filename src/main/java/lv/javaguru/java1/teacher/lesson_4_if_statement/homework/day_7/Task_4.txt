@@ -1,0 +1,39 @@
+Pārbaudiet visus savus mācību priekšmetus un noņemiet no tiem publiskās piekļuves identifikatoru.
+
+Ir divi veidi, kā izveidot klases Java:
+- norādot atslēgvārdu public;
+- nenorādot publisko atslēgvārdu.
+
+Kad veidojat klasi, izstrādes vide automātiski
+pievieno publisku atslēgvārdu klases deklarācijai.
+
+Publiskais atslēgvārds ir piekļuves identifikators.
+Ja klases deklarēšanas laikā tika izmantots publiskais atslēgvārds,
+tad tas nozīmē, ka jūsu izveidoto klasi var izmantot
+jebkur citur projektā. Tas nozīmē, ka izveidots
+jūsu klasi var importēt un izmantot citi
+kursa dalībnieki. Parasti tas var notikt kļūdas dēļ,
+jo visiem klasēm ir vienādi nosaukumi.
+
+Lai jūsu nodarbības netiktu izmantotas
+citi kursa dalībnieki kļūdaini izdzēsa publisko atslēgvārdu
+savā klases deklarācijā.
+
+Pirms:
+public class Robot {
+
+}
+
+Pēc:
+class Robot {
+
+}
+
+Ja jūsu klase ir deklarēta bez publiskā atslēgvārda, tas nozīmē
+ka to var lietot tikai iepakojumā, kurā šis
+klase deklarēta. Tas neļaus citiem izmantot jūsu nodarbības
+kursa dalībnieki kļūdas pēc.
+
+Turpmāk visa kursa laikā veidojiet nodarbības bez publiskā atslēgvārda.
+Izmantojiet publisko atslēgvārdu tikai tad, kad vēlaties to darīt
+jūsu nodarbības ir pieejamas ikvienam.

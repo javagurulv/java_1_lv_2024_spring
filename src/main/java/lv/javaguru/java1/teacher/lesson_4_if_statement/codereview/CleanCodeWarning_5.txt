@@ -1,0 +1,32 @@
+BRĪDINĀJUMS: izmantojiet >= tā vietā, lai atsevišķi pārbaudītu == un >
+ar nosacījumu, ka atgrieztais rezultāts abos gadījumos ir vienāds.
+
+    int maxOfTwoNumbers(int firstNumber, int secondNumber) {
+        if (firstNumber > secondNumber) {
+            return  firstNumber;
+        } else if (firstNumber == secondNumber) {
+            return firstNumber;
+        } else {
+            return secondNumber;
+        }
+    }
+
+BETTER:
+
+    int maxOfTwoNumbers(int firstNumber, int secondNumber) {
+        if (firstNumber >= secondNumber) {
+            return  firstNumber;
+        } else {
+            return secondNumber;
+        }
+    }
+
+THE BEST:
+
+    int maxOfTwoNumbers(int firstNumber, int secondNumber) {
+        if (firstNumber > secondNumber) {
+            return  firstNumber;
+        } else {
+            return secondNumber;
+        }
+    }

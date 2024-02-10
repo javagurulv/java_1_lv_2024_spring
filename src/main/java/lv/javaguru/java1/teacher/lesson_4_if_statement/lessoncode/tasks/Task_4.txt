@@ -1,0 +1,15 @@
+Izveidojiet programmu, kas pieprasa lietotājam
+vesels skaitlis un drukā uz konsoli "Numurs ir pozitīvs!"
+ja skaitlis ir pozitīvs.
+
+Mērķi:
+- ievads if() operatoram.
+
+Risinājuma skice:
+{
+    int number = 10;
+    boolean isPositive = number > 0;
+    if (isPositive) {
+        System.out.println("Number is positive!");
+    }
+}

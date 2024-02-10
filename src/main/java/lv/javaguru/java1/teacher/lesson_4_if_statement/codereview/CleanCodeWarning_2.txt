@@ -1,0 +1,68 @@
+BRĪDINĀJUMS: nepietiekams testa pārklājums.
+Ja jūsu kodā ir paziņojums if, tas nozīmē, ka tas ir
+pozitīvais un negatīvais scenārijs. Tāpēc rakstot
+automatizētās pārbaudes, jums ir jāpārbauda abi scenāriji,
+nevis tikai viens.
+
+class Calculator {
+
+    public boolean isEven(int number) {
+        if (number % 2 == 0) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+}
+
+class CalculatorTest {
+    public static void main(String[] args) {
+        CalculatorTest testRunner = new CalculatorTest();
+        testRunner.testIsEven();
+    }
+
+    public void testIsEven() {
+        Calculator subject = new Calculator();
+        boolean actualResult = subject.isEven(9);
+        if (actualResult) {
+            System.out.println("Test has passed!");
+        } else {
+            System.out.println("Test failed");
+            System.out.println("Expected: true but actual: " + actualResult);
+        }
+    }
+}
+
+BETTER:
+
+class CalculatorTest {
+    public static void main(String[] args) {
+        CalculatorTest testRunner = new CalculatorTest();
+        testRunner.testIsEven();
+        testRunner.testIsOdd();
+    }
+
+    public void testIsEven() {
+        Calculator subject = new Calculator();
+        boolean actualResult = subject.isEven(9);
+        if (actualResult) {
+            System.out.println("Test has passed!");
+        } else {
+            System.out.println("Test failed");
+            System.out.println("Expected: true but actual: " + actualResult);
+        }
+    }
+
+    public void testIsOdd() {
+        Calculator subject = new Calculator();
+        boolean actualResult = subject.isEven(10);
+        if (!actualResult) {
+            System.out.println("Test has passed!");
+        } else {
+            System.out.println("Test failed");
+            System.out.println("Expected: true but actual: " + actualResult);
+        }
+    }
+
+}

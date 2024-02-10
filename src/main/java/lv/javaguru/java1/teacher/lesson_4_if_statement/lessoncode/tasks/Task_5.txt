@@ -1,0 +1,16 @@
+Izveidojiet programmu, kas pieņem divus veselus skaitļus
+skaitļi un konsolē parāda, kurš no tiem ir lielāks.
+
+Mērķi:
+- ievads operatoram if() else.
+
+Risinājuma skice:
+{
+    int number1 = 10;
+    int number2 = 22;
+    if (number1 > number2) {
+        System.out.println("Biggest number is " + number1);
+    } else {
+        System.out.println("Biggest number is " + number2);
+    }
+}

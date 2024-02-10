@@ -1,0 +1,12 @@
+BRĪDINĀJUMS: Nedeklarējiet vairākus klases rekvizītus vienā rindā,
+Tas padara kodu mazāk lasāmu!
+
+class Dog {
+    String nickName, color;
+
+BETTER:
+
+class Dog {
+    String nickName;
+    String color;
+

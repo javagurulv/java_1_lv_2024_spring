@@ -1,0 +1,15 @@
+Sistēma aizdevuma likmes noteikšanai.
+
+Banka piedāvā šādus kredīta nosacījumus:
+
+Ja klienta kredītreitings ir virs 700,
+procentu likme ir 5%.
+
+Ja jūsu kredītreitings ir no 650 līdz 700,
+procentu likme ir 7%.
+
+Ja jūsu kredītreitings ir zem 650,
+procentu likme ir 10%.
+
+Izveidojiet programmu, kas pieņem kredītus
+klienta reitingu un parāda atbilstošo procentu likmi.

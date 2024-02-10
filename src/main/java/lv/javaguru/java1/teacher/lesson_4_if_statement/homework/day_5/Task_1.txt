@@ -1,0 +1,11 @@
+Maksas par kredītkartes izmantošanu aprēķins.
+
+Par skaidras naudas izņemšanu no kredītkartes banka iekasē komisijas maksu.
+
+Ja izņemšanas summa ir mazāka par 1000 eiro, komisijas maksa ir 3% no summas.
+
+Ja summa ir no 1000 līdz 5000 eiro, komisijas maksa ir 4%.
+
+Ja summa ir lielāka par 5000 eiro, komisijas maksa ir 5%.
+
+Programmai ir jāpieņem izņemšanas summa un jāparāda komisijas summa.

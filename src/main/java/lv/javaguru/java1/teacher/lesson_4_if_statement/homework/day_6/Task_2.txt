@@ -1,0 +1,6 @@
+Skaitļu pārvēršana romiešu cipariem.
+
+Uzrakstiet programmu, kas kā ievadi izmanto skaitli no 1 līdz 10
+un izvada tā romiešu ciparu ekvivalentu.
+
+Izmantojiet slēdzi, lai noteiktu atbilstošo romiešu ciparu.

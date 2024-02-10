@@ -1,0 +1,45 @@
+BRĪDINĀJUMS: tādi skaitļi kā PI skaitlis matemātikā ir konstantes
+(nemainīgas vērtības). Tas ir, to vērtība nemainās visā garumā
+visu programmas izpildes laiku. Tas pats nav piemērots konstantēm
+Sintakse ir tāda pati kā mainīgo deklarēšanai. Lai deklarētu konstantes
+Java klases līmenī izmanto šādu sintaksi:
+
+static final double NAME_OF_CONSTANT_IN_UPPER_CASE = CONSTANT_VALUE;
+
+
+class Circle {
+
+    double radius;
+    double pi = 3.14159;
+
+    Circle(double radius) {
+        this.radius = radius;
+    }
+
+    void calculateArea() {
+        double result = pi * this.radius * this.radius;
+        System.out.println("Circle radius is " + this.radius + ". Circle area is " + result);
+    }
+
+}
+
+BETTER:
+
+class Circle {
+
+    double radius;
+    static final double PI = 3.14159;
+
+    Circle(double radius) {
+        this.radius = radius;
+    }
+
+    void calculateArea() {
+        double result = PI * this.radius * this.radius;
+        System.out.println("Circle radius is " + this.radius + ". Circle area is " + result);
+    }
+
+}
+
+Arī šajā kodā rezultāta mainīgais ir slikti nosaukts, tas netiek parādīts
+tajā glabātā būtība. Labāk: aplisApgabals vai tikai laukums.

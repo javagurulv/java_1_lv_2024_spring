@@ -1,0 +1,21 @@
+Izveidojiet programmu, kas pieprasa lietotājam
+veselu skaitli un izdrukā konsolē:
+- Skaitlis ir negatīvs = patiess/nepatiess
+- Skaitlis ir nulle = patiess/nepatiess
+- Skaitlis ir pozitīvs = patiess/nepatiess.
+
+Mērķi:
+- operatora iepazīšana (<);
+- operatora iepazīšana (==);
+- iepazīšanās ar operatoru (>).
+
+Risinājuma skice:
+{
+    int number = 10;
+    boolean isNegative = number < 0;
+    boolean isZero = number == 0;
+    boolean isPositive = number > 0;
+    System.out.println("Number is negative = " + isNegative);
+    System.out.println("Number is zero = " + isZero);
+    System.out.println("Number is positive = " + isPositive);
+}

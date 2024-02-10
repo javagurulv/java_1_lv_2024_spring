@@ -1,0 +1,24 @@
+Vērtēt punktus.
+Uzrakstiet programmu, kas ņem skolēna atzīmi
+no 0 līdz 100 un parāda atbilstošo burtu pakāpi
+(A — 90–100, B — 80–89, C — 70–79, D — 60–69 un F — 0–59).
+
+Mērķi:
+- iepazīšanās ar if() else if() operatoriem.
+
+Risinājuma skice:
+{
+    int mark = 7;
+    if ((mark >= 90) && (mark <= 100)) {
+        System.out.println("A");
+    } else if ((mark >= 80) && (mark <= 89)) {
+        System.out.println("B");
+    } else if ((mark >= 70) && (mark <= 79)) {
+         System.out.println("C");
+    } else if ((mark >= 60) && (mark <= 69)) {
+          System.out.println("D");
+    } else if ((mark >= 0) && (mark <= 59)) {
+          System.out.println("F");
+    }
+
+}

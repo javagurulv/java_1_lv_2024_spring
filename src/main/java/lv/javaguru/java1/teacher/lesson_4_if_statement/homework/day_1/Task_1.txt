@@ -1,0 +1,10 @@
+Uzrakstiet programmu, kas jautā lietotājam
+vesels skaitlis no 1 līdz 7 un parāda atbilstošo
+šis datums ir nedēļas diena. Atrisiniet problēmu, izmantojot if () else priekšrakstu.
+
+Piemērs:
+Ievade: 3
+Secinājums: trešdiena
+
+Ievade: 5
+Secinājums: piektdiena

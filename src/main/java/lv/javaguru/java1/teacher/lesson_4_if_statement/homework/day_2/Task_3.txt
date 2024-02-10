@@ -1,0 +1,6 @@
+Uzrakstiet programmu, kas jautā lietotājam
+divi veseli skaitļi un izvadi konsolei:
+- "Cipari ir vienādi" - ja skaitļi ir vienādi;
+- "Cipari ir dažādi" - ja skaitļi nav vienādi.
+
+Risinājumā izmantojiet operatoru, kas nav vienāds (!=).

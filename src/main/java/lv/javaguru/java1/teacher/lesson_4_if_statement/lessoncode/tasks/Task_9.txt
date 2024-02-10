@@ -1,0 +1,11 @@
+Nodokļu aprēķināšanas programma.
+
+Aprēķiniet nodokli pilsonim, pamatojoties uz viņa
+gada ienākumi pēc šādas skalas:
+
+Ienākumi līdz 10 000 - nodoklis 10%
+Ienākumi no 10 000 līdz 20 000 - nodoklis 15%
+Ienākumi no 20 000 un vairāk - nodoklis 20%
+
+Lietotājs ievada savus gada ienākumus,
+programma aprēķina un parāda nodokļa summu.

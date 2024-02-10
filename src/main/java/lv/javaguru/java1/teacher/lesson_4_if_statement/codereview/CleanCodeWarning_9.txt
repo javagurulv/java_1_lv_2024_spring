@@ -1,0 +1,31 @@
+BRĪDINĀJUMS: slikts klases nosaukums! Slikts rekvizīta nosaukums (lietotāja ievade),
+slikts pat() metodes nosaukums (nesatur darbības vārdu).
+
+public class evenOrOdd {
+    int userinput;
+
+    public evenOrOdd(int userinput) {
+        this.userinput = userinput;
+    }
+
+    boolean even(){
+        return this.userinput % 2 == 0;
+    }
+
+}
+
+
+BETTER:
+
+public class EvenChecker {
+    int number;
+
+    public EvenChecker(int number) {
+        this.number = number;
+    }
+
+    boolean isEven(){
+        return this.number % 2 == 0;
+    }
+
+}

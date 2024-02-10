@@ -1,0 +1,12 @@
+Atlaižu sistēma veikalam.
+
+Veikals piedāvā šādas atlaides:
+
+Ja pircējs iegādājās preces vairāk nekā 5000 vērtībā,
+viņš saņem 10% atlaidi.
+
+Ja pircējs iegādājās preces vairāk nekā 10 000 vērtībā,
+viņš saņem 20% atlaidi.
+
+Izveidojiet programmu, kas pieņem pirkuma summu un rezultātus
+maksājamā summa, ņemot vērā iespējamās atlaides.

@@ -1,0 +1,39 @@
+Pārbaudiet visu savu kodu un pārliecinieties, ka tas attiecas
+uz katru korpusu ja paziņojumā izmantojat pareizo atkāpi.
+
+Pareiza koda formatēšana padara programmu daudz vieglāk lasāmu.
+
+Piemērs bez atkāpes:
+        currentPrice = newPrice;
+        if (newPrice < minPrice) {
+        minPrice = newPrice;
+        }
+        if (newPrice > maxPrice) {
+        maxPrice = newPrice;
+        }
+
+Piemērs ar nepareizu atkāpi:
+        currentPrice = newPrice;
+        if (newPrice < minPrice) {
+        minPrice = newPrice;      // vienā vietā nav ievilkuma
+        }
+        if (newPrice > maxPrice) {
+            maxPrice = newPrice;  // citā ir
+        }
+
+
+Piemērs ar pareizu atkāpi:
+        currentPrice = newPrice;
+        if (newPrice < minPrice) {
+            minPrice = newPrice;
+        }
+        if (newPrice > maxPrice) {
+            maxPrice = newPrice;
+        }
+
+
+Kods ar pareizu formatējumu (atkāpi) ir lasāms
+un to ir daudz vieglāk saprast.
+
+Neaizmirstiet izmantot savās programmās
+atkāpe, rakstot ja paziņojuma pamattekstu!

@@ -1,0 +1,6 @@
+Uzrakstiet programmu, kas jautā lietotājam
+vesels skaitlis un tiek izdrukāts konsolē neatkarīgi no tā, vai tas ir pāra skaitlis vai nav.
+
+Padoms: izmantojiet, lai noteiktu, vai skaitlis ir vai nav.
+nodaļas darbības atlikums (%). Ja atlikušais dalījums ar 2
+ir vienāds ar nulli, tad skaitlis ir pāra, pretējā gadījumā tas nav pāra.

@@ -1,0 +1,52 @@
+Stock klase ir jāievieš šādi:
+lai uzzinātu pašreizējo akciju cenu,
+kā arī tā maksimālās un minimālās izmaksas
+pastāvēšanas periodā.
+
+Krājumu klasei ir jābūt šādām īpašībām:
+
+Īpašības:
+- Uzņēmuma nosaukums
+- Pašreizējā vērtība
+- Minimālās izmaksas
+- Maksimālās izmaksas
+
+Metodes:
+- Atjauniniet pašreizējo akciju cenas atjauninājumuCena()
+- Saņemiet informāciju par akciju getPriceInformation()
+
+Nepieciešams uzņēmuma nosaukums un sākotnējās izmaksas
+noteikts akcijas izveides laikā.
+Pašreizējās, minimālās un maksimālās izmaksas
+jāmaina, tikai izmantojot metodi updatePrice().
+
+Uzrakstiet StockTest klases testa skriptus.
+
+
+10 -> 12 -> 5 -> 7 -> 99 -> 77
+
+Maksimālais testa gadījums:
+
+Akciju cenas izmaiņas: 999 = Maksimālā cena norādītajam periodam: 999
+Akciju cenas izmaiņas: 999 -> 1 = Maksimālā cena norādītajam periodam: 999
+Akciju cenas izmaiņas: 999 -> 2 -> 1000 = Maksimālā cena norādītajam periodam: 1000
+Akciju cenas izmaiņas: 999 -> 2 -> 1000 -> 8 = maksimālā cena norādītajam periodam: 1000
+Akciju cenas izmaiņas: 9 -> 27 = Maksimālā cena norādītajam periodam: 27
+
+
+Piemērs darbam ar Stock klasi:
+
+Stock google = new Stock("GOOG", 10);
+Virkne priceInformation = google.getPriceInformation();
+System.out.println(informācija par cenu);
+)
+google.updatePrice(15);
+google.updatePrice(7);
+google.updatePrice(14);
+)
+cenaInformācija = google.getPriceInformation();
+System.out.println(informācija par cenu);
+
+Pēc koda izpildes izvadei konsolē jābūt šādai:
+Uzņēmums = "GOOG", pašreizējā cena = 10, minimālā cena = 10, maksimālā cena = 10
+Uzņēmums = "GOOG", pašreizējā cena = 14, minimālā cena = 7, maksimālā cena = 15

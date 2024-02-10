@@ -1,0 +1,52 @@
+BRĪDINĀJUMS: Slikta metode ir tā, kas nodrošina vairāk nekā vienu
+darbības viena vietā. Tālāk esošajā piemērā aprēķinātArea() metode
+aprēķina apļa laukumu un parāda to konsolē. Programmēšanā
+šādas metodes tiek uzskatītas par sliktām un no tām jāizvairās. Tie nav
+universāli, tos būs grūti piemērot dažādās situācijās.
+Šajā gadījumā aprēķinsArea() metode satur gan biznesa loģiku
+(aprēķinot laukumu, izmantojot formulu, un izvadot rezultātus konsolei,
+programmas daļa, kas saistīta ar datu parādīšanu finālam
+lietotājs). Piemēram, kas notiks, ja jūsu programma nākotnē
+vai būs tīmekļa saskarne? Vai jūs varēsiet izmantot kodu, ko es uzrakstīju?
+zemāk?
+
+class Circle {
+
+    double radius;
+
+    Circle(double radius) {
+        this.radius = radius;
+    }
+
+    void calculateArea() {
+        double result = Math.PI * this.radius * this.radius;
+        System.out.println("Circle radius is " + this.radius + ". Circle area is " + result);
+    }
+
+}
+
+BETTER:
+
+class Circle {
+
+    double radius;
+
+    Circle(double radius) {
+        this.radius = radius;
+    }
+
+    double calculateArea() {
+        return Math.PI * this.radius * this.radius;
+    }
+
+}
+
+class CircleDemo {
+
+    public static void main(String[] args) {
+        Circle circle = new Circle(10);
+        double area = circleOne.calculateArea();
+        System.out.println("Circle area = " + area);
+    }
+
+}

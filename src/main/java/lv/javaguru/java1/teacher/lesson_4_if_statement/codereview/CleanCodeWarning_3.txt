@@ -1,0 +1,25 @@
+BRĪDINĀJUMS: nepārkāpjiet koda formatēšanas noteikumus!
+To pārkāpšana noved pie koda lasāmības pasliktināšanās
+un uz programmētāja negatīvo reakciju, kurš to darīs
+izlasiet savu kodu (piemēram, koda pārskatīšanas procesa laikā).
+
+    String company;
+    int currentPrice;
+    int maxPrice;
+    int minPrice;
+
+
+??????  WTF - kāpēc šeit ir tik daudz tukšu rindu??????
+
+
+    public Stock(String company, int currentPrice){
+
+
+BETTER:
+
+    String company;
+    int currentPrice;
+    int maxPrice;
+    int minPrice;
+
+    public Stock(String company, int currentPrice){

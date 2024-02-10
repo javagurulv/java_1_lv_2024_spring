@@ -1,0 +1,7 @@
+Izveidojiet divus Būla mainīgos isTrue un isFalse.
+Iestatiet tos attiecīgi uz patiesu un nepatiesu.
+Izdrukājiet to vērtības konsolē.
+
+Mērķi:
+- iepazīšanās ar Būla datu tipu;
+- iepazīšanās ar patiesajām un nepatiesajām vērtībām.

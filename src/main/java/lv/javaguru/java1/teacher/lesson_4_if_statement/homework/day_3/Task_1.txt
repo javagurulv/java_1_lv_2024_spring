@@ -1,0 +1,7 @@
+Uzrakstiet programmu, kas jautā lietotājam
+trīs veselus skaitļus un izdrukā lielāko no tiem konsolē.
+
+PS: pirms šīs problēmas risināšanas pierakstiet to uz papīra
+vai komentāros visi iespējamie varianti (kombinācijas).
+Tas palīdzēs pareizi uzrakstīt programmu!
+Jūs nevarat izmantot matemātikas klasi.

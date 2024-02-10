@@ -1,0 +1,42 @@
+BRĪDINĀJUMS: Neveidojiet nevajadzīgus rekvizītus klases līmenī.
+Kāda jēga no skaitļa un isEven īpašībām?
+Šīs klases īpašības netiek izmantotas!
+
+class Calculator {
+    public int number;
+    boolean isEven = true;
+
+    public boolean isEven(int number) {
+        if (number % 2 == 0) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+}
+
+BETTER:
+
+class Calculator {
+
+    public boolean isEven(int number) {
+        if (number % 2 == 0) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+}
+
+Kalkulatora klase ir tipisks klases bez īpašībām piemērs.
+Šādas klases parasti tiek izveidotas, lai iekapsulētu
+datu apstrādes algoritma (izolācija). Algoritms
+tas var būt jebkas, šajā gadījumā tas ir kods
+pāra skaitļa definīcija.
+
+Tas ir svarīgs punkts: programmēšanas pasaulē nodarbības
+var aprakstīt ne tikai objektus no reālās pasaules
+ko attēlo to īpašības (suņa vārds, vecums utt.),
+bet arī objekti, kas eksistē tikai virtuālajā
+pasaulē un satur datu apstrādes algoritmu aprakstu.

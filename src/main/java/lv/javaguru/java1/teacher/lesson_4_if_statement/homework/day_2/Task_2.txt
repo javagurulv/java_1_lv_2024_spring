@@ -1,0 +1,3 @@
+Uzrakstiet programmu, kas jautā lietotājam
+divus veselus skaitļus un izdrukā mazāko no tiem konsolē.
+Jūs nevarat izmantot matemātikas klasi, jūs varat izmantot tikai tad, ja citādi.

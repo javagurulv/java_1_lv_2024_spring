@@ -1,0 +1,14 @@
+Izveidojiet programmu, kas pieprasa lietotājam
+veselu skaitli un izdrukā konsolē:
+- Skaitlis ir negatīvs = patiess (ja skaitlis ir negatīvs)
+- Skaitlis ir negatīvs = nepatiess (ja skaitlis ir pozitīvs).
+
+Mērķi:
+- ievads operatoram (<).
+
+Risinājuma skice:
+{
+    int number = 10;
+    boolean isNegative = number < 0;
+    System.out.println("Number is negative = " + isNegative);
+}

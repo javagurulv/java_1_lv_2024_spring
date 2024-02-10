@@ -1,0 +1,27 @@
+Pārbaudiet visu savu kodu un pārbaudiet katru, ja
+operatoram ir cirtaini iekavas {}, kas norobežo tā pamattekstu.
+
+Lai gan cirtainie iekavas {}, deklarējot if paziņojumu
+ir neobligāts elements, norādiet tos savā programmā
+ļoti vēlams. Cirtaini breketes padara to daudz vieglāku
+palasot programmu, tos lietojot uzreiz var redzēt, kas
+daļa koda pieder priekšraksta if pamattekstam, bet daļa nepieder.
+
+Piemērs bez iekavām:
+        currentPrice = newPrice;
+        if (newPrice < minPrice)
+            minPrice = newPrice;
+         else if (newPrice > maxPrice)
+            maxPrice = newPrice;
+
+Piemērs ar iekavām:
+        currentPrice = newPrice;
+        if (newPrice < minPrice) {
+            minPrice = newPrice;
+        } else if (newPrice > maxPrice) {
+            maxPrice = newPrice;
+        }
+
+Kods ar iekavām ir daudz vieglāk lasāms,
+Lasot to, jums nav jādomā
+kāda koda daļa pieder priekšrakstam if.

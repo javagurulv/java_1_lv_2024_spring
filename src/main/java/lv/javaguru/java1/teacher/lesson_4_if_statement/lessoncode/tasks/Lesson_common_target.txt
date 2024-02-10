@@ -1,0 +1,7 @@
+Iepazīstieties ar Būla datu tipu
+un tā vērtības (patiesa/nepatiesa).
+Iemācieties izmantot if() else priekšrakstu
+nosacījumu sastādīšanai.
+Apsveriet esošās iespējas
+apvienojot vienkāršus nosacījumus, izmantojot
+operatori AND (&&) un OR (||).
