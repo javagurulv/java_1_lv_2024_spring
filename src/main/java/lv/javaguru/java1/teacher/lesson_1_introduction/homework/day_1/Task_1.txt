@@ -1,0 +1,4 @@
+Instalējiet jaunāko izstrādes vidi
+(IntelliJ Idea Community Edition) savā datorā:
+
+https://www.jetbrains.com/idea/

@@ -1,0 +1,5 @@
+Instalējiet datorā izstrādes vidi (Idea Community Edition),
+versiju kontroles sistēma (Git),
+instalēt JDK,
+klonēt projektu no GitHub,
+uzrakstiet un palaidiet programmu "Sveika pasaule!".

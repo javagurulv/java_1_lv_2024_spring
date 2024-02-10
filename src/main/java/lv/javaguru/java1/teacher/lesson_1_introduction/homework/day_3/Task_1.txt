@@ -1,0 +1,15 @@
+Izveidojiet savienojumu ar IntelliJ Idea izstrādes vidi
+Git ir instalēts jūsu datorā.
+
+Lai savienotu Git ar IntelliJ Idea izstrādes vidi, jums ir nepieciešams:
+- atveriet izstrādes vides iestatījumus: Fails -> Iestatījumi ...
+- dialoglodziņā, kas tiek atvērts augšējā kreisajā stūrī
+   Meklēšanas laukā ierakstiet "Git" un nospiediet taustiņu Enter
+- pārliecinieties, vai grāmatzīme ir atlasīta kreisajā pusē zem meklēšanas lauka
+   Versiju kontrole -> Git
+- loga galvenajā daļā pa labi pašā augšā atradums
+   Ceļš uz Git izpildāmo failu: un šajā laukā norādiet ceļu uz failu git.exe
+   (šis fails atrodas mapē, kurā instalējāt Git/bin/git.exe)
+- pa labi no izpildāmā lauka Ceļš uz Git: ir poga Pārbaudīt,
+   pēc tam, kad ir norādīts ceļš uz failu git.exe, noklikšķiniet uz tā un, ja esat pabeidzis
+   Viss ir pareizi, tad zem lauka parādīsies uzraksts ar Git versiju.

@@ -1,0 +1,6 @@
+Lejupielādējiet projektu no GitHub vietējā datorā.
+
+https://www.jetbrains.com/help/idea/manage-projects-hosted-on-github.html#clone-from-GitHub
+
+Ja esat jau atvēris projektu, jums jāizvēlas:
+Fails --> Jauns --> Projekts no versijas kontroles...

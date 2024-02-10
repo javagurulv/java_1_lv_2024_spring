@@ -1,0 +1,8 @@
+Izveidojiet savienojumu ar IntelliJ Idea izstrādes vidi
+JDK versija 18:
+
+SDK: corretto-18 Amazon Corretto versija 18.0.2
+Valodas līmenis: SDK noklusējums (18 — nav jaunu valodu funkciju)
+
+
+https://www.jetbrains.com/help/idea/sdk.html#set-up-jdk

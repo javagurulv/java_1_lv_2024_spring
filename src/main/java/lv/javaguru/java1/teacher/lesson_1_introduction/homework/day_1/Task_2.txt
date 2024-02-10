@@ -1,0 +1,3 @@
+Instalējiet Git versiju kontroles sistēmu savā datorā:
+
+https://git-scm.com/

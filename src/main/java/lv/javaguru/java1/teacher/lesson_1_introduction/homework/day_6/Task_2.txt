@@ -1,0 +1,7 @@
+Uzrakstiet Java programmu, kas konsolē izdrukās divu skaitļu reizināšanas rezultātu.
+Jūs varat izdomāt jebkādus skaitļus; tie nav jāpieprasa lietotājam.
+
+Testa dati:
+50*3
+Gaidāmais Rezultāts:
+150

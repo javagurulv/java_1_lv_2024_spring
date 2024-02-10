@@ -1,0 +1,10 @@
+Pieprasiet no skolotāja un iegūstiet piekļuvi
+GitHub kursu krātuve.
+
+1. Skolotājam ir jānosūta savs pieteikšanās vārds no GitHub.
+2. Skolotājs jūs pievienos projekta līdzstrādniekiem.
+3. Jūs saņemsiet e-pasta ziņojumu no GitHub ar lūgumu apstiprināt
+    viņu dalību projektā.
+4. Apstipriniet savu dalību, un jums būs rakstīšanas tiesības.
+
+Pēc tam jūs varat ievietot savu kodu repozitorijā!

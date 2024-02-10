@@ -1,0 +1,22 @@
+Izveidosim pirmo klasi!
+
+Pirms Java klašu izveides ņemiet vērā, ka mapei "src" jābūt atzīmētai kā "Sources root" (vai avota koda mapei).
+Lai atzīmētu "src" kā avotu sakni, ar peles labo pogu noklikšķiniet uz mapes "src", pēc tam atlasiet izvēlni "Atzīmēt direktoriju kā" un atlasiet "Avota sakne".
+
+Lai nodrošinātu, ka tagad varat rakstīt programmas Java, izveidojiet klasi "Hello World".
+
+Klasē izveidojiet "galveno" metodi.
+
+     public static void main(String[] args) {
+
+     }
+
+Metodes "galvenajā" iekšpusē ierakstiet: System.out.println("Sveika pasaule!");
+
+     public static void main(String[] args) {
+         System.out.println("Sveika pasaule!");
+     }
+
+Ar peles labo pogu noklikšķiniet jebkurā izveidotajā klasē un atlasiet Palaist.
+
+Ja viss ir instalēts pareizi, tad konsolē redzēsit tekstu "Sveika pasaule!"
