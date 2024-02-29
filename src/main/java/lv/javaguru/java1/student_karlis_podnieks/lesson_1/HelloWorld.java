@@ -1,4 +1,4 @@
-package lv.javaguru.java1.student_karlis_podnieks.lesson_1;
+package lv.javaguru.java1.student_karlis_podnieks;
 
 class HelloWorld {
     public static void main(String[] args) {
