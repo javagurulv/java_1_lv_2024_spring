@@ -3,7 +3,7 @@ package lv.javaguru.java1.student_karlis_podnieks.lesson_2;
 public class Aritmetic {
     public static void main(String[] args) {
         //Saskaitisana
-        int a = 10;
+        int a = 50;
         int b = 30;
         int result = a + b;
         System.out.println("Summa " + result);
